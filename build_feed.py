@@ -220,6 +220,75 @@ def pick(cands, quota, label):
     return picked
 
 
+HTML_TPL = """<!doctype html>
+<html lang="zh-CN"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>每日精选 · {date}</title>
+<style>
+  :root{{ --fs: 20px; }}
+  html{{background:#fff;color:#111}}
+  body{{max-width:42rem;margin:0 auto;padding:1.2rem 1.1rem 4rem;
+       font:var(--fs)/1.75 -apple-system,"HarmonyOS Sans SC","Noto Sans CJK SC","Microsoft YaHei",sans-serif}}
+  h1{{font-size:1.35em;margin:.2rem 0 .1rem}}
+  .sub{{color:#666;font-size:.78em;margin:0 0 1rem}}
+  .bar{{position:sticky;top:0;background:#fff;border-bottom:1px solid #ddd;
+       padding:.5rem 0;display:flex;gap:.5rem;align-items:center;margin-bottom:1rem}}
+  .bar button{{font:inherit;font-size:.8em;padding:.25em .7em;border:1px solid #111;
+       background:#fff;color:#111;border-radius:.3em}}
+  .bar .sp{{color:#888;font-size:.75em}}
+  h2{{font-size:.9em;letter-spacing:.08em;color:#444;border-left:3px solid #111;
+      padding-left:.5em;margin:1.6rem 0 .6rem}}
+  ol{{list-style:none;padding:0;margin:0}}
+  li{{padding:.7rem 0;border-bottom:1px solid #eee}}
+  li a{{color:#111;text-decoration:none;font-weight:600;font-size:1em;line-height:1.5}}
+  li .m{{display:block;color:#777;font-size:.74em;margin-top:.25rem}}
+  footer{{margin-top:2.5rem;color:#999;font-size:.72em}}
+</style></head><body>
+<h1>每日精选</h1>
+<p class="sub">{date} · {count} 篇 · 每天 07:00 自动更新</p>
+<div class="bar">
+  <button onclick="fs(-1)">A−</button>
+  <button onclick="fs(1)">A＋</button>
+  <span class="sp" id="hint">字号</span>
+</div>
+{body}
+<footer>四道闸门：时效 36h · 去重 · 正文字数 · 分类配额。摘要只给来源，判断留给原文。</footer>
+<script>
+var cur = parseInt(localStorage.getItem('fs') || '20');
+function apply(){{ document.documentElement.style.setProperty('--fs', cur + 'px');
+  document.getElementById('hint').textContent = '字号 ' + cur + 'px'; }}
+function fs(d){{ cur = Math.min(34, Math.max(15, cur + d));
+  localStorage.setItem('fs', cur); apply(); }}
+apply();
+</script></body></html>"""
+
+
+def render_html(chosen, date_str, count):
+    """生成手机/电脑浏览器直接读的页面（鸿蒙等装不了 APK 的设备用这个）。"""
+    esc = lambda s: html.escape(s or "", quote=True)
+    groups = {}
+    order = []
+    for cat, it in chosen:
+        if cat not in groups:
+            groups[cat] = []
+            order.append(cat)
+        groups[cat].append(it)
+    out = []
+    for cat in order:
+        out.append(f"<h2>{esc(cat)}</h2><ol>")
+        for it in groups[cat]:
+            d = it["date"].astimezone(timezone(timedelta(hours=8)))
+            out.append(
+                "<li><a href=\"{link}\" target=\"_blank\" rel=\"noopener\">{title}</a>"
+                "<span class=\"m\">{feed} · {chars} 字 · {t}</span></li>".format(
+                    link=esc(it["link"]), title=esc(it["title"]), feed=esc(it["feed"]),
+                    chars=max(it["chars"], it.get("chars_page", 0)),
+                    t=d.strftime("%m-%d %H:%M")))
+        out.append("</ol>")
+    return HTML_TPL.format(date=date_str, count=count, body="\n".join(out))
+
+
 def main():
     cfg = json.load(open(os.path.join(HERE, "feeds.json"), encoding="utf-8"))
     quota = cfg["quota"]
@@ -299,6 +368,8 @@ def main():
 
     open(os.path.join(OUT_DIR, "today.xml"), "w", encoding="utf-8").write(xml)
     open(os.path.join(ARCHIVE_DIR, f"{date_str}.xml"), "w", encoding="utf-8").write(xml)
+    open(os.path.join(OUT_DIR, "read.html"), "w", encoding="utf-8").write(
+        render_html(chosen, date_str, len(chosen)))
 
     print(f"\n最终 {len(chosen)} 篇，已写 docs/today.xml + archive/{date_str}.xml")
     for cat, it in chosen:
