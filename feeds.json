@@ -1,170 +1,170 @@
 {
-  "quota": {
-    "ai": 9,
-    "military": 5,
-    "digital": 4,
-    "finance": 4,
-    "science": 3,
-    "auto": 3
-  },
-  "labels": {
-    "ai": "AI与工具",
-    "military": "军事航空",
-    "digital": "数码消费",
-    "finance": "时事财经",
-    "science": "科普影像",
-    "auto": "汽车"
-  },
-  "categories": [
+ "quota": {
+  "ai": 9,
+  "military": 5,
+  "digital": 4,
+  "finance": 4,
+  "science": 3,
+  "auto": 3
+ },
+ "labels": {
+  "ai": "AI与工具",
+  "military": "军事航空",
+  "digital": "数码消费",
+  "finance": "时事财经",
+  "science": "科普影像",
+  "auto": "汽车"
+ },
+ "categories": [
+  {
+   "key": "ai",
+   "feeds": [
     {
-      "key": "ai",
-      "feeds": [
-        {
-          "name": "量子位",
-          "url": "https://www.qbitai.com/feed"
-        },
-        {
-          "name": "少数派",
-          "url": "https://sspai.com/feed"
-        },
-        {
-          "name": "Solidot",
-          "url": "https://www.solidot.org/index.rss"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://hnrss.org/frontpage"
-        },
-        {
-          "name": "Simon Willison",
-          "url": "https://simonwillison.net/atom/everything/"
-        },
-        {
-          "name": "阮一峰的网络日志",
-          "url": "https://www.ruanyifeng.com/blog/atom.xml"
-        },
-        {
-          "name": "雷峰网",
-          "url": "https://www.leiphone.com/feed"
-        },
-        {
-          "name": "InfoQ中文",
-          "url": "https://www.infoq.cn/feed"
-        },
-        {
-          "name": "钛媒体",
-          "url": "https://www.tmtpost.com/rss.xml"
-        }
-      ]
+     "name": "量子位",
+     "url": "https://www.qbitai.com/feed"
     },
     {
-      "key": "digital",
-      "feeds": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/rss/"
-        },
-        {
-          "name": "数字尾巴",
-          "url": "https://www.dgtle.com/rss/dgtle.xml"
-        },
-        {
-          "name": "什么值得买",
-          "url": "https://post.smzdm.com/feed"
-        },
-        {
-          "name": "爱范儿",
-          "url": "https://www.ifanr.com/feed"
-        },
-        {
-          "name": "cnBeta",
-          "url": "https://www.cnbeta.com.tw/backend.php"
-        }
-      ]
+     "name": "少数派",
+     "url": "https://sspai.com/feed"
     },
     {
-      "key": "military",
-      "feeds": [
-        {
-          "name": "The War Zone",
-          "url": "https://www.thedrive.com/the-war-zone/rss"
-        },
-        {
-          "name": "Defense News",
-          "url": "https://www.defensenews.com/arc/outboundfeeds/rss/"
-        },
-        {
-          "name": "Defence Blog",
-          "url": "https://defence-blog.com/feed/"
-        },
-        {
-          "name": "Naval News",
-          "url": "https://www.navalnews.com/feed/"
-        },
-        {
-          "name": "Breaking Defense",
-          "url": "https://breakingdefense.com/feed/"
-        }
-      ]
+     "name": "Solidot",
+     "url": "https://www.solidot.org/index.rss"
     },
     {
-      "key": "finance",
-      "feeds": [
-        {
-          "name": "FT中文网",
-          "url": "https://www.ftchinese.com/rss/news"
-        },
-        {
-          "name": "BBC中文",
-          "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml"
-        },
-        {
-          "name": "纽约时报中文网",
-          "url": "https://cn.nytimes.com/rss/"
-        },
-        {
-          "name": "端传媒",
-          "url": "https://theinitium.com/rss"
-        },
-        {
-          "name": "德国之声中文",
-          "url": "https://rss.dw.com/rdf/rss-chi-all"
-        }
-      ]
+     "name": "Hacker News",
+     "url": "https://hnrss.org/frontpage"
     },
     {
-      "key": "science",
-      "feeds": [
-        {
-          "name": "NASA 新闻",
-          "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss"
-        },
-        {
-          "name": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/rss/top/science.xml"
-        },
-        {
-          "name": "中科院之声",
-          "url": "https://www.cas.cn/rss/kyjz.xml"
-        }
-      ]
+     "name": "Simon Willison",
+     "url": "https://simonwillison.net/atom/everything/"
     },
     {
-      "key": "auto",
-      "feeds": [
-        {
-          "name": "CarNewsChina",
-          "url": "https://carnewschina.com/feed/"
-        },
-        {
-          "name": "InsideEVs",
-          "url": "https://insideevs.com/rss/articles/all/"
-        },
-        {
-          "name": "Electrek",
-          "url": "https://electrek.co/feed/"
-        }
-      ]
+     "name": "阮一峰的网络日志",
+     "url": "https://www.ruanyifeng.com/blog/atom.xml"
+    },
+    {
+     "name": "雷峰网",
+     "url": "https://www.leiphone.com/feed"
+    },
+    {
+     "name": "InfoQ中文",
+     "url": "https://www.infoq.cn/feed"
+    },
+    {
+     "name": "钛媒体",
+     "url": "https://www.tmtpost.com/rss.xml"
     }
-  ]
+   ]
+  },
+  {
+   "key": "digital",
+   "feeds": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/rss/"
+    },
+    {
+     "name": "数字尾巴",
+     "url": "https://www.dgtle.com/rss/dgtle.xml"
+    },
+    {
+     "name": "什么值得买",
+     "url": "https://post.smzdm.com/feed"
+    },
+    {
+     "name": "爱范儿",
+     "url": "https://www.ifanr.com/feed"
+    },
+    {
+     "name": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/backend.php"
+    }
+   ]
+  },
+  {
+   "key": "military",
+   "feeds": [
+    {
+     "name": "The War Zone",
+     "url": "https://www.thedrive.com/the-war-zone/rss"
+    },
+    {
+     "name": "Defense News",
+     "url": "https://www.defensenews.com/arc/outboundfeeds/rss/"
+    },
+    {
+     "name": "Defence Blog",
+     "url": "https://defence-blog.com/feed/"
+    },
+    {
+     "name": "Naval News",
+     "url": "https://www.navalnews.com/feed/"
+    },
+    {
+     "name": "Breaking Defense",
+     "url": "https://breakingdefense.com/feed/"
+    }
+   ]
+  },
+  {
+   "key": "finance",
+   "feeds": [
+    {
+     "name": "FT中文网",
+     "url": "https://www.ftchinese.com/rss/news"
+    },
+    {
+     "name": "BBC中文",
+     "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml"
+    },
+    {
+     "name": "纽约时报中文网",
+     "url": "https://cn.nytimes.com/rss/"
+    },
+    {
+     "name": "端传媒",
+     "url": "https://theinitium.com/rss"
+    },
+    {
+     "name": "德国之声中文",
+     "url": "https://rss.dw.com/rdf/rss-chi-all"
+    }
+   ]
+  },
+  {
+   "key": "science",
+   "feeds": [
+    {
+     "name": "NASA 新闻",
+     "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+    },
+    {
+     "name": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/rss/top/science.xml"
+    },
+    {
+     "name": "科学网",
+     "url": "https://www.sciencenet.cn/xml/rss.aspx?type=news"
+    }
+   ]
+  },
+  {
+   "key": "auto",
+   "feeds": [
+    {
+     "name": "CarNewsChina",
+     "url": "https://carnewschina.com/feed/"
+    },
+    {
+     "name": "InsideEVs",
+     "url": "https://insideevs.com/rss/articles/all/"
+    },
+    {
+     "name": "Electrek",
+     "url": "https://electrek.co/feed/"
+    }
+   ]
+  }
+ ]
 }

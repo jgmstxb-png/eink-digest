@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
 <title>首长每日精选</title>
-<link>https://example.invalid/daily</link>
-<description>四道闸门筛出 21 篇 · 2026-11-01</description>
-<lastBuildDate>Sun, 01 Nov 2026 12:45:22 +0000</lastBuildDate>
+<link>https://jgmstxb-png.github.io/eink-digest/today.xml</link>
+<description>四道闸门筛出 26 篇 · 2026-11-01</description>
+<lastBuildDate>Sun, 01 Nov 2026 15:09:47 +0000</lastBuildDate>
 <language>zh-cn</language>
+<item>
+<title>聪明的AI，会像司马光一样“砸缸”吗？</title>
+<link>https://news.sciencenet.cn/htmlnews/2026/11/574031.shtm</link>
+<guid isPermaLink="false">b7a9da0c91c041f9e7783f57429cc4a9</guid>
+<pubDate>Sun, 01 Nov 2026 23:05:37 +0000</pubDate>
+<category>科普影像</category>
+<description>【科普影像】科学网 · 1427 字</description>
+</item>
 <item>
 <title>复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践</title>
 <link>https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&amp;amp;utm_medium=article</link>
@@ -22,20 +30,60 @@
 <description>【AI与工具】InfoQ中文 · 3772 字</description>
 </item>
 <item>
-<title>阿维塔官宣 10 月交付 7,056 辆，全系车型推送 AVATR.OS 6.1.0 系统</title>
-<link>https://www.ithome.com/1/020/828.htm</link>
-<guid isPermaLink="false">4e88890ceaba97b6f67f5db87fa69210</guid>
-<pubDate>Sun, 01 Nov 2026 12:45:20 +0000</pubDate>
-<category>数码消费</category>
-<description>【数码消费】IT之家 · 692 字</description>
+<title>提升本科人才教学质量应“五维发力”</title>
+<link>https://news.sciencenet.cn/htmlnews/2026/11/574015.shtm</link>
+<guid isPermaLink="false">9581003f25476012383240f319a831d6</guid>
+<pubDate>Sun, 01 Nov 2026 18:33:33 +0000</pubDate>
+<category>科普影像</category>
+<description>【科普影像】科学网 · 3107 字</description>
 </item>
 <item>
-<title>7499 → 5718 元：vivo X300 Ultra 国补新低，配 3+2 蔡司大师镜头群</title>
-<link>https://www.ithome.com/1/020/827.htm</link>
-<guid isPermaLink="false">410c1daa335f7b1d06cd3be72027bcbe</guid>
-<pubDate>Sun, 01 Nov 2026 12:39:41 +0000</pubDate>
+<title>《影之刃零》Steam 峰值在线玩家 83 万创新高，连续四天走高</title>
+<link>https://www.ithome.com/1/020/840.htm</link>
+<guid isPermaLink="false">d88f9b028d41c429ab696916acd008d0</guid>
+<pubDate>Sun, 01 Nov 2026 15:01:27 +0000</pubDate>
 <category>数码消费</category>
-<description>【数码消费】IT之家 · 975 字</description>
+<description>【数码消费】IT之家 · 724 字</description>
+</item>
+<item>
+<title>赛力斯：问界将全面进入欧洲市场，公司不参与价格战和规模内卷</title>
+<link>https://www.ithome.com/1/020/839.htm</link>
+<guid isPermaLink="false">770f93e4937fae28f51a08862cc3489c</guid>
+<pubDate>Sun, 01 Nov 2026 14:47:24 +0000</pubDate>
+<category>数码消费</category>
+<description>【数码消费】IT之家 · 491 字</description>
+</item>
+<item>
+<title>OpenAI、谷歌、微软和 Anthropic 联手推行 AI 数据抓取退出标准</title>
+<link>https://www.ithome.com/1/020/837.htm</link>
+<guid isPermaLink="false">73c8a6e35effb56b9b2ebbe1eabb0871</guid>
+<pubDate>Sun, 01 Nov 2026 14:19:52 +0000</pubDate>
+<category>数码消费</category>
+<description>【数码消费】IT之家 · 743 字</description>
+</item>
+<item>
+<title>Novellas with Groff</title>
+<link>https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html</link>
+<guid isPermaLink="false">447d86b60f00db6896b79664fc8cb740</guid>
+<pubDate>Sun, 01 Nov 2026 13:51:41 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】Hacker News · 3864 字</description>
+</item>
+<item>
+<title>三年前布局，今年爆火丨西湖大学成立新中心</title>
+<link>https://www.qbitai.com/2026/11/507076.html</link>
+<guid isPermaLink="false">e5f6718c4c01a235bac4a8574f3ac120</guid>
+<pubDate>Sun, 01 Nov 2026 13:28:10 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】量子位 · 3486 字</description>
+</item>
+<item>
+<title>Sarawat and Tuwaiq Strategic Projects Strengthen Royal Saudi Naval Forces, Localize Maritime Defense</title>
+<link>https://www.navalnews.com/naval-news/2026/11/sarawat-and-tuwaiq-strategic-projects-strengthen-royal-saudi-naval-forces-localize-maritime-defense/</link>
+<guid isPermaLink="false">74a8927ec12892ca6282d35137314ba6</guid>
+<pubDate>Sun, 01 Nov 2026 13:11:27 +0000</pubDate>
+<category>军事航空</category>
+<description>【军事航空】Naval News · 658 字</description>
 </item>
 <item>
 <title>赫拉利深度访谈：真正的 AI 危机来了！</title>
@@ -51,15 +99,7 @@
 <guid isPermaLink="false">f2682b9892fb8ff5ca432c1c4954c400</guid>
 <pubDate>Sun, 01 Nov 2026 11:45:13 +0000</pubDate>
 <category>AI与工具</category>
-<description>【AI与工具】Solidot · 500 字</description>
-</item>
-<item>
-<title>Sam Altman says DRAM capacity should go to data centers, not personal computers</title>
-<link>https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization</link>
-<guid isPermaLink="false">d84037f748b423fbdd6bc34c3e9b032b</guid>
-<pubDate>Sun, 01 Nov 2026 10:28:22 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】Hacker News · 7613 字</description>
+<description>【AI与工具】Solidot · 513 字</description>
 </item>
 <item>
 <title>Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成</title>
@@ -76,14 +116,6 @@
 <pubDate>Sun, 01 Nov 2026 08:05:55 +0000</pubDate>
 <category>军事航空</category>
 <description>【军事航空】Naval News · 1140 字</description>
-</item>
-<item>
-<title>清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考</title>
-<link>https://www.qbitai.com/2026/11/507031.html</link>
-<guid isPermaLink="false">ed4913be23b04fbacbab30930d604ba1</guid>
-<pubDate>Sun, 01 Nov 2026 08:02:37 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】量子位 · 2698 字</description>
 </item>
 <item>
 <title>怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」</title>
@@ -150,27 +182,35 @@
 <description>【时事财经】端传媒 · 846 字</description>
 </item>
 <item>
-<title>Chess Dynamics Wins £3M Contract for Indonesian Bung Tomo-Class Frigates</title>
-<link>https://www.navalnews.com/naval-news/2026/10/chess-dynamics-wins-3m-contract-for-indonesian-bung-tomo-class-frigates/</link>
-<guid isPermaLink="false">d6803c46556e086d4c36ae7f92bcbd80</guid>
-<pubDate>Sat, 31 Oct 2026 07:48:30 +0000</pubDate>
+<title>Surface-To-Air Missiles Deployed To Protect Trump’s Mar-a-Lago Estate</title>
+<link>https://www.twz.com/land/avenger-assemble-surface-to-air-missiles-deployed-to-protect-trumps-mar-a-lago-estate</link>
+<guid isPermaLink="false">474b79af936617ff9fbad586b4b9f7a3</guid>
+<pubDate>Sat, 31 Oct 2026 00:19:01 +0000</pubDate>
 <category>军事航空</category>
-<description>【军事航空】Naval News · 418 字</description>
+<description>【军事航空】The War Zone · 1416 字</description>
 </item>
 <item>
-<title>APOD: 2026 October 31 – Night on a Spooky Planet</title>
-<link>https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/</link>
-<guid isPermaLink="false">6937a10f353558a2ff32e7566e380c1c</guid>
-<pubDate>Sat, 31 Oct 2026 04:05:00 +0000</pubDate>
-<category>科普影像</category>
-<description>【科普影像】NASA 新闻 · 221 字</description>
+<title>Stealthy GJ-21 Drone Has Launched And Recovered From Type 076 Amphibious Assault Ship, China Claims</title>
+<link>https://www.twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims</link>
+<guid isPermaLink="false">703011cf3b261f1f053bfc1a98bc2a13</guid>
+<pubDate>Fri, 30 Oct 2026 21:32:50 +0000</pubDate>
+<category>军事航空</category>
+<description>【军事航空】The War Zone · 1635 字</description>
 </item>
 <item>
-<title>刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等</title>
-<link>https://www.ifanr.com/1687012?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=</link>
-<guid isPermaLink="false">acc7de1c1dc434d8106fcf29d2328f10</guid>
-<pubDate>Sat, 31 Oct 2026 01:37:05 +0000</pubDate>
-<category>数码消费</category>
-<description>【数码消费】爱范儿 · 2883 字</description>
+<title>Bluetti 288Wh Elite 30 Mini power station exclusive pre-order deals, Aventon Abound SR + LR cargo e-bikes first savings, more</title>
+<link>https://electrek.co/2026/10/30/bluetti-288wh-elite-30-mini-power-station-aventon-abound-sr-lr-cargo-e-bikes-more/</link>
+<guid isPermaLink="false">129273dea6c0ef172bee3f0cf7ec92b8</guid>
+<pubDate>Fri, 30 Oct 2026 18:00:00 +0000</pubDate>
+<category>汽车</category>
+<description>【汽车】Electrek · 169 字</description>
+</item>
+<item>
+<title>‘Open the hives’ — Why France is turning tank gunners into FPV pilots</title>
+<link>https://www.defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots/</link>
+<guid isPermaLink="false">f33d75714c93c4955e680ebf5edc6da1</guid>
+<pubDate>Fri, 30 Oct 2026 17:57:48 +0000</pubDate>
+<category>军事航空</category>
+<description>【军事航空】Defense News · 3144 字</description>
 </item>
 </channel></rss>

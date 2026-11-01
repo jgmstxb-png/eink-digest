@@ -35,8 +35,12 @@ OUT_DIR = os.path.join(HERE, "docs")
 ARCHIVE_DIR = os.path.join(OUT_DIR, "archive")
 
 LAST_HOURS = 36          # 给时区/发布延迟留余量
+# 各分类的时效窗：中文快媒体 36h 足够；英文站/慢更源放宽，否则天天被切
+LAST_HOURS_BY_CAT = {"military": 72, "finance": 60, "science": 48, "auto": 48}
 MIN_CHARS = 400          # 第三道闸门（默认）
 MIN_CHARS_BY_CAT = {"auto": 180, "science": 180}  # 英文源摘要短，单独放宽
+# 正文抓不到（Cloudflare 等）时，摘要达到这个字数也放行
+SUMMARY_MIN_BY_CAT = {"auto": 80}
 FETCH_ARTICLE_MAX = 60   # 最多补抓多少篇正文（避免被限速）
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
@@ -295,14 +299,16 @@ def main():
     labels = cfg["labels"]
 
     now = datetime.now(timezone.utc)
-    cutoff = now - timedelta(hours=LAST_HOURS)
 
-    plan = [(f, c["key"]) for c in cfg["categories"] for f in c["feeds"]]
-    print(f"源 {len(plan)} 个，时间窗 {LAST_HOURS}h（{cutoff:%Y-%m-%d %H:%M} UTC 之后）")
+    def cutoff_for(cat):
+        return now - timedelta(hours=LAST_HOURS_BY_CAT.get(cat, LAST_HOURS))
+
+    plan = [(f, c["key"], cutoff_for(c["key"])) for c in cfg["categories"] for f in c["feeds"]]
+    print(f"源 {len(plan)} 个，时间窗默认 {LAST_HOURS}h，分类例外 {LAST_HOURS_BY_CAT}")
 
     results = []
     with cf.ThreadPoolExecutor(10) as ex:
-        for r in ex.map(lambda a: fetch_one(*a, cutoff), plan):
+        for r in ex.map(lambda a: fetch_one(*a), plan):
             if r["error"]:
                 print(f"  ✗ {r['feed']}: {r['error']}")
             else:
@@ -328,8 +334,16 @@ def main():
         print(f"补抓正文 {len(todo)} 篇…")
         with cf.ThreadPoolExecutor(8) as ex:
             list(ex.map(enrich, todo))
-    passed = [x for x in flat if max(x["chars"], x.get("chars_page", 0)) >= MIN_CHARS_BY_CAT.get(x["cat"], MIN_CHARS)]
-    print(f"闸门3 字数≥{MIN_CHARS}：{len(passed)} 条（砍掉 {len(flat)-len(passed)}）")
+    def gate3_ok(x):
+        cat = x["cat"]
+        th = MIN_CHARS_BY_CAT.get(cat, MIN_CHARS)
+        if max(x["chars"], x.get("chars_page", 0)) >= th:
+            return True
+        smin = SUMMARY_MIN_BY_CAT.get(cat)
+        return bool(smin) and x["chars"] >= smin
+
+    passed = [x for x in flat if gate3_ok(x)]
+    print(f"闸门3 字数：{len(passed)} 条通过（砍掉 {len(flat)-len(passed)}，汽车类摘要>={SUMMARY_MIN_BY_CAT.get('auto')} 可放行）")
 
     # 闸门 4：配额
     chosen = []
