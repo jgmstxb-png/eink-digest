@@ -2,7 +2,7 @@ name: daily-digest
 
 on:
   schedule:
-    - cron: "0 23 * * *"   # UTC 23:00 = 北京时间 07:00
+    - cron: "45 23 * * *"   # UTC 23:45 = 北京时间 07:45（兜底，主链路是本机 07:05）
   workflow_dispatch:
 
 permissions:
