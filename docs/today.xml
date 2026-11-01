@@ -2,48 +2,72 @@
 <rss version="2.0"><channel>
 <title>首长每日精选</title>
 <link>https://example.invalid/daily</link>
-<description>四道闸门筛出 23 篇 · 2026-11-01</description>
-<lastBuildDate>Sun, 01 Nov 2026 08:36:23 +0000</lastBuildDate>
+<description>四道闸门筛出 21 篇 · 2026-11-01</description>
+<lastBuildDate>Sun, 01 Nov 2026 12:45:22 +0000</lastBuildDate>
 <language>zh-cn</language>
 <item>
-<title>移动身份系统的密码学基础：ISO/IEC 18013-5 企业架构蓝图</title>
-<link>https://www.infoq.cn/article/9aUBUMmhC4s5mEJgXHDL?utm_source=rss&amp;amp;utm_medium=article</link>
-<guid isPermaLink="false">7eb3e6f85fde3b65b90d90b2329053e4</guid>
-<pubDate>Sun, 01 Nov 2026 14:00:00 +0000</pubDate>
+<title>复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践</title>
+<link>https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&amp;amp;utm_medium=article</link>
+<guid isPermaLink="false">a7eef9dc3b6eb910449a7b4bccb69884</guid>
+<pubDate>Sun, 01 Nov 2026 19:12:53 +0000</pubDate>
 <category>AI与工具</category>
-<description>【AI与工具】InfoQ中文 · 9687 字</description>
+<description>【AI与工具】InfoQ中文 · 2334 字</description>
 </item>
 <item>
-<title>如果 AI 幻觉也有预算，超支之后该怎么办？</title>
-<link>https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&amp;amp;utm_medium=article</link>
-<guid isPermaLink="false">10e6ad5087326bd74b1058f586e53310</guid>
-<pubDate>Sun, 01 Nov 2026 10:00:00 +0000</pubDate>
+<title>从近两小时到 30 秒，SQL 查询性能优化有了新解法 ｜ 技术实践</title>
+<link>https://www.infoq.cn/article/adFNTX7Qiy7yYIGEmTlk?utm_source=rss&amp;amp;utm_medium=article</link>
+<guid isPermaLink="false">e755a99d40c73b7431706ab950c57252</guid>
+<pubDate>Sun, 01 Nov 2026 18:58:12 +0000</pubDate>
 <category>AI与工具</category>
-<description>【AI与工具】InfoQ中文 · 2487 字</description>
+<description>【AI与工具】InfoQ中文 · 3772 字</description>
 </item>
 <item>
-<title>租的是手机拿到的是现金，央视起底“租机套现”风险</title>
-<link>https://www.ithome.com/1/020/758.htm</link>
-<guid isPermaLink="false">944f821e0994879c5d9c4cef42488f42</guid>
-<pubDate>Sun, 01 Nov 2026 08:28:46 +0000</pubDate>
+<title>阿维塔官宣 10 月交付 7,056 辆，全系车型推送 AVATR.OS 6.1.0 系统</title>
+<link>https://www.ithome.com/1/020/828.htm</link>
+<guid isPermaLink="false">4e88890ceaba97b6f67f5db87fa69210</guid>
+<pubDate>Sun, 01 Nov 2026 12:45:20 +0000</pubDate>
 <category>数码消费</category>
-<description>【数码消费】IT之家 · 610 字</description>
+<description>【数码消费】IT之家 · 692 字</description>
 </item>
 <item>
-<title>详解Super Agent：会主动干活，更懂何时闭嘴</title>
-<link>https://www.tmtpost.com/8189032.html</link>
-<guid isPermaLink="false">e53e6b59a63392e2c03d0a8aeab8fe5d</guid>
-<pubDate>Sun, 01 Nov 2026 08:26:38 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】钛媒体 · 3032 字</description>
-</item>
-<item>
-<title>先马推出“全民金牌”系列电源：8 年质保、提供 750/850W 版本，299 元起</title>
-<link>https://www.ithome.com/1/020/757.htm</link>
-<guid isPermaLink="false">414c2469e00e06121e70de7352556fd8</guid>
-<pubDate>Sun, 01 Nov 2026 08:23:10 +0000</pubDate>
+<title>7499 → 5718 元：vivo X300 Ultra 国补新低，配 3+2 蔡司大师镜头群</title>
+<link>https://www.ithome.com/1/020/827.htm</link>
+<guid isPermaLink="false">410c1daa335f7b1d06cd3be72027bcbe</guid>
+<pubDate>Sun, 01 Nov 2026 12:39:41 +0000</pubDate>
 <category>数码消费</category>
-<description>【数码消费】IT之家 · 645 字</description>
+<description>【数码消费】IT之家 · 975 字</description>
+</item>
+<item>
+<title>赫拉利深度访谈：真正的 AI 危机来了！</title>
+<link>https://www.tmtpost.com/8189151.html</link>
+<guid isPermaLink="false">02350d2b62883b9e81460cc84298d1fd</guid>
+<pubDate>Sun, 01 Nov 2026 12:04:54 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】钛媒体 · 2999 字</description>
+</item>
+<item>
+<title>数据中心抵消了过去 15 年美国的减排努力</title>
+<link>https://www.solidot.org/story?sid=85766</link>
+<guid isPermaLink="false">f2682b9892fb8ff5ca432c1c4954c400</guid>
+<pubDate>Sun, 01 Nov 2026 11:45:13 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】Solidot · 500 字</description>
+</item>
+<item>
+<title>Sam Altman says DRAM capacity should go to data centers, not personal computers</title>
+<link>https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization</link>
+<guid isPermaLink="false">d84037f748b423fbdd6bc34c3e9b032b</guid>
+<pubDate>Sun, 01 Nov 2026 10:28:22 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】Hacker News · 7613 字</description>
+</item>
+<item>
+<title>Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成</title>
+<link>https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html</link>
+<guid isPermaLink="false">b7ef9766df70fb986909857bd245461e</guid>
+<pubDate>Sun, 01 Nov 2026 09:46:00 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】雷峰网 · 715 字</description>
 </item>
 <item>
 <title>Russian Navy Cancels Modernization of Kirov-Class Battlecruiser Pyotr Velikiy</title>
@@ -68,22 +92,6 @@
 <pubDate>Sun, 01 Nov 2026 07:02:46 +0000</pubDate>
 <category>AI与工具</category>
 <description>【AI与工具】少数派 · 4425 字</description>
-</item>
-<item>
-<title>Pac-Man&#x27;s Siren Call</title>
-<link>https://unsung.aresluna.org/pac-mans-siren-call/</link>
-<guid isPermaLink="false">550dbbcb1b6c2aed48a66a65d74218eb</guid>
-<pubDate>Sun, 01 Nov 2026 06:29:49 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】Hacker News · 1493 字</description>
-</item>
-<item>
-<title>小米汽车10月交付超5万辆，澎程首个完整交付月持续上量</title>
-<link>https://www.leiphone.com/category/industrynews/aRPnyq1gaAiV8dcQ.html</link>
-<guid isPermaLink="false">8f3f5007a3444266ec04eb3913a9562b</guid>
-<pubDate>Sun, 01 Nov 2026 06:29:00 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】雷峰网 · 1285 字</description>
 </item>
 <item>
 <title>APOD: 2026 November 1 – Colors of the Moon</title>
@@ -134,14 +142,6 @@
 <description>【数码消费】爱范儿 · 2705 字</description>
 </item>
 <item>
-<title>思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码</title>
-<link>https://www.solidot.org/story?sid=85764</link>
-<guid isPermaLink="false">21607762c6bfdb2764162fb042ca97c5</guid>
-<pubDate>Sat, 31 Oct 2026 12:59:41 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】Solidot · 465 字</description>
-</item>
-<item>
 <title>台北市長辯論速評：面對強勢進攻的蔣萬安，沈伯洋戰術失效了嗎？</title>
 <link>https://theinitium.com/20261031-taiwan-taipei-mayoral-debate/</link>
 <guid isPermaLink="false">24b7cff441af47b61e1276a3921237b3</guid>
@@ -172,21 +172,5 @@
 <pubDate>Sat, 31 Oct 2026 01:37:05 +0000</pubDate>
 <category>数码消费</category>
 <description>【数码消费】爱范儿 · 2883 字</description>
-</item>
-<item>
-<title>Surface-To-Air Missiles Deployed To Protect Trump’s Mar-a-Lago Estate</title>
-<link>https://www.twz.com/land/avenger-assemble-surface-to-air-missiles-deployed-to-protect-trumps-mar-a-lago-estate</link>
-<guid isPermaLink="false">474b79af936617ff9fbad586b4b9f7a3</guid>
-<pubDate>Sat, 31 Oct 2026 00:19:01 +0000</pubDate>
-<category>军事航空</category>
-<description>【军事航空】The War Zone · 1416 字</description>
-</item>
-<item>
-<title>Stealthy GJ-21 Drone Has Launched And Recovered From Type 076 Amphibious Assault Ship, China Claims</title>
-<link>https://www.twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims</link>
-<guid isPermaLink="false">703011cf3b261f1f053bfc1a98bc2a13</guid>
-<pubDate>Fri, 30 Oct 2026 21:32:50 +0000</pubDate>
-<category>军事航空</category>
-<description>【军事航空】The War Zone · 1635 字</description>
 </item>
 </channel></rss>
