@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
 <title>首长每日精选</title>
-<link>https://example.invalid/daily</link>
-<description>四道闸门筛出 21 篇 · 2026-11-01</description>
-<lastBuildDate>Sun, 01 Nov 2026 12:45:22 +0000</lastBuildDate>
+<link>https://jgmstxb-png.github.io/eink-digest/today.xml</link>
+<description>四道闸门筛出 22 篇 · 2026-11-01</description>
+<lastBuildDate>Sun, 01 Nov 2026 14:05:23 +0000</lastBuildDate>
 <language>zh-cn</language>
 <item>
 <title>复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践</title>
@@ -22,20 +22,52 @@
 <description>【AI与工具】InfoQ中文 · 3772 字</description>
 </item>
 <item>
-<title>阿维塔官宣 10 月交付 7,056 辆，全系车型推送 AVATR.OS 6.1.0 系统</title>
-<link>https://www.ithome.com/1/020/828.htm</link>
-<guid isPermaLink="false">4e88890ceaba97b6f67f5db87fa69210</guid>
-<pubDate>Sun, 01 Nov 2026 12:45:20 +0000</pubDate>
+<title>海贝推出 HiBy R6III SE 便携 Hi-Fi 播放器：4 颗 CS43198 DAC 芯片，1798 元</title>
+<link>https://www.ithome.com/1/020/836.htm</link>
+<guid isPermaLink="false">5d5332ed80358395af269468af778b0c</guid>
+<pubDate>Sun, 01 Nov 2026 14:01:22 +0000</pubDate>
 <category>数码消费</category>
-<description>【数码消费】IT之家 · 692 字</description>
+<description>【数码消费】IT之家 · 674 字</description>
 </item>
 <item>
-<title>7499 → 5718 元：vivo X300 Ultra 国补新低，配 3+2 蔡司大师镜头群</title>
-<link>https://www.ithome.com/1/020/827.htm</link>
-<guid isPermaLink="false">410c1daa335f7b1d06cd3be72027bcbe</guid>
-<pubDate>Sun, 01 Nov 2026 12:39:41 +0000</pubDate>
+<title>2026 年 10 月汽车销量 / 交付榜出炉：比亚迪超 49 万辆稳居榜首，小米月销重回 5 万辆</title>
+<link>https://www.ithome.com/1/020/835.htm</link>
+<guid isPermaLink="false">a605481810b59ed8d610f2dc4806c77a</guid>
+<pubDate>Sun, 01 Nov 2026 13:53:18 +0000</pubDate>
 <category>数码消费</category>
-<description>【数码消费】IT之家 · 975 字</description>
+<description>【数码消费】IT之家 · 1071 字</description>
+</item>
+<item>
+<title>HMD 诺基亚 2360 Flip 翻盖功能机曝光：紫光展锐 T127 芯片，1.8 英寸外屏</title>
+<link>https://www.ithome.com/1/020/834.htm</link>
+<guid isPermaLink="false">5e86561684dbd37d528e4ad6bd109caa</guid>
+<pubDate>Sun, 01 Nov 2026 13:45:05 +0000</pubDate>
+<category>数码消费</category>
+<description>【数码消费】IT之家 · 489 字</description>
+</item>
+<item>
+<title>Proving and Improving the Platonic Representation Hypothesis with JEPAs</title>
+<link>https://arxiv.org/abs/2610.39302</link>
+<guid isPermaLink="false">62d113b51aff066a23c9992b70a44075</guid>
+<pubDate>Sun, 01 Nov 2026 13:24:49 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】Hacker News · 730 字</description>
+</item>
+<item>
+<title>Sarawat and Tuwaiq Strategic Projects Strengthen Royal Saudi Naval Forces, Localize Maritime Defense</title>
+<link>https://www.navalnews.com/naval-news/2026/11/sarawat-and-tuwaiq-strategic-projects-strengthen-royal-saudi-naval-forces-localize-maritime-defense/</link>
+<guid isPermaLink="false">74a8927ec12892ca6282d35137314ba6</guid>
+<pubDate>Sun, 01 Nov 2026 13:11:27 +0000</pubDate>
+<category>军事航空</category>
+<description>【军事航空】Naval News · 658 字</description>
+</item>
+<item>
+<title>Claude紧急叫停！暗改Harness禁止逆向游戏</title>
+<link>https://www.qbitai.com/2026/11/507038.html</link>
+<guid isPermaLink="false">a7ca37707bf5271ce18eb487af074ae2</guid>
+<pubDate>Sun, 01 Nov 2026 13:09:55 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】量子位 · 2709 字</description>
 </item>
 <item>
 <title>赫拉利深度访谈：真正的 AI 危机来了！</title>
@@ -51,15 +83,7 @@
 <guid isPermaLink="false">f2682b9892fb8ff5ca432c1c4954c400</guid>
 <pubDate>Sun, 01 Nov 2026 11:45:13 +0000</pubDate>
 <category>AI与工具</category>
-<description>【AI与工具】Solidot · 500 字</description>
-</item>
-<item>
-<title>Sam Altman says DRAM capacity should go to data centers, not personal computers</title>
-<link>https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization</link>
-<guid isPermaLink="false">d84037f748b423fbdd6bc34c3e9b032b</guid>
-<pubDate>Sun, 01 Nov 2026 10:28:22 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】Hacker News · 7613 字</description>
+<description>【AI与工具】Solidot · 573 字</description>
 </item>
 <item>
 <title>Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成</title>
@@ -76,14 +100,6 @@
 <pubDate>Sun, 01 Nov 2026 08:05:55 +0000</pubDate>
 <category>军事航空</category>
 <description>【军事航空】Naval News · 1140 字</description>
-</item>
-<item>
-<title>清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考</title>
-<link>https://www.qbitai.com/2026/11/507031.html</link>
-<guid isPermaLink="false">ed4913be23b04fbacbab30930d604ba1</guid>
-<pubDate>Sun, 01 Nov 2026 08:02:37 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】量子位 · 2698 字</description>
 </item>
 <item>
 <title>怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」</title>
@@ -164,13 +180,5 @@
 <pubDate>Sat, 31 Oct 2026 04:05:00 +0000</pubDate>
 <category>科普影像</category>
 <description>【科普影像】NASA 新闻 · 221 字</description>
-</item>
-<item>
-<title>刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等</title>
-<link>https://www.ifanr.com/1687012?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=</link>
-<guid isPermaLink="false">acc7de1c1dc434d8106fcf29d2328f10</guid>
-<pubDate>Sat, 31 Oct 2026 01:37:05 +0000</pubDate>
-<category>数码消费</category>
-<description>【数码消费】爱范儿 · 2883 字</description>
 </item>
 </channel></rss>
