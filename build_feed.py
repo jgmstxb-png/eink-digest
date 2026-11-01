@@ -385,11 +385,12 @@ def main():
         subset = [x for x in passed if x["cat"] == key]
         chosen += [(labels.get(key, key), x) for x in pick(subset, quota[key], labels.get(key, key))]
     # 第五类：今日头条「推荐」流（本机用登录态抓，5 天内全收）
+    chosen.sort(key=lambda p: p[1]["date"], reverse=True)
+    # 头条推荐排在最后，精选永远在前（tt 内部已按发布时间倒序）
     tt = load_toutiao()
     if tt:
         chosen += [("头条推荐", x) for x in tt]
-        print(f"头条推荐：{len(tt)} 条并入")
-    chosen.sort(key=lambda p: p[1]["date"], reverse=True)
+        print(f"头条推荐：{len(tt)} 条并入（排在最后）")
 
     os.makedirs(ARCHIVE_DIR, exist_ok=True)
     date_str = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d")
