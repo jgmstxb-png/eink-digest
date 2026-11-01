@@ -285,12 +285,46 @@ def render_html(chosen, date_str, count):
             d = it["date"].astimezone(timezone(timedelta(hours=8)))
             out.append(
                 "<li><a href=\"{link}\" target=\"_blank\" rel=\"noopener\">{title}</a>"
-                "<span class=\"m\">{feed} · {chars} 字 · {t}</span></li>".format(
+                "<span class=\"m\">{feed}{ch} · {t}</span></li>".format(
                     link=esc(it["link"]), title=esc(it["title"]), feed=esc(it["feed"]),
-                    chars=max(it["chars"], it.get("chars_page", 0)),
+                    ch=(f" · {max(it['chars'], it.get('chars_page', 0))} 字"
+                        if max(it["chars"], it.get("chars_page", 0)) >= 50 else ""),
                     t=d.strftime("%m-%d %H:%M")))
         out.append("</ol>")
     return HTML_TPL.format(date=date_str, count=count, body="\n".join(out))
+
+
+TT_MAX = 200          # 头条推荐最多并入多少条（5 天内全收，仅防爆量）
+TT_STALE_HOURS = 48   # 数据超过这个小时数视为过期，跳过
+
+
+def load_toutiao():
+    """读取本机抓好的头条推荐（tt_fetch.py 产出）。云端没有此文件就跳过。"""
+    here = os.path.dirname(os.path.abspath(__file__))
+    cands = [os.path.join(here, "toutiao.json"), os.path.join(here, "..", "toutiao.json")]
+    path = next((p for p in cands if os.path.exists(p)), None)
+    if not path:
+        print("头条推荐：无数据文件（云端正常跳过）")
+        return []
+    try:
+        d = json.load(open(path, encoding="utf-8"))
+        fetched = datetime.fromisoformat(d["fetched_at"])
+    except Exception as e:
+        print(f"头条推荐：数据读取失败 {e}")
+        return []
+    age = (datetime.now(timezone(timedelta(hours=8))) - fetched).total_seconds() / 3600
+    if age > TT_STALE_HOURS:
+        print(f"头条推荐：数据已 {age:.0f} 小时未更新，跳过（检查本机抓取任务）")
+        return []
+    out = []
+    for it in d.get("items", [])[:TT_MAX]:
+        try:
+            dt = datetime.fromisoformat(it["published"])
+        except Exception:
+            continue
+        out.append({"title": it["title"], "link": it["url"], "feed": "今日头条",
+                    "chars": 0, "date": dt})
+    return out
 
 
 def main():
@@ -350,6 +384,11 @@ def main():
     for key in quota:
         subset = [x for x in passed if x["cat"] == key]
         chosen += [(labels.get(key, key), x) for x in pick(subset, quota[key], labels.get(key, key))]
+    # 第五类：今日头条「推荐」流（本机用登录态抓，5 天内全收）
+    tt = load_toutiao()
+    if tt:
+        chosen += [("头条推荐", x) for x in tt]
+        print(f"头条推荐：{len(tt)} 条并入")
     chosen.sort(key=lambda p: p[1]["date"], reverse=True)
 
     os.makedirs(ARCHIVE_DIR, exist_ok=True)
@@ -368,7 +407,8 @@ def main():
         "<language>zh-cn</language>",
     ]
     for cat, it in chosen:
-        desc = f"【{cat}】{it['feed']} · {max(it['chars'], it.get('chars_page', 0))} 字"
+        n = max(it["chars"], it.get("chars_page", 0))
+        desc = f"【{cat}】{it['feed']}" + (f" · {n} 字" if n >= 50 else "")
         parts.append("<item>")
         parts.append(f"<title>{esc(it['title'])}</title>")
         parts.append(f"<link>{esc(it['link'])}</link>")
