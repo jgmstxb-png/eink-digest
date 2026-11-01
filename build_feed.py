@@ -279,7 +279,7 @@ def main():
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0"><channel>',
         "<title>首长每日精选</title>",
-        "<link>https://example.invalid/daily</link>",
+        "<link>https://jgmstxb-png.github.io/eink-digest/today.xml</link>",
         f"<description>四道闸门筛出 {len(chosen)} 篇 · {date_str}</description>",
         f"<lastBuildDate>{format_datetime(now)}</lastBuildDate>",
         "<language>zh-cn</language>",
