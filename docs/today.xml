@@ -2,8 +2,8 @@
 <rss version="2.0"><channel>
 <title>首长每日精选</title>
 <link>https://jgmstxb-png.github.io/eink-digest/today.xml</link>
-<description>四道闸门筛出 146 篇 · 2026-11-02</description>
-<lastBuildDate>Sun, 01 Nov 2026 16:04:06 +0000</lastBuildDate>
+<description>四道闸门筛出 145 篇 · 2026-11-02</description>
+<lastBuildDate>Sun, 01 Nov 2026 23:05:52 +0000</lastBuildDate>
 <language>zh-cn</language>
 <item>
 <title>聪明的AI，会像司马光一样“砸缸”吗？</title>
@@ -14,20 +14,52 @@
 <description>【科普影像】科学网 · 1427 字</description>
 </item>
 <item>
+<title>比亚迪前三季度研发比净利润高 140 亿元：何志奇称不是不会算账，是在算一本更长的账</title>
+<link>https://www.ithome.com/1/020/845.htm</link>
+<guid isPermaLink="false">8f5b57b7014c3f8801a00d5fbfd8d6e8</guid>
+<pubDate>Sun, 01 Nov 2026 23:01:11 +0000</pubDate>
+<category>数码消费</category>
+<description>【数码消费】IT之家 · 742 字</description>
+</item>
+<item>
+<title>OpenAI 即将启动大规模公关宣传，考虑将数据中心重新包装为“AI 算力园区”</title>
+<link>https://www.ithome.com/1/020/844.htm</link>
+<guid isPermaLink="false">0034c6608357e4ca05b0b59ee7b7fc4f</guid>
+<pubDate>Sun, 01 Nov 2026 22:58:19 +0000</pubDate>
+<category>数码消费</category>
+<description>【数码消费】IT之家 · 678 字</description>
+</item>
+<item>
+<title>古尔曼：苹果明年上半年将推出配备 OLED 屏幕的 iPad Air、搭载均热板的 iPad Pro</title>
+<link>https://www.ithome.com/1/020/843.htm</link>
+<guid isPermaLink="false">260a8a620cfe1b118948b23b02f5521f</guid>
+<pubDate>Sun, 01 Nov 2026 22:48:48 +0000</pubDate>
+<category>数码消费</category>
+<description>【数码消费】IT之家 · 673 字</description>
+</item>
+<item>
+<title>John Leeson (the voice of K9) has died</title>
+<link>https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html</link>
+<guid isPermaLink="false">8f13e8f86d96001e07d37b89b25b69c3</guid>
+<pubDate>Sun, 01 Nov 2026 20:48:04 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】Hacker News · 1689 字</description>
+</item>
+<item>
+<title>Ask HN: Which TV do you recommend for privacy?</title>
+<link>https://news.ycombinator.com/item?id=50328896</link>
+<guid isPermaLink="false">157ac6393768f5f64a27370381b6f4d5</guid>
+<pubDate>Sun, 01 Nov 2026 19:35:27 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】Hacker News · 5841 字</description>
+</item>
+<item>
 <title>复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践</title>
 <link>https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&amp;amp;utm_medium=article</link>
 <guid isPermaLink="false">a7eef9dc3b6eb910449a7b4bccb69884</guid>
 <pubDate>Sun, 01 Nov 2026 19:12:53 +0000</pubDate>
 <category>AI与工具</category>
 <description>【AI与工具】InfoQ中文 · 2334 字</description>
-</item>
-<item>
-<title>从近两小时到 30 秒，SQL 查询性能优化有了新解法 ｜ 技术实践</title>
-<link>https://www.infoq.cn/article/adFNTX7Qiy7yYIGEmTlk?utm_source=rss&amp;amp;utm_medium=article</link>
-<guid isPermaLink="false">e755a99d40c73b7431706ab950c57252</guid>
-<pubDate>Sun, 01 Nov 2026 18:58:12 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】InfoQ中文 · 3772 字</description>
 </item>
 <item>
 <title>提升本科人才教学质量应“五维发力”</title>
@@ -38,36 +70,12 @@
 <description>【科普影像】科学网 · 3107 字</description>
 </item>
 <item>
-<title>米哈游生活模拟游戏《星布谷地》官宣 2027 年登陆任天堂 Switch 2</title>
-<link>https://www.ithome.com/1/020/841.htm</link>
-<guid isPermaLink="false">854042ff2fa04d3265161e1414b894d8</guid>
-<pubDate>Sun, 01 Nov 2026 15:37:33 +0000</pubDate>
-<category>数码消费</category>
-<description>【数码消费】IT之家 · 720 字</description>
-</item>
-<item>
-<title>Enlightenment 0.28.0 Release</title>
-<link>https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0</link>
-<guid isPermaLink="false">ffb1ef557fc0ea20eae1a9eb279db2ff</guid>
-<pubDate>Sun, 01 Nov 2026 15:26:06 +0000</pubDate>
+<title>Google AI Mode 未给网站带来流量</title>
+<link>https://www.solidot.org/story?sid=85767</link>
+<guid isPermaLink="false">917335ec22328be3040451c704cd62e8</guid>
+<pubDate>Sun, 01 Nov 2026 16:46:31 +0000</pubDate>
 <category>AI与工具</category>
-<description>【AI与工具】Hacker News · 876 字</description>
-</item>
-<item>
-<title>国产武侠游戏《影之刃零》Steam 峰值在线玩家 83 万创新高，连续四天走高</title>
-<link>https://www.ithome.com/1/020/840.htm</link>
-<guid isPermaLink="false">d88f9b028d41c429ab696916acd008d0</guid>
-<pubDate>Sun, 01 Nov 2026 15:01:27 +0000</pubDate>
-<category>数码消费</category>
-<description>【数码消费】IT之家 · 724 字</description>
-</item>
-<item>
-<title>赛力斯：问界将全面进入欧洲市场，公司不参与价格战和规模内卷</title>
-<link>https://www.ithome.com/1/020/839.htm</link>
-<guid isPermaLink="false">770f93e4937fae28f51a08862cc3489c</guid>
-<pubDate>Sun, 01 Nov 2026 14:47:24 +0000</pubDate>
-<category>数码消费</category>
-<description>【数码消费】IT之家 · 491 字</description>
+<description>【AI与工具】Solidot · 471 字</description>
 </item>
 <item>
 <title>三年前布局，今年爆火丨西湖大学成立新中心</title>
@@ -75,7 +83,7 @@
 <guid isPermaLink="false">e5f6718c4c01a235bac4a8574f3ac120</guid>
 <pubDate>Sun, 01 Nov 2026 13:28:10 +0000</pubDate>
 <category>AI与工具</category>
-<description>【AI与工具】量子位 · 3486 字</description>
+<description>【AI与工具】量子位 · 3487 字</description>
 </item>
 <item>
 <title>Sarawat and Tuwaiq Strategic Projects Strengthen Royal Saudi Naval Forces, Localize Maritime Defense</title>
@@ -92,14 +100,6 @@
 <pubDate>Sun, 01 Nov 2026 12:04:54 +0000</pubDate>
 <category>AI与工具</category>
 <description>【AI与工具】钛媒体 · 2999 字</description>
-</item>
-<item>
-<title>数据中心抵消了过去 15 年美国的减排努力</title>
-<link>https://www.solidot.org/story?sid=85766</link>
-<guid isPermaLink="false">f2682b9892fb8ff5ca432c1c4954c400</guid>
-<pubDate>Sun, 01 Nov 2026 11:45:13 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】Solidot · 501 字</description>
 </item>
 <item>
 <title>Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成</title>
@@ -187,7 +187,7 @@
 <guid isPermaLink="false">474b79af936617ff9fbad586b4b9f7a3</guid>
 <pubDate>Sat, 31 Oct 2026 00:19:01 +0000</pubDate>
 <category>军事航空</category>
-<description>【军事航空】The War Zone · 1416 字</description>
+<description>【军事航空】The War Zone · 1415 字</description>
 </item>
 <item>
 <title>Stealthy GJ-21 Drone Has Launched And Recovered From Type 076 Amphibious Assault Ship, China Claims</title>
@@ -198,14 +198,6 @@
 <description>【军事航空】The War Zone · 1635 字</description>
 </item>
 <item>
-<title>Bluetti 288Wh Elite 30 Mini power station exclusive pre-order deals, Aventon Abound SR + LR cargo e-bikes first savings, more</title>
-<link>https://electrek.co/2026/10/30/bluetti-288wh-elite-30-mini-power-station-aventon-abound-sr-lr-cargo-e-bikes-more/</link>
-<guid isPermaLink="false">129273dea6c0ef172bee3f0cf7ec92b8</guid>
-<pubDate>Fri, 30 Oct 2026 18:00:00 +0000</pubDate>
-<category>汽车</category>
-<description>【汽车】Electrek · 169 字</description>
-</item>
-<item>
 <title>‘Open the hives’ — Why France is turning tank gunners into FPV pilots</title>
 <link>https://www.defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots/</link>
 <guid isPermaLink="false">f33d75714c93c4955e680ebf5edc6da1</guid>
@@ -214,962 +206,962 @@
 <description>【军事航空】Defense News · 3144 字</description>
 </item>
 <item>
-<title>Gemini：表格变图表</title>
-<link>https://www.toutiao.com/video/7703229786256966184/</link>
-<guid isPermaLink="false">f4e241e0b981234b56e38dd9fc8bf8a6</guid>
-<pubDate>Sun, 01 Nov 2026 23:47:14 +0800</pubDate>
+<title>11月3日：中期選舉投票日會否成為特朗普政治生涯的轉捩點？</title>
+<link>https://www.toutiao.com/article/7703299572370342454/</link>
+<guid isPermaLink="false">0a98d27af220ab0fbbd63ce4ae3108ce</guid>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>未来10年最吃香的5类人： 1、懂AI的人 2、会用 AI 的人 3、会用AI 赚钱的人 4、会运用AI 工具的人 5、能用 AI 提升效率的人 现在AI已经成了我工作生活里离不开的专属搭档，有几类事情我完全放心交给它处理，从来不用自己耗精力。 第一类是所有机械性的信息整理工作，比如开完两小时的长会，我不用自己花时间整理会议纪要，AI自动把录音转成文字，提炼出核心待办事项、责任人、截止时间，直接生成清晰的任务清单，省下来的时间我可以直接去推进落地。 第二类是定制化的学习辅助，我最近在学一门新的行业课程，AI会根据我的学习进度，把厚厚的专业教材拆解成每天15分钟的学习卡片，遇到我看不懂的专业术语，立刻用我能听懂的生活化例子解释清楚，比自己闷头啃书效率高太多。 第三类是生活里的琐事安排，比如我要安排一次全家的短途旅行，把家里老人的忌口、孩子的年龄、所有人的出行偏好告诉AI，它直接帮我生成完整的行程表，订酒店、选餐厅、规划路线全部安排妥当，我完全不用自己花几个小时刷攻略。把这些不需要消耗核心创造力的事交给AI，我才能把更多精力留给真正重要的、需要深度思考的事。#探寻人工智能，从技术到真实世界#</title>
-<link>https://www.toutiao.com/w/1880671114092547/</link>
-<guid isPermaLink="false">fede35f7f7b255e84fed2fee10b7c750</guid>
-<pubDate>Sun, 01 Nov 2026 23:43:14 +0800</pubDate>
+<title>以总理敦促特朗普11月3日中期选举后“立即恢复对伊战争”，特朗普称不希望其干扰美伊谈判；伊朗同意“两天计划”，美方履约可重启谈判</title>
+<link>https://www.toutiao.com/article/7703332859435647524/</link>
+<guid isPermaLink="false">8663f77664002e3e7f56d5770a67380c</guid>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>博主：女主播与某已解散中甲队投资人暧昧，又和教练球员乱搞</title>
-<link>https://www.toutiao.com/article/7703227779109700130/</link>
-<guid isPermaLink="false">7406948a023dcbb0988cca9428f64a50</guid>
-<pubDate>Sun, 01 Nov 2026 23:39:14 +0800</pubDate>
+<title>意大利那不勒斯机场因改造停航一个月</title>
+<link>https://www.toutiao.com/article/7703340440397611520/</link>
+<guid isPermaLink="false">22c4c283e9b6d555d500828d1fde9778</guid>
+<pubDate>Mon, 02 Nov 2026 06:56:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>等打霜了，将有大量iPhoneicon Duo的屏幕报废，我的折叠屏手机就是在冬天打霜时坏的，平时都用小屏幕，当晚太冷了，就用大屏幕，睡在床上看，第二天早上，把折叠屏手机合上，折叠屏传来异响，再打开，果然坏了，换机费用极高，感觉亏大了。#作者加速成长计划#</title>
-<link>https://www.toutiao.com/w/1880670799356107/</link>
-<guid isPermaLink="false">01c1b601b7da3ce1a37ee0a26c92cb2f</guid>
-<pubDate>Sun, 01 Nov 2026 23:38:14 +0800</pubDate>
+<title>苏丹向联合国提出申诉 指控埃塞俄比亚实施“侵略”</title>
+<link>https://www.toutiao.com/article/7703340624287777321/</link>
+<guid isPermaLink="false">7da3a0c9aa0ca6b4fa90bb60da871b9c</guid>
+<pubDate>Mon, 02 Nov 2026 06:56:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>视频丨美议员：美政府用谎言将民众拖入中东战争</title>
-<link>https://www.toutiao.com/article/7703227236895195702/</link>
-<guid isPermaLink="false">288e7c9cb49b8e4ee2ff63fa4feec6c3</guid>
-<pubDate>Sun, 01 Nov 2026 23:37:14 +0800</pubDate>
+<title>古尔曼：苹果明年上半年将推出OLED屏iPad Air与均热板散热iPad Pro</title>
+<link>https://www.toutiao.com/article/7703340331932205608/</link>
+<guid isPermaLink="false">063d6e42201d845327a043293dfdb38f</guid>
+<pubDate>Mon, 02 Nov 2026 06:55:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>山姆是个奇怪的超市品牌，你看开市客（Costco）在东亚地区开了多少家店了？日本37家、韩国20家、台湾省14家、大陆7家。但是山姆呢，只在中国大陆扩张。日本、韩国和台湾省一家店都没有，甚至在亚洲其他地区也没有一家店，在欧洲也没有。 山姆的店只开在3个国家：美国、中国和墨西哥！但是开市客分布在全球各地，欧洲和澳洲到处都是。在不用豆包的情况下，你们能想到是为什么吗？</title>
-<link>https://www.toutiao.com/w/1880670703280204/</link>
-<guid isPermaLink="false">31ca0688e16b68a2a467e783bfa8dd75</guid>
-<pubDate>Sun, 01 Nov 2026 23:37:14 +0800</pubDate>
+<title>零点生效！日本终裁对华不锈钢反倾销税，最高42.1%一征五年</title>
+<link>https://www.toutiao.com/article/7703339522637775414/</link>
+<guid isPermaLink="false">c6cd6042dffb4eba1feff7ca1aa6b6da</guid>
+<pubDate>Mon, 02 Nov 2026 06:52:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>制造业急需紧缺岗位本科需求超八成，柳州、南宁怎么选？</title>
-<link>https://www.toutiao.com/article/7703227306365502002/</link>
-<guid isPermaLink="false">3d8e0409bb9397db8989b65b24f1055f</guid>
-<pubDate>Sun, 01 Nov 2026 23:37:14 +0800</pubDate>
+<title>“互联网之光”博览会今日开幕！亮点抢先看</title>
+<link>https://www.toutiao.com/article/7703338656802636338/</link>
+<guid isPermaLink="false">25a71eecbf51c672b8faa3637f484c66</guid>
+<pubDate>Mon, 02 Nov 2026 06:49:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>男子带398只活体毒宠过海关被查</title>
-<link>https://www.toutiao.com/article/7703226916471374346/</link>
-<guid isPermaLink="false">524d1980f48f9bab3109c9bad18d4639</guid>
-<pubDate>Sun, 01 Nov 2026 23:36:14 +0800</pubDate>
+<title>东南亚布局再提速 九识拿下马来西亚首张RoboVan公共道路测试牌照</title>
+<link>https://www.toutiao.com/article/7703338667980489251/</link>
+<guid isPermaLink="false">7f588975c0ba266093d22b74b5ce6ad1</guid>
+<pubDate>Mon, 02 Nov 2026 06:49:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>鹅岭公园菊花展，挤都挤不动</title>
-<link>https://www.toutiao.com/w/1880670631139460/</link>
-<guid isPermaLink="false">42fdbde0660c120139038c464c56f885</guid>
-<pubDate>Sun, 01 Nov 2026 23:36:14 +0800</pubDate>
+<title>美国一飞机在居民区坠毁，机上9人全部遇难；飞机从空中俯冲而下，在一条主要公路附近爆炸后，燃起巨大火球</title>
+<link>https://www.toutiao.com/article/7703338587320599094/</link>
+<guid isPermaLink="false">21ca32af06f322b2a847ac10162ec35d</guid>
+<pubDate>Mon, 02 Nov 2026 06:49:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>视频丨黄河流域生态保护和高质量发展取得新成效</title>
-<link>https://www.toutiao.com/article/7703226741107507739/</link>
-<guid isPermaLink="false">ed262e5b1ce06dc1e3a1dfd69c85f6f3</guid>
-<pubDate>Sun, 01 Nov 2026 23:35:14 +0800</pubDate>
+<title>意大利那不勒斯机场因改造停航一个月</title>
+<link>https://www.toutiao.com/article/7703338346927358473/</link>
+<guid isPermaLink="false">7c4e4c024e42cef4ac566cee7efdeb52</guid>
+<pubDate>Mon, 02 Nov 2026 06:48:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>#刘亦菲仙女照# 我翻来覆去看了十几遍，完全看不出她已经37岁了。 皮肤状态是那种透着光的细腻感，连高清镜头怼到半米内拍，都找不到明显的纹路，穿简单的裙子站在那里，和20年前演赵灵儿的时候几乎没差，甚至多了几分松弛的从容感。 之前刷到过她早年逛武汉江汉路的旧路透，整条街的人都停下来看她，连路边摆摊的阿姨都凑过去夸姑娘长得太俊。现在每次她公开露面，现场粉丝挤得里三层外三层，线上相关话题半小时就能刷出十几亿阅读量，从70后到00后，各个年龄段都有吃她颜值的人，这种跨越二十多年的国民度，真的内娱找不到第二个。</title>
-<link>https://www.toutiao.com/w/1880670622574602/</link>
-<guid isPermaLink="false">75bf404cb2c1ee65ebdeb280089ba15b</guid>
-<pubDate>Sun, 01 Nov 2026 23:35:14 +0800</pubDate>
+<title>卡尼：加美正就构建互利贸易协议展开合作</title>
+<link>https://www.toutiao.com/article/7703338353067950626/</link>
+<guid isPermaLink="false">0d37d6e3d3bd94fe2274427dc1dd4f33</guid>
+<pubDate>Mon, 02 Nov 2026 06:48:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>油价运费为啥一起涨？中国特使直奔三大命脉稳全球通道</title>
-<link>https://www.toutiao.com/video/7703226813853499942/</link>
-<guid isPermaLink="false">1ef1ea509c40e52e895df83ab92c3142</guid>
-<pubDate>Sun, 01 Nov 2026 23:35:14 +0800</pubDate>
+<title>“China Haul”海外刷屏！“行李箱”装下世界眼中的中国</title>
+<link>https://www.toutiao.com/article/7703338248801616426/</link>
+<guid isPermaLink="false">9c3ae3d05ce2bb6075d552d7d4efb655</guid>
+<pubDate>Mon, 02 Nov 2026 06:47:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>“你敢把手术刀，交给这种人吗？”李子祺第一学历被扒：民办三本</title>
-<link>https://www.toutiao.com/video/7703226593707901482/</link>
-<guid isPermaLink="false">c89d9ea9b7d116583efbfa346bd3cd05</guid>
-<pubDate>Sun, 01 Nov 2026 23:34:14 +0800</pubDate>
+<title>伊朗同意“两天计划”，即：第一天，美国将采取一系列（履约）措施；第二天，霍尔木兹海峡将开放，海峡交通将恢复到之前的状态</title>
+<link>https://www.toutiao.com/article/7703337297785209359/</link>
+<guid isPermaLink="false">bff1b93fb9d8bd2d82e15b1e5986c1c3</guid>
+<pubDate>Mon, 02 Nov 2026 06:44:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>M5 Ultra 256G 实测：320GB 模型能跑多快</title>
-<link>https://www.toutiao.com/video/7703225253308203529/</link>
-<guid isPermaLink="false">dba498973ddd7e024166ee8a7c851ee1</guid>
-<pubDate>Sun, 01 Nov 2026 23:31:14 +0800</pubDate>
+<title>“欧佩克+”主要产油国决定12月维持产量不变</title>
+<link>https://www.toutiao.com/article/7703337566610670114/</link>
+<guid isPermaLink="false">d10e9fe9783658163dcd426578aa6383</guid>
+<pubDate>Mon, 02 Nov 2026 06:44:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>胡歌拍戏，妻子安静守在一旁，默默相伴，岁月静好</title>
-<link>https://www.toutiao.com/w/1880670125807683/</link>
-<guid isPermaLink="false">a3ffe291702cffa316f1592ea3804440</guid>
-<pubDate>Sun, 01 Nov 2026 23:27:14 +0800</pubDate>
+<title>亚太产业链供应链韧性增强 合作之路越走越实</title>
+<link>https://www.toutiao.com/article/7703337210377486886/</link>
+<guid isPermaLink="false">c5b263c11990316578c560d6efad9a1d</guid>
+<pubDate>Mon, 02 Nov 2026 06:43:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>Muse人形机器人来了！小扎带队，中国造</title>
-<link>https://www.toutiao.com/article/7703223274859184690/</link>
-<guid isPermaLink="false">cc0689d394b42da6cce5c7fd67df3b80</guid>
-<pubDate>Sun, 01 Nov 2026 23:22:14 +0800</pubDate>
+<title>江苏连云港：5900多辆国产汽车装船“出海”墨西哥</title>
+<link>https://www.toutiao.com/article/7703337253916901922/</link>
+<guid isPermaLink="false">2cb22f4c7ec2fc162e6fdf7775fed67a</guid>
+<pubDate>Mon, 02 Nov 2026 06:43:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>DeepSeek一周六十点七万亿 是第二名三点八倍</title>
+<link>https://www.toutiao.com/video/7703337207968367119/</link>
+<guid isPermaLink="false">7f74db84f5e308200ff63d47dba09362</guid>
+<pubDate>Mon, 02 Nov 2026 06:43:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>青海大通县通报压路机致人身亡事故：李某某驾驶电动轮椅车从封堵缝隙驶入作业路段</title>
+<link>https://www.toutiao.com/article/7703336595268665871/</link>
+<guid isPermaLink="false">a6ca14796cbfe9001c7b33df2e0cac7c</guid>
+<pubDate>Mon, 02 Nov 2026 06:41:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>陕西一导演街头举牌宣传新片“求被看见”：目前仅预售39张票，希望更多中小成本电影“被看见”</title>
+<link>https://www.toutiao.com/article/7703336023581688320/</link>
+<guid isPermaLink="false">d6a6a1591253b9f3e6c3f373e3024ab8</guid>
+<pubDate>Mon, 02 Nov 2026 06:38:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>网上很多人说比亚迪工资不高、伙食不好，还拿102万来乱带节奏。 很多人搞错了，102万是比亚迪全球员工总数量，不是工资。 看看这张工资到账记录，踏踏实实上班，收入看得见。 不同岗位薪资本来就不一样，别被有心人偷换概念带偏了。</title>
+<link>https://www.toutiao.com/w/1880697261048842/</link>
+<guid isPermaLink="false">848fae3976c9096426efb87e57ed0652</guid>
+<pubDate>Mon, 02 Nov 2026 06:38:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>一架飞机在美国佛罗里达州坠毁，飞机上9人全部遇难</title>
+<link>https://www.toutiao.com/article/7703335781733040650/</link>
+<guid isPermaLink="false">9042893d0a26c58fcbbe3e207e9acb9e</guid>
+<pubDate>Mon, 02 Nov 2026 06:37:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>教室采光照明有新规！孩子护眼，这些常识别搞错</title>
+<link>https://www.toutiao.com/article/7703335790503297572/</link>
+<guid isPermaLink="false">76d33a5434820a10ee272ff7b5c80915</guid>
+<pubDate>Mon, 02 Nov 2026 06:37:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>瑞士这回彻底把账算明白了，在最新敲定的自贸升级议定书上签了字。 就在外界不少地方忙着砌关税高墙、甚至有大国当面放话要切断往来的节骨眼上，瑞士反倒选择把自家柜台彻底搬进中国市场。手表、精密机床、咖啡，上百个税目的商品排着队逐步取消关税，双方绝大多数贸易额直接奔着零关税大步迈进。 很多人没料到，在这段跨洋买卖里，中国其实一直处于大额逆差的买方位置，每年真金白银从瑞士采购的精密器械与消费品数额惊人。 早在十年前双方首次签下自贸协定时，中方的大量出口商品就已经享受了优惠待遇。这一轮前后谈了五轮的协议升级，说白了不是单方面让利，而是把两边的大门拉得一样宽。 签字的笔尖划过纸页，公章压实，两年的博弈落定成白纸黑字。没有情绪化的拉扯，全是对准市场需求的理性算计。 全球经贸环境风吹草动，谁都不愿意把鸡蛋死死绑在同一只篮子里。一边是动辄挥舞大棒要搞断供的威吓，一边是容纳得下庞大产能的海量买家，瑞士这一步走得格外现实。 你要收缩封门，我就顺势把双向开放的盘子做得更大。 这场经贸上的同频共振，究竟是瑞士被外部压力推着做出的自保，还是单纯追着市场跑的精明选择？</title>
+<link>https://www.toutiao.com/w/1880697208561728/</link>
+<guid isPermaLink="false">619eb1826c46ea449fab572e19ab6458</guid>
+<pubDate>Mon, 02 Nov 2026 06:37:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>美国又放走一个“钱学森”？美国一哈佛教授曾曝出惊人事实：原本DeepSeek的工程师可以拿到英伟达全职offer，美国却没留住人，导致“钱学森回国”的故事再次上演，美国跟“国运级人工智能”擦肩而过。美国封锁反而推动人才回流，中国人工智能正在加速赶超。 说白了，大洋彼岸那些名校名嘴喊出“错失人才”，骨子里其实还是那股高高在上的傲慢。他们总觉得只要硅谷勾勾手指、抛出一份年薪合同，全世界的青年才俊就理所当然该留下来当牛做马。 可现实给这帮人结结实实上了一课。 年轻一代的技术骨干根本不吃这一套画饼。与其在海外巨头的庞大体系里按部就班当颗螺丝钉，天天给已有框架修修补补，不如转身扎进最硬核、最敢放权的本土战斗序列。 潘梓正当时离开硅谷回国，加入的团队规模极小，但给的施展空间几乎是无限的。 年轻人不怕吃苦，怕的是没有主导权。 国内这些新锐团队不仅给足了研发试错的自由，更敢直接把最前沿的主攻方向交到二十多岁的年轻人手里。 在算力受限的客观现实下，团队反而被逼出了极致的算法架构重构能力，把训练效率死磕到了极致。 回头看看海外这几年的科研环境，审查的阴影散不去，针对华裔科研力量的猜忌更是让人心寒。 一边是步步设防的逼仄空间，另一边是敢打硬仗、能扛大旗的广阔战场，聪明人到底会往哪里走？ 答案其实早就写在每一个人的脚下了。</title>
+<link>https://www.toutiao.com/w/1880697018725448/</link>
+<guid isPermaLink="false">745f13852d78b45d1356f86c43b92e9d</guid>
+<pubDate>Mon, 02 Nov 2026 06:34:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>不敌巴西队止步八强 中国队结束U17女足世界杯之旅</title>
+<link>https://www.toutiao.com/article/7703333946116882980/</link>
+<guid isPermaLink="false">cbcde1f972281b6fef9387afef64bab0</guid>
+<pubDate>Mon, 02 Nov 2026 06:31:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>美国互联网折腾 20 年没造出微信！TikTok：那我只好在美国造一个！</title>
+<link>https://www.toutiao.com/article/7703060189443899944/</link>
+<guid isPermaLink="false">cf5ea14cc737f558685dfbf2c6b4c9d6</guid>
+<pubDate>Mon, 02 Nov 2026 06:29:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>林生斌近况，定居澳洲悉尼富人区，儿女双全，妻子曾是他公司员工</title>
+<link>https://www.toutiao.com/article/7703332683476238875/</link>
+<guid isPermaLink="false">d4f12c5529f22973416da90ab0de8e58</guid>
+<pubDate>Mon, 02 Nov 2026 06:26:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>国际新闻早知道丨伊披露“两天计划”称美方履约才能重启谈判 美国一载有9人飞机坠毁</title>
+<link>https://www.toutiao.com/article/7703332332295422479/</link>
+<guid isPermaLink="false">1dab19c3913d929e86fb38f210d27b66</guid>
+<pubDate>Mon, 02 Nov 2026 06:24:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>新冷空气即将抵达！深圳天气有变</title>
+<link>https://www.toutiao.com/article/7703331949515047465/</link>
+<guid isPermaLink="false">6132ef51b6e2dca306808eed6a17db5d</guid>
+<pubDate>Mon, 02 Nov 2026 06:23:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>“船员欠薪、要求乘客凑钱买油”，美国夫妻花246万买环球邮轮永居权，被迫在柬埔寨停航下船</title>
+<link>https://www.toutiao.com/article/7703331219265700379/</link>
+<guid isPermaLink="false">dcecdc339cff8e38417a931d62fdf7a9</guid>
+<pubDate>Mon, 02 Nov 2026 06:20:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>谁干的？印度飞机坠毁，机上人员无一幸免，莫迪或迎当头一棒</title>
+<link>https://www.toutiao.com/article/7703330806244131337/</link>
+<guid isPermaLink="false">982f1bc5237edfbe18bc2747fb3f9877</guid>
+<pubDate>Mon, 02 Nov 2026 06:19:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>很多人纳闷，怎么每次海上稍有动静，顶在最前头的还是辽宁舰。 五月份刚在西太平洋三天起降一百七十架次舰载机，甲板橡胶印还没被海水冲淡，转头到了十月，汽笛一拉，整支编队又破浪出去了。 有人问，另外两艘新航母哪去了，怎么偏让老大哥连轴转？ 看看日程表就全明白了。 福建舰入列时间不长，眼下正一趟趟做弹射器的高强度验证，从基本功往完全战斗力一点点磨，真正凶险的远海风浪还没正经跑过。 山东舰年初就进了干船坞做升级，甲板上的起飞标线全铲了重新规划，为的是给以后的新机型腾位子，在坞里一停就是好几个月。 数来数去，哨子一吹抓起帽子就能走、护航舰艇闭着眼睛都能跟上节奏的，手里只有辽宁舰。 重型舰载机对准跑道猛地压下来，尾钩死死咬住钢索拽出一道紧绷的巨大弧线，甲板引导员在扑面而来的刺鼻热浪里打出干脆利落的放飞手势，整艘钢铁巨兽就在无边无际的深蓝海面上，一寸一寸切开翻滚的白沫。 这不是老舰不怕磕碰，而是所有没蹚过的险滩、没试过的极限，它用十几年时间全踩瓷实了。 后头的两艘新舰，不过是沿着它轧出来的车道平稳超车。 等福建舰哪天真正把这副重担接过去，辽宁舰才能踏踏实实回港歇口气。 有人说这是操劳命，也有人说这是不可替代的尊严。你们觉得，这算不算一名老将最高的体面？</title>
+<link>https://www.toutiao.com/w/1880696062487818/</link>
+<guid isPermaLink="false">cc59aba9f1d18ccc1529d21dbc3c04aa</guid>
+<pubDate>Mon, 02 Nov 2026 06:19:51 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】今日头条</description>
+</item>
+<item>
+<title>巴林为Gateway Gulf 2026的四个新项目授予黄金许可，价值38.9亿美元</title>
+<link>https://www.toutiao.com/article/7703329996215222847/</link>
+<guid isPermaLink="false">08924bb569a4116ebf5c294508c88c2d</guid>
+<pubDate>Mon, 02 Nov 2026 06:15:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
 <title>国际移民组织：也门流离失所者已超30万人</title>
-<link>https://www.toutiao.com/article/7703223454253728306/</link>
-<guid isPermaLink="false">63009a16a61979458b4ddfff1f3c18e3</guid>
-<pubDate>Sun, 01 Nov 2026 23:22:14 +0800</pubDate>
+<link>https://www.toutiao.com/article/7703329349474189833/</link>
+<guid isPermaLink="false">75e3c2f99edb9c9c0377c94f7151a808</guid>
+<pubDate>Mon, 02 Nov 2026 06:13:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>台风眼：你敢和我对视5秒吗</title>
-<link>https://www.toutiao.com/video/7703183378535531035/</link>
-<guid isPermaLink="false">9151f74061906108d0a9a3220382795a</guid>
-<pubDate>Sun, 01 Nov 2026 23:21:14 +0800</pubDate>
+<title>美国民主党众议员公开支持共和党候选人</title>
+<link>https://www.toutiao.com/article/7703329234252562970/</link>
+<guid isPermaLink="false">3a30081aa04062e42f1e5458943fc12e</guid>
+<pubDate>Mon, 02 Nov 2026 06:12:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>菲律宾与广东都是1亿多人口，菲律宾创造3.3万亿，广东是多少？</title>
-<link>https://www.toutiao.com/video/7703219115833442825/</link>
-<guid isPermaLink="false">5637b1ca5495e100cbf4e73e6c912ab6</guid>
-<pubDate>Sun, 01 Nov 2026 23:05:14 +0800</pubDate>
+<title>美国一侦察机沿俄边境巡逻五个半小时</title>
+<link>https://www.toutiao.com/article/7703329047052403242/</link>
+<guid isPermaLink="false">e016ceecf12ba8e6c43aab627fb60fd3</guid>
+<pubDate>Mon, 02 Nov 2026 06:11:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>AI词元首次独立上架，套餐写30天最多4000万Token，怎么核对？</title>
-<link>https://www.toutiao.com/article/7703218163076350499/</link>
-<guid isPermaLink="false">0ffb753677c6f9375e14bf70e8c2793d</guid>
-<pubDate>Sun, 01 Nov 2026 23:02:14 +0800</pubDate>
+<title>临港实验室布局脑机接口中试验证装置，2028年在沪建成</title>
+<link>https://www.toutiao.com/article/7703328504259019273/</link>
+<guid isPermaLink="false">853482d329c21bc4927d540d797306a0</guid>
+<pubDate>Mon, 02 Nov 2026 06:09:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>#冬日生活打卡季#玉林水街及文花楼景点</title>
-<link>https://www.toutiao.com/w/1880668519638028/</link>
-<guid isPermaLink="false">4aa85001f9e324bc87a420299b904ee7</guid>
-<pubDate>Sun, 01 Nov 2026 23:02:14 +0800</pubDate>
+<title>保加利亚现总统约托娃宣布在总统选举中获胜</title>
+<link>https://www.toutiao.com/article/7703328228378722851/</link>
+<guid isPermaLink="false">01159b08e015c45c96a9ddc01361f1cf</guid>
+<pubDate>Mon, 02 Nov 2026 06:08:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>美国始终坚持一条逻辑：只要坚持不降息，中国一定会先“爆雷”？</title>
-<link>https://www.toutiao.com/video/7703207789828571648/</link>
-<guid isPermaLink="false">5d7ee0a4dd1cc268f0c16903c6fc2f12</guid>
-<pubDate>Sun, 01 Nov 2026 22:57:14 +0800</pubDate>
+<title>韩国提振经济新思路：建监狱</title>
+<link>https://www.toutiao.com/article/7703327705328108075/</link>
+<guid isPermaLink="false">ea951e2fca89695895d34f722cab02ee</guid>
+<pubDate>Mon, 02 Nov 2026 06:06:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>万万不能效仿！日本延迟退休50多年，最后成了“银发族”的噩梦</title>
-<link>https://www.toutiao.com/video/7703202897172922931/</link>
-<guid isPermaLink="false">baf59604ff4a20d411b0cfc194c2c04f</guid>
-<pubDate>Sun, 01 Nov 2026 22:57:14 +0800</pubDate>
+<title>彭博社预测：2030年，中国可能在 17 项关键技术中拿下 8 项领先！</title>
+<link>https://www.toutiao.com/article/7703059471525855784/</link>
+<guid isPermaLink="false">ff821737be1bbd5bad5e5add7f9d98ec</guid>
+<pubDate>Mon, 02 Nov 2026 06:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>对话梧桐樾之升维篇#璞道梧桐樾 #凤鸣九湾 #沙区洋房</title>
-<link>https://www.toutiao.com/video/7703202591278105128/</link>
-<guid isPermaLink="false">503939809841167bd7e565f61d7e1920</guid>
-<pubDate>Sun, 01 Nov 2026 22:57:14 +0800</pubDate>
+<title>人工智能技术创新与治理论坛将在乌镇举行</title>
+<link>https://www.toutiao.com/article/7703314570697474610/</link>
+<guid isPermaLink="false">4578a0f30fa5d1c9b29aa472fcdd74ac</guid>
+<pubDate>Mon, 02 Nov 2026 06:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>上海将进入冬春流感高发时节 新就业群体工会会员 可免费打流感疫苗</title>
-<link>https://www.toutiao.com/video/7703217031075693091/</link>
-<guid isPermaLink="false">f9f79c42928339bcc4b667f65ef90f0d</guid>
-<pubDate>Sun, 01 Nov 2026 22:57:14 +0800</pubDate>
+<title>SpaceX最大客户易主：Anthropic的千亿美元算力合同，改写通信基础设施竞争链</title>
+<link>https://www.toutiao.com/article/7522771354141209686/</link>
+<guid isPermaLink="false">3e13e13560dd9b562174d1bb3dca3832</guid>
+<pubDate>Mon, 02 Nov 2026 06:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>VAR长时间介入，裁判判罚萨特里亚诺进球有效，赫塔费2-1塞维利亚</title>
-<link>https://www.toutiao.com/video/7703214579819512371/</link>
-<guid isPermaLink="false">d97bb4a735f1c0d84e26a63a7a77649f</guid>
-<pubDate>Sun, 01 Nov 2026 22:57:14 +0800</pubDate>
+<title>伊朗外长披露“两天计划”；一架飞机在美国佛罗里达州坠毁；两家央企各新增千亿级股票回购增持贷款额度；新能源车企10月成绩单出炉丨每经早参</title>
+<link>https://www.toutiao.com/article/7703322788400087567/</link>
+<guid isPermaLink="false">dbdcf54300f7ca1471b341d098026b16</guid>
+<pubDate>Mon, 02 Nov 2026 06:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>女子乘火车被上铺坠落手机砸伤眼部，满脸是血，最新进展：上铺乘客已给予一次性赔偿；铁路部门确认列车员车上应急处置，下车仍参与处理</title>
-<link>https://www.toutiao.com/article/7703201987269001769/</link>
-<guid isPermaLink="false">e249db3613ac9b15cefad23d623a2245</guid>
-<pubDate>Sun, 01 Nov 2026 22:57:14 +0800</pubDate>
+<title>曼彻斯特、底特律、硅谷珠玉在前，中国如何把握全球产业集群竞合逻辑</title>
+<link>https://www.toutiao.com/article/7703320037985976832/</link>
+<guid isPermaLink="false">919f3d9e6f43b0e64e46e792763617f7</guid>
+<pubDate>Mon, 02 Nov 2026 06:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>斯芬克《创意人才全球胜任力白皮书》在京发布 “C.R.A.F.T”定义AI时代创意人才</title>
-<link>https://www.toutiao.com/article/7703187081006187043/</link>
-<guid isPermaLink="false">7b05a753181369b4c0f2025a8592fd75</guid>
-<pubDate>Sun, 01 Nov 2026 21:57:14 +0800</pubDate>
+<title>开“新”进博会丨首发、首秀、首展！九年进博何以常新？一组数据解码</title>
+<link>https://www.toutiao.com/article/7703327157258306086/</link>
+<guid isPermaLink="false">b438b8e53551430928872d1f20c14a4d</guid>
+<pubDate>Mon, 02 Nov 2026 06:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>中国军警同日亮剑黄岩岛</title>
-<link>https://www.toutiao.com/video/7703192121519407656/</link>
-<guid isPermaLink="false">93d8fa3cc6d7fc6b466edc689abace12</guid>
-<pubDate>Sun, 01 Nov 2026 21:57:14 +0800</pubDate>
+<title>51席定生死！马斯克慌了砸4.45亿押注：民主党全胜，美国就完了</title>
+<link>https://www.toutiao.com/article/7703212846053704202/</link>
+<guid isPermaLink="false">968c5e1201f7e61ea1cfbd48eeab9d26</guid>
+<pubDate>Mon, 02 Nov 2026 06:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>女子出售156克黄金，称重却只有121克？贵阳民警当场揭穿真相！</title>
-<link>https://www.toutiao.com/article/7703193535314395689/</link>
-<guid isPermaLink="false">3f2539d8b9404d427669f664731efc53</guid>
-<pubDate>Sun, 01 Nov 2026 21:57:14 +0800</pubDate>
+<title>俄罗斯从美方获悉“莫斯科可能发生恐怖袭击”，正采取措施；2024年美国曾发布预警，数日后莫斯科遭袭140余人死亡！</title>
+<link>https://www.toutiao.com/article/7703152762799931930/</link>
+<guid isPermaLink="false">0db6f4d3854417695606fe8ccc9d5178</guid>
+<pubDate>Mon, 02 Nov 2026 06:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>AI已经全面入侵人类生活！ 才短短两年，AI生成的视频几乎已经掏空了人们空闲时间的半壁江山，人类各种天马行空的想法通过AI落地，那些堪称大片级制作的短剧，不到两分钟一集的快节奏极大限度地刺激着人们多巴胺，人们不得不感叹，时代的改变，比翻书还快。 去年人们还在困惑AI究竟能带来怎样的改变，转眼间铺天盖地的AI短剧就几乎要淹没整个社会。 人们不禁要疑惑，这就是能影响国运的AI给我们带来的结果？ AI没带来生产力的极大提升，没带来令人惊艳的创新发明，倒先给人们带来了一阵视觉狂欢，这恐怕多少有点出人意料。</title>
-<link>https://www.toutiao.com/w/1880663909574659/</link>
-<guid isPermaLink="false">dc576d943c237c75f8100727930e224c</guid>
-<pubDate>Sun, 01 Nov 2026 21:57:14 +0800</pubDate>
+<title>新平板 iQOOpadpro，入手了，感觉还不错。 但买了之后，又感觉有点后悔了，感觉这个平板介于电脑和手机之间，使用范围尴尬。 玩游戏我会用电脑，刷视频聊天我就用手机，而且在厂里一般带手机。所以，买之前心心念念，买之后患得患失。 #vivo #iQOOpadpro #平板 #小平板</title>
+<link>https://www.toutiao.com/w/1880694308409480/</link>
+<guid isPermaLink="false">e03c616044ca8542a2818527f387187c</guid>
+<pubDate>Mon, 02 Nov 2026 06:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>中美登月进入最后冲刺：美国领先两年，中国还有机会反超吗？</title>
-<link>https://www.toutiao.com/article/7703188299749376550/</link>
-<guid isPermaLink="false">c6bb1d0d89dcc9fc6cd4d2c295ccf24d</guid>
-<pubDate>Sun, 01 Nov 2026 21:57:14 +0800</pubDate>
+<title>iOS 27更新后多占了15GB存储空间 这个方法可以找回来</title>
+<link>https://www.toutiao.com/article/7703312602826392114/</link>
+<guid isPermaLink="false">08749fd1e243bde34985cc2ebcb44603</guid>
+<pubDate>Mon, 02 Nov 2026 06:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>民进党当局举办活动，赖清德被称为“台湾地区领导人”？不一般</title>
-<link>https://www.toutiao.com/video/7703199879543161378/</link>
-<guid isPermaLink="false">ed4e7a2767bf647ca79c4abf9cc8355f</guid>
-<pubDate>Sun, 01 Nov 2026 21:57:14 +0800</pubDate>
+<title>尼泊尔珠峰大本营徒步线突发火灾：一旅馆厨房爆炸起火，居民从窗户向雪地扔床垫、睡袋、背包自救，事发时正遇强降雪，外部救援极难抵达</title>
+<link>https://www.toutiao.com/article/7703205524564623872/</link>
+<guid isPermaLink="false">022fe6eef72d0c51603c1fb7fd2f1bb9</guid>
+<pubDate>Mon, 02 Nov 2026 06:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>台海若战，全球陪葬？美国专家：想保住中美缓和，台湾问题不能碰</title>
-<link>https://www.toutiao.com/video/7703200891381285426/</link>
-<guid isPermaLink="false">b6722510bebac67e409d5c74a7529cb5</guid>
-<pubDate>Sun, 01 Nov 2026 21:57:14 +0800</pubDate>
+<title>U17女足世界杯｜遭巴西队绝杀无缘四强，但这支中国女足已展现出长足进步</title>
+<link>https://www.toutiao.com/article/7703311829300281907/</link>
+<guid isPermaLink="false">e5300fedab654c69ca5d87fcebb3db20</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>美论坛曾言：一旦美突破中国海上防御，入侵其陆地，中国会如何？</title>
-<link>https://www.toutiao.com/video/7703198573336248886/</link>
-<guid isPermaLink="false">ccda3d062f3087cdca2f6d51735d1881</guid>
-<pubDate>Sun, 01 Nov 2026 21:57:14 +0800</pubDate>
+<title>记者：萨拉赫和他的妻儿将会获得土耳其国籍</title>
+<link>https://www.toutiao.com/article/7703302154542449202/</link>
+<guid isPermaLink="false">748885138e7b668df329b57dd53fb6c1</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>全军开展高级军士、警士选拔，懂装备、会带兵、能攻坚是标准</title>
-<link>https://www.toutiao.com/article/7703199616971457050/</link>
-<guid isPermaLink="false">da1cd3849334aaee919a9b9c60b5a086</guid>
-<pubDate>Sun, 01 Nov 2026 21:57:14 +0800</pubDate>
+<title>状告铁路局：火车站台控烟难题</title>
+<link>https://www.toutiao.com/article/7703311289891766824/</link>
+<guid isPermaLink="false">3b466a774c6f8edc057c176cff94eaa1</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>俄罗斯总统助理重磅发声，宣布普京立场态度</title>
-<link>https://www.toutiao.com/article/7703162137786532403/</link>
-<guid isPermaLink="false">c11db5df7575d6d2b3cd9cfc68ef1a8b</guid>
-<pubDate>Sun, 01 Nov 2026 21:57:14 +0800</pubDate>
+<title>钱权色交易融汇一身，房产巨头前掌门被带走调查，引爆全国市场</title>
+<link>https://www.toutiao.com/article/7703232909934608931/</link>
+<guid isPermaLink="false">fdf26d891cebf6de36e4c477a43e46d1</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>全网传播已破10亿！2026APEC“中国年”东道主城市主题歌《在奇迹之城遇见你》全球首发</title>
-<link>https://www.toutiao.com/article/7703190681271697956/</link>
-<guid isPermaLink="false">160dc4f3c9d69673a6a9d40f5990c30e</guid>
-<pubDate>Sun, 01 Nov 2026 21:57:14 +0800</pubDate>
+<title>足协杯半决赛憾负云南玉昆，大连英博兑现承诺拼尽全力，但暴露出不好的苗头</title>
+<link>https://www.toutiao.com/article/7703296826467746313/</link>
+<guid isPermaLink="false">c9fe300dac93460a71f0693ca7fd2cb4</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>印度忽然调兵藏南腹地！30个连队紧急压境，中国千万不能大意！</title>
-<link>https://www.toutiao.com/article/7703191434798645798/</link>
-<guid isPermaLink="false">4b3d295325c5a97559602b437e580c41</guid>
-<pubDate>Sun, 01 Nov 2026 21:57:14 +0800</pubDate>
+<title>12所高校22支团队集结！2026杭州大学生AIGC短片创作线下黑客松正式启动</title>
+<link>https://www.toutiao.com/article/7703310404734190115/</link>
+<guid isPermaLink="false">e1b9fa142382a0d3c5eee1adbbb708d0</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>王石给所有男人都上了一课! 你可以娶小30岁的女人，也可以在69岁的时候生孩子，但你娶小30岁的女人之后七十多岁还能滑雪能玩蹦床，是真得牛。 这份充沛的精力，源于长年自律，坚持运动管理身体。 这类极限运动门槛很高，需要长期训练打底。 每个人体质不同，不要盲目跟风去尝试。 优越条件只是辅助，健康才是最难得的底气。 人生很多选择都需要身体支撑，坚持自律养护自己，才是长久之道。</title>
-<link>https://www.toutiao.com/w/1880661860121612/</link>
-<guid isPermaLink="false">45a47bb9d08d745f3402df54f872fcf2</guid>
-<pubDate>Sun, 01 Nov 2026 21:57:14 +0800</pubDate>
+<title>第四届青奥会在非洲开幕，但下届主办方遴选程序被叫停，这项赛事还有未来吗？</title>
+<link>https://www.toutiao.com/article/7703297537138000394/</link>
+<guid isPermaLink="false">ef2fe1a97798ee45f9e7e80ca5ab2185</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>德尔加多上演拳击动作，被红牌直接罚下，大连英博9人应战！</title>
-<link>https://www.toutiao.com/video/7703190462177231396/</link>
-<guid isPermaLink="false">e71a8563c9e623b9f49a6e6115f9b815</guid>
-<pubDate>Sun, 01 Nov 2026 21:57:14 +0800</pubDate>
+<title>伊朗称两艘油轮未经授权穿越霍尔木兹海峡触雷爆炸</title>
+<link>https://www.toutiao.com/article/7703301038765310500/</link>
+<guid isPermaLink="false">75c670cec54b1130f0bf5ef1e4752e61</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>片仔癀净利暴跌7成！中成药圈藏最深的3个认知误区</title>
-<link>https://www.toutiao.com/video/7703196894800953897/</link>
-<guid isPermaLink="false">828f799a6a3d5fae89d6de94f19ad5c2</guid>
-<pubDate>Sun, 01 Nov 2026 21:57:14 +0800</pubDate>
+<title>扎克伯格：我们要自研机器人！网友：确定是自研? 小扎：中国造的!</title>
+<link>https://www.toutiao.com/article/7703043274982605352/</link>
+<guid isPermaLink="false">f2b91605a7ba1908c41de1cc46789cd4</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>海关新增 “外脑”！上外世界海关研究中心正式揭牌</title>
-<link>https://www.toutiao.com/article/7703176660480229951/</link>
-<guid isPermaLink="false">c0b0b68ffffbb639aec095db02d0d043</guid>
-<pubDate>Sun, 01 Nov 2026 20:57:14 +0800</pubDate>
+<title>WorkBuddy新功能上线，手机可以控制电脑啦 #榨干软件howto #办公神器howto #workbuddy #workbuddy教程</title>
+<link>https://www.toutiao.com/w/1880690265886720/</link>
+<guid isPermaLink="false">623b173da858a906d58c2ed39f5b3aae</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>小鬼当家！18岁布尼亚明传射19岁杨铭锐破门，两人都是国青核心</title>
-<link>https://www.toutiao.com/article/7703176874100376118/</link>
-<guid isPermaLink="false">b32c85d2d1f317b862e640d331a9dbbd</guid>
-<pubDate>Sun, 01 Nov 2026 20:57:14 +0800</pubDate>
+<title>人工智能圈的头把交椅还没坐热，克劳德背后的这家巨头，突然把家底一股脑全端出来了。 上一代主力模型才刚刚推向市场，两款代号全新的下一代模型，就在云计算平台的目录里闪现了几分钟。虽然页面被火速撤下，但截屏和跑分早就传遍了各大开发者群。 画面里的细节简直是在找茬。一只骑自行车的鹈鹕，不仅嘴里叼着的鱼鳞清晰可见，车轮压过沙滩留下的深浅凹痕，甚至连钢丝反光倒映在地面的细碎光斑，都一笔一笔画得清清楚楚。另一款代号为黑曜石的模型，在专业测试平台上的成绩，更是直接把现役天花板又往上抬了一截。 键盘上的回车键还没敲热，追赶者就已经把刀架到了脖子上。 这家平时总把技术安全挂在嘴边、看起来不慌不忙的公司，为什么突然像上了发条一样疯狂连发？ 答案全在台面下的那张筹备已久的上市时间表里。外面传闻的估值早就喊上了天际，在真正面对挑剔的市场前，没有什么比把最强的技术家底砸在桌面上，更能让人闭嘴的了。 最快据说就在一两周之内，这两张新底牌就会正式掀开。 这场没有终点的军备竞赛，到底是真到了技术质变的前夜，还是上市前不得不演的一出秀肌肉大戏？</title>
+<link>https://www.toutiao.com/w/1880688647022858/</link>
+<guid isPermaLink="false">10642225c46395fc507f74cdb74b6cc6</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>赫拉利深度访谈：真正的 AI 危机来了！</title>
-<link>https://www.toutiao.com/article/7703176703027233307/</link>
-<guid isPermaLink="false">ed7797d1118efb27f5bbf106a1ae791a</guid>
-<pubDate>Sun, 01 Nov 2026 20:57:14 +0800</pubDate>
+<title>美国佛罗里达州发生飞机坠毁事故</title>
+<link>https://www.toutiao.com/article/7703307012168024576/</link>
+<guid isPermaLink="false">4b82bdb814d42e0514fc6be616e83aac</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>从打游戏到做游戏，北京海淀电竞联赛链接创作人才</title>
-<link>https://www.toutiao.com/article/7703183613227139618/</link>
-<guid isPermaLink="false">ac3a9cce0c44be9177f730be1ac4eb9a</guid>
-<pubDate>Sun, 01 Nov 2026 20:57:14 +0800</pubDate>
+<title>青春无限极 蓄芳待来年！中国U17女足首进世界杯八强创造新的历史</title>
+<link>https://www.toutiao.com/article/7703308019941065242/</link>
+<guid isPermaLink="false">1322ee86243009b71a21b1489b200924</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>第二轮第二场，紫气东来队率先亮相。安徽亳州的邓浩冉</title>
-<link>https://www.toutiao.com/video/7703183206257787428/</link>
-<guid isPermaLink="false">90b322b88a83bb5e5925513013c7f88e</guid>
-<pubDate>Sun, 01 Nov 2026 20:57:14 +0800</pubDate>
+<title>刚刚看完U17中国女足对世界足球王国巴西女足，踢得真好啊。最精彩的不是进球，是两个没有进球的球。 下半场十几分钟左右，巴西队一个爆射，正正地踢中中国队右门柱！不偏不倚，零度角弹回去了！牛守门员一点都没有反应，太快了。如果这个球进了那真是没有脾气。我反复看的就是这个球的突然，正正中立柱，守门员完全没有反应！ 第79分钟，中国队把巴西队的禁区搞得天翻地覆，方珍珠两射不进，对方防守队员手忙脚乱，球在门框和罚球点附近的人缝里穿来穿去，就是不进啊！如果这个球进了，后面巴西的威胁会小很多。 总之，中国队虽败犹荣，马晓旭厉害，刘雨溪厉害，方珍珠，牛子琪厉害，中国女足前途无量！</title>
+<link>https://www.toutiao.com/w/1880688165778506/</link>
+<guid isPermaLink="false">a28b9f52d52731d517f396212b04108b</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>曼城主场一球饮恨 遭遇联赛两连败</title>
-<link>https://www.toutiao.com/video/7703182317635830310/</link>
-<guid isPermaLink="false">5d39ad53b8b715b5f3fc2580d1fbb93e</guid>
-<pubDate>Sun, 01 Nov 2026 20:57:14 +0800</pubDate>
+<title>33个月追回不到1%！许家印的奢靡藏不住了，13亿买名画12亿捐哈佛</title>
+<link>https://www.toutiao.com/article/7703118808264835634/</link>
+<guid isPermaLink="false">8ede3fd3135ab068a7f53ecb9055bf52</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>俄媒一旦战争爆发中国将被围攻，对中国而言，最危险的不只战争</title>
-<link>https://www.toutiao.com/video/7703185947126514219/</link>
-<guid isPermaLink="false">2a9093caedcdd7b0c665ad5c407ad054</guid>
-<pubDate>Sun, 01 Nov 2026 20:57:14 +0800</pubDate>
+<title>高市称将利用假期追“毒剧”，公开为“文化投毒”站台背书</title>
+<link>https://www.toutiao.com/article/7703296826467762697/</link>
+<guid isPermaLink="false">7c9274914a05972d1b24b41c71718335</guid>
+<pubDate>Mon, 02 Nov 2026 05:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>沪苏两日，两场胸外学术盛宴！ 先后分享了团队在食管癌微创、肺上沟癌的诊疗探索。 沪苏不愧是胸外医学高地，大咖与青年才俊汇聚。学习大家开阔的视野、敢闯敢研的精神。旧友重逢，新识同道，满载而归，继续求索。#福建协和旗山胸外林江波#学术会议汇报 #学术会议交流 #</title>
-<link>https://www.toutiao.com/video/7703184070813712930/</link>
-<guid isPermaLink="false">e8a7ca2a6958a109975899be8aedf5df</guid>
-<pubDate>Sun, 01 Nov 2026 20:57:14 +0800</pubDate>
+<title>中国队无缘U17女足世界杯四强</title>
+<link>https://www.toutiao.com/article/7703294380450349583/</link>
+<guid isPermaLink="false">072a8ddc2cf0186e2d1a0e5a9c813fe2</guid>
+<pubDate>Mon, 02 Nov 2026 04:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>卧槽，两妹子死的太冤了，刚下班回家人没了太可怕了</title>
-<link>https://www.toutiao.com/video/7703164800645235241/</link>
-<guid isPermaLink="false">a5c1d3acf0cdf891521f3138e4aeee2a</guid>
-<pubDate>Sun, 01 Nov 2026 20:57:14 +0800</pubDate>
+<title>值得掌声！中国U17女足结束世界杯征程，首次闯入8强创造历史</title>
+<link>https://www.toutiao.com/article/7703296356848288299/</link>
+<guid isPermaLink="false">9b1d1ee3d44213663fa3a425543afd40</guid>
+<pubDate>Mon, 02 Nov 2026 04:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>这次会议以后，从政要容易得多了。</title>
-<link>https://www.toutiao.com/article/7703116556540101181/</link>
-<guid isPermaLink="false">68498a276a2b98e3fadd66e4557d9b6e</guid>
-<pubDate>Sun, 01 Nov 2026 19:57:14 +0800</pubDate>
+<title>无缘决赛！U17海湾杯半决赛-U16国足0-4埃及U17，本届赛事止步4强</title>
+<link>https://www.toutiao.com/article/7703281185794867712/</link>
+<guid isPermaLink="false">55bc8856204ce29d0f3c2a96fc6fa061</guid>
+<pubDate>Mon, 02 Nov 2026 04:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>重启封存12年的图154，俄大飞机制造能力残了，迟早找中国买C919</title>
-<link>https://www.toutiao.com/article/7703162930983961088/</link>
-<guid isPermaLink="false">fe90df1214e5b6e16be9c06950df26ad</guid>
-<pubDate>Sun, 01 Nov 2026 19:57:14 +0800</pubDate>
+<title>只差1分冲甲创造历史，山东泰山B队有望成为首支升入中甲的中超俱乐部二队</title>
+<link>https://www.toutiao.com/article/7703295022993424896/</link>
+<guid isPermaLink="false">45172f72e88e3bcfa2fc254d12f10281</guid>
+<pubDate>Mon, 02 Nov 2026 04:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>#作者加速成长计划# 山林深处，偶遇玉林山庄指示牌 穿行在草木繁茂的山间， 忽见路旁立着一块质朴的指示牌， 箭头向前，指向玉林山庄。 泥土坡岸长满青苔与野草， 满眼绿意扑面而来， 山野的清新气息萦绕身旁。 一块小小的路牌，像是无声的邀约， 引着游人继续向前探寻， 不知山庄深处藏着怎样清幽景致。 行走山林， 最美便是这般不期而遇的惊喜， 寻一份远离喧嚣的宁静。</title>
-<link>https://www.toutiao.com/w/1880656218310796/</link>
-<guid isPermaLink="false">50f6ff3b2329ccc2dd043b98e8cce588</guid>
-<pubDate>Sun, 01 Nov 2026 19:57:14 +0800</pubDate>
+<title>大将风范！尼奥尼在场传球数、传球成功率位居两队所有球员之首</title>
+<link>https://www.toutiao.com/article/7703292704410616371/</link>
+<guid isPermaLink="false">f46ca8dbb643947881195a51ccc0ccc5</guid>
+<pubDate>Mon, 02 Nov 2026 04:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>11比4！中国看好的人选又卡壳，美国真要一票否决？</title>
-<link>https://www.toutiao.com/video/7703111086723056128/</link>
-<guid isPermaLink="false">f1d15edb2077d3affc71269fe2b2fe49</guid>
-<pubDate>Sun, 01 Nov 2026 19:57:14 +0800</pubDate>
+<title>刚刷到PS6的完整规格泄露，光追性能直接飙到PS5的12倍，我人都看傻了。 这次爆料说它用AMD定制的Orion APU，台积电3nm工艺做的，最高配40GB GDDR7显存，GPU理论算力34到40 TFLOPS，光追性能直接追平RTX 5090级别，比RTX 5080还强一截。算下来RDNA5架构的光追能力是RDNA3的四倍多，比PS5的原生光追强出十倍都不止。 按索尼之前的发布节奏，这机子大概率2027到2028年才会出，还带类似DLSS的PSSR重建技术，能跑4K 120FPS甚至8K 60FPS，而且完全不搞纯云游戏那套，坚持本地硬件运行，就怕用户家里网络拖后腿。 就是不知道首发价格会不会直接干到七八千，现在手里的PS5突然就不香了，但钱包已经提前开始疼了。</title>
+<link>https://www.toutiao.com/w/1880684075867148/</link>
+<guid isPermaLink="false">701867cbfda2344053f65e0a1e906a3b</guid>
+<pubDate>Mon, 02 Nov 2026 04:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>DeepSeek新智能体权限有点吓人。DeepSeek 又开源新东西了，一天涨了 4 千多星⭐ 这回是个「超级智能体」。我把它的 README 和部署文档都翻了一遍，挑重点说：🤖 它能干嘛：在 GitHub 上 @它一句「把登录页那个 bug 修一下」，它自己开分支去改，改完交给你审。没人叫它，它就不动📄 说明书第一段就在劝人冷静：研究原型、不是官方产品、可能还有 bug🚪 普通人能用吗？要单独给它注册账号、装一串工具，步骤多到官方建议让 AI 陪你装⚠️ 最该注意的在第 5 张：部署文档里写了它的权限有多大，这一条比功能本身更值得看💭 最后是我的看法：思路挺好，但现在更像是给开发团队试的想尝鲜的程序员朋友，装之前先看完这 6 张。你敢让 AI 直接改你的代码吗？👇#deepseek #人工智能 #ai语言工具 #ai编程</title>
-<link>https://www.toutiao.com/w/1880650538412032/</link>
-<guid isPermaLink="false">28a8247f01de97b1fcad06af300467e7</guid>
-<pubDate>Sun, 01 Nov 2026 18:57:14 +0800</pubDate>
+<title>连续28天更新，OpenAI交出了什么？。别以为这只是 OpenAI 主动秀肌肉！背后藏着不小的危机。之前 Codex 乱扣额度、经常限流崩溃，不少开发者转头跑去用 Claude Code。Tibo 直接立下公开 flag，每天必须拿出看得见的改动，做不出来就给大家重置额度。从模型提速、dot 语音通话，到图片语音发送、手机多账号切换，所有成果都汇总在这张日历里。你觉得这波操作，是营销噱头，还是真解决痛点？#ChatGPT #OpenAI 资讯 #GPT6.1Sol #AI 玩家 #智能体</title>
+<link>https://www.toutiao.com/w/1880686666800140/</link>
+<guid isPermaLink="false">85a26338cb0ac1877ba8ce3cdb7e89c8</guid>
+<pubDate>Mon, 02 Nov 2026 04:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>大的真的要来了！！！大量用户灰测 GPT6.2-Astra！ 这次 gpt 能打败 Claude 么？ 我们拭目以待😎#astra #gpt #codex #claude</title>
-<link>https://www.toutiao.com/w/1880649681493120/</link>
-<guid isPermaLink="false">8dfd3d26e630ecf017ab51979ea6cd37</guid>
-<pubDate>Sun, 01 Nov 2026 18:57:14 +0800</pubDate>
+<title>工商银行获得发明专利授权：“基于区块链的纸质材料借阅请求处理方法、装置和处理器”</title>
+<link>https://www.toutiao.com/article/7703295554725347880/</link>
+<guid isPermaLink="false">49ba7026ead2c1a55f782a82d8e1c8cc</guid>
+<pubDate>Mon, 02 Nov 2026 04:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>一封三种语言的求助邮件，揭开芬兰电池材料厂中国工人遭遇：9人曾被拘留</title>
-<link>https://www.toutiao.com/article/7703147566371783183/</link>
-<guid isPermaLink="false">4825e86a471b06662194da1e4def8feb</guid>
-<pubDate>Sun, 01 Nov 2026 18:57:14 +0800</pubDate>
+<title>拉夫罗夫回应德国外长等人拒绝与他“同框”：家庭合影外交</title>
+<link>https://www.toutiao.com/article/7703294206789354035/</link>
+<guid isPermaLink="false">f28b0cb8641b4410c01a42981fdcf192</guid>
+<pubDate>Mon, 02 Nov 2026 04:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>&quot;月亮太亮，干扰夜间睡眠&quot;&quot;成绩不理想，要求重考&quot;…一地明确：12345不再接这几类诉求</title>
-<link>https://www.toutiao.com/article/7703150046850449920/</link>
-<guid isPermaLink="false">99fce6e89b70b3de9c5c5062b53836a9</guid>
-<pubDate>Sun, 01 Nov 2026 18:57:14 +0800</pubDate>
+<title>robots.txt成AI训练闸门：四大巨头共推退出标准，数据治理权开始上移</title>
+<link>https://www.toutiao.com/article/7522739117425308758/</link>
+<guid isPermaLink="false">857ced5d3c723e380db0b7f4a512a264</guid>
+<pubDate>Mon, 02 Nov 2026 04:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>把空气“冷冻”起来存电能 我国实现液态空气储能技术重大突破</title>
-<link>https://www.toutiao.com/article/7702738612806533695/</link>
-<guid isPermaLink="false">03688ea5f701587fa5d581c141b80312</guid>
-<pubDate>Sun, 01 Nov 2026 18:57:14 +0800</pubDate>
+<title>从现有信息看，DeepSeek4.1Pro迟迟不发布，是因为原用的V4 Pro基模架构被两次验证存在问题，目前已换成V4 Flash架构，且新模型规模约2T，短期内不会推出。</title>
+<link>https://www.toutiao.com/w/1880687488708632/</link>
+<guid isPermaLink="false">f5405add0ba66940c3b45afb300a797c</guid>
+<pubDate>Mon, 02 Nov 2026 04:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>法国这波0元购都闹到第三轮了，真的越玩越离谱。 之前暴动刚平息，洗劫来的赃物直接就摆到巴黎街头公然卖，各种LV、香奈儿的奢侈包摊开了随便挑，线下路边就敢直接交易，线上平台也到处挂着来历不明的奢侈品链接。 官方统计这几轮下来超过3000家商店被砸被抢，损失根本算不过来。抢的人自己肯定用不完这么多货，第一时间就忙着销赃换钱，嚣张到根本不避人。现在法方急着召集亚马逊等6大电商平台开会，要求立刻下架所有可疑赃物链接，配合追查流向。 就这局面，接下来勒庞的极右翼铁定要借着这事猛打移民牌，后续的热闹估计还没完。[图片]</title>
-<link>https://www.toutiao.com/w/1880650782697472/</link>
-<guid isPermaLink="false">bcc1cb6685644db66046b0cc5a10512d</guid>
-<pubDate>Sun, 01 Nov 2026 18:57:14 +0800</pubDate>
+<title>特朗普称没有计划见小博索纳罗，但他在美国“想待多久就可以待多久”</title>
+<link>https://www.toutiao.com/article/7703289941471642147/</link>
+<guid isPermaLink="false">d9dcd2601b18813280c7ef576e4a4eb5</guid>
+<pubDate>Mon, 02 Nov 2026 04:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>#德国也乱了# 我说句实话，德国这波操作，开始的时候诉求挺正常的。教育、生活费，结果晚上法兰克福画风突变，蒙面人砸店抢货、朝救援人员扔燃烧瓶，汉堡路障都点了，商家提前钉死橱窗……黑森州内政部长说。约100个左翼极端分子混进去了。说白了就是和平示威被极端力量劫持，诉求再合理，一沾暴力就变味。这剧情，法国老哥们，你们有没有觉得似曾相识😅 #德国也乱了#[图片]</title>
-<link>https://www.toutiao.com/w/1880651914231820/</link>
-<guid isPermaLink="false">7b08cf2a91271046183f1d141648f480</guid>
-<pubDate>Sun, 01 Nov 2026 18:57:14 +0800</pubDate>
+<title>W盛典本来以为迪丽热巴不参加，刘亦菲应该是最出彩的，没想到却被她给抢了风头，大家直呼太惊艳了！ 本以为神仙姐姐坐镇，稳赢是板上钉钉的事。结果镜头一转，全网的注意力全被林允给拽走了。 现在的红毯看多了真让人审美疲劳，女明星们扎堆穿大裙摆、安全牌婚纱，美是美的，但也实在寡淡得让人想划走。刘亦菲那张脸挑不出毛病，但这身缎面大白裙，闭着眼睛都能猜到风格，纯靠神颜在硬撑。 反观林允，完全是带着一股杀气来的。 一头扎眼的红发，手里拎着柄长剑，脸上特写还特意打了红桃暗影，整个人往那一站，就像童话里叛逆冷艳的红桃女王直接撕裂次元壁走出来了。 红毯本来就不是影楼拍写真，光端着漂亮有什么劲？ 敢把概念玩出戏剧感、敢让人心里咯噔一下的造型，现在真是打着灯笼都难找。这一局真不是比谁咖位大，谁敢打破那股无趣的精致，谁才算把这块红毯给吃透了。</title>
+<link>https://www.toutiao.com/w/1880685350083584/</link>
+<guid isPermaLink="false">fb640b41e4a431455e2e86380001fbe5</guid>
+<pubDate>Mon, 02 Nov 2026 04:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>解放军位中国黄岩岛领海领空战备警巡 总体看，无侦-7负责“看得远、盯得久、传得快”，教-10负责“贴得近、耗得起、喊得明”，两者与预警机、轰炸机、战斗机、护卫舰、补给舰等构成分层处置体系，分别对应高空态势感知与低空执法驱离两类场景。</title>
-<link>https://www.toutiao.com/w/1880652510557188/</link>
-<guid isPermaLink="false">d7c0400379271a78167176214beb2107</guid>
-<pubDate>Sun, 01 Nov 2026 18:57:14 +0800</pubDate>
+<title>大华股份获得发明专利授权：“一种基于低代码开发平台的应用访问方法及装置”</title>
+<link>https://www.toutiao.com/article/7703295547502871040/</link>
+<guid isPermaLink="false">3cb41a483f54bb0b6124a197f894e9fe</guid>
+<pubDate>Mon, 02 Nov 2026 04:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>老板，8 块钱肠粉这么多叉烧不亏本吗？ #肠粉 #早餐打卡 #玉林美食</title>
-<link>https://www.toutiao.com/w/1880652477987840/</link>
-<guid isPermaLink="false">508b22183e9894ac0d43d2314999d99c</guid>
-<pubDate>Sun, 01 Nov 2026 18:57:14 +0800</pubDate>
+<title>翻车了？小小徐的婚还没结完，涌现大量吐槽，平台处罚公告也来了</title>
+<link>https://www.toutiao.com/article/7703094745370788390/</link>
+<guid isPermaLink="false">3dcb597aa773aaa34c7b8e86c2cec2f1</guid>
+<pubDate>Mon, 02 Nov 2026 04:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>烟雨中华门，静待霓裳起！南京国际时尚周闭幕式，90后“秀导”紧盯每一秒出场节奏</title>
-<link>https://www.toutiao.com/article/7703143282050368042/</link>
-<guid isPermaLink="false">8a0221f90a8290ba09441a2ee28b6b38</guid>
-<pubDate>Sun, 01 Nov 2026 18:57:14 +0800</pubDate>
+<title>会展中心招聘会🫂。今天去了趟会展中心的招聘会，真的切身感受到现在的就业环境越来越难了。现场人山人海人挤人，连挤都挤不进去。真心觉得有工作的话，就尽量别随便辞职……#招聘会 #南宁 #会展中心</title>
+<link>https://www.toutiao.com/w/1880682217644036/</link>
+<guid isPermaLink="false">c3bb5c9fadbcd202970f70150cbb4fae</guid>
+<pubDate>Mon, 02 Nov 2026 03:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>太离谱！姆巴佩账号持续更新个人照片挑衅的太明显！道歉只是用来尽快止损，完全没有诚意！网友怀疑那篇道歉内容可能他自己都没有看过！</title>
-<link>https://www.toutiao.com/video/7703149292634063401/</link>
-<guid isPermaLink="false">efbd69212931fd394c5d109553b39861</guid>
-<pubDate>Sun, 01 Nov 2026 18:57:14 +0800</pubDate>
+<title>Chat无限聊没了。官方文档刚更新的，12月开始plus、pro和business的额度并成一个池子，全部按token算，用codex多的人等于把chatgpt那份也花了，以后两边抢一个池子。#chatgpt #codex #openai #大模型</title>
+<link>https://www.toutiao.com/w/1880680205152384/</link>
+<guid isPermaLink="false">a040d5cf364c3c5adac272f40f62ce41</guid>
+<pubDate>Mon, 02 Nov 2026 03:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>美军MQ-25无人加油机还没部署，辽宁舰这套编队在西太平什么水平</title>
-<link>https://www.toutiao.com/article/7703136066936586786/</link>
-<guid isPermaLink="false">953a602595df50ed3fec174df25b4ab6</guid>
-<pubDate>Sun, 01 Nov 2026 17:57:14 +0800</pubDate>
+<title>ai终究是ai，没意思虽然一抬头看见电脑上一堆代码恍惚了一下吧#跨次元沟通 #大肥鱼 #deepseek</title>
+<link>https://www.toutiao.com/w/1880676374533131/</link>
+<guid isPermaLink="false">c78b2aeb1d87759333f14ba65ed4a3d8</guid>
+<pubDate>Mon, 02 Nov 2026 02:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>在家里拉烟，出国才变帅！乌兹别克斯坦发布歼10CE宣传片，感觉比我们拍的还帅气！</title>
-<link>https://www.toutiao.com/video/7703133296410001939/</link>
-<guid isPermaLink="false">cf60f5926cfce0dbfbe531deabfedafd</guid>
-<pubDate>Sun, 01 Nov 2026 17:57:14 +0800</pubDate>
+<title>自行火炮正在野外临时站台上进行铁路装载作业。这是九十年代，陆军穿甲能力最强的反坦克炮，89式120毫米自行反坦克炮，超高的膛压，超高的初速，整装炮弹，钨合金脱壳穿甲弹，都是好东西呀。#上头条 聊热点##拼凑汇编#</title>
+<link>https://www.toutiao.com/w/1880672877864003/</link>
+<guid isPermaLink="false">a44bf7aa5c60bff76650a8d55f3d6b5d</guid>
+<pubDate>Mon, 02 Nov 2026 01:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>OpenCode 更到 v2.1.2。免费额度用完时不再只给个笼统报错了：会显示重置时间、帮你找回刚输入的提示词，还能一键升级或换模型。全新安装器也会自动配好 PATH。#opencode #opencode更新</title>
-<link>https://www.toutiao.com/w/1880648006726660/</link>
-<guid isPermaLink="false">b680f9272b6e00c4b789c1c5f4d8743c</guid>
-<pubDate>Sun, 01 Nov 2026 17:57:14 +0800</pubDate>
+<title>花一半的钱拿第一！谷歌Gemini 4 Carbon横扫“广深研究”大考</title>
+<link>https://www.toutiao.com/article/7703089820452667923/</link>
+<guid isPermaLink="false">f9461ec9ffe76aa2b879497eb43efa57</guid>
+<pubDate>Mon, 02 Nov 2026 01:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>2027款比亚迪T5房车亮相！颠覆世界的国产房车，厨房浴室一应俱全，仅供参考</title>
-<link>https://www.toutiao.com/video/7691021120727794212/</link>
-<guid isPermaLink="false">8f46f8807865cdb8ac25f325441faf4c</guid>
-<pubDate>Sun, 01 Nov 2026 17:57:14 +0800</pubDate>
+<title>DeepSeek亮出“超级智能体”架构，人类注意力成了最大瓶颈</title>
+<link>https://www.toutiao.com/article/7703116079979102762/</link>
+<guid isPermaLink="false">0a1a65bad5f71312c226acdee8381e4d</guid>
+<pubDate>Mon, 02 Nov 2026 00:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>航行警告！渤海海峡黄海北部部分海域执行军事任务</title>
-<link>https://www.toutiao.com/article/7703111953404707370/</link>
-<guid isPermaLink="false">87f2ca2ccd760e810c3c9dbace150f1b</guid>
-<pubDate>Sun, 01 Nov 2026 16:57:14 +0800</pubDate>
+<title>无侦8高来高去，不只定位美军航母，还给临近空间飞行器打了基础</title>
+<link>https://www.toutiao.com/article/7703222796381405730/</link>
+<guid isPermaLink="false">c86b0b7eea0a5579972f7bad090e62eb</guid>
+<pubDate>Mon, 02 Nov 2026 00:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>冰耀初冬 精彩连台 北京赛事11月精彩抢先看</title>
-<link>https://www.toutiao.com/article/7703114688854295074/</link>
-<guid isPermaLink="false">7af23453e988a584701cd8b37993fa8d</guid>
-<pubDate>Sun, 01 Nov 2026 16:57:14 +0800</pubDate>
+<title>美日演习滑稽时刻：离台岛110公里，日本夺岛王牌舰被珊瑚礁逼退</title>
+<link>https://www.toutiao.com/article/7703230584432656931/</link>
+<guid isPermaLink="false">7d5bae05e2d4028bb5886ec7e849cf95</guid>
+<pubDate>Mon, 02 Nov 2026 00:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>访华结束，德国总统回国前，说出此行唯一遗憾，全球目光转向日本</title>
-<link>https://www.toutiao.com/article/7703122781738779163/</link>
-<guid isPermaLink="false">4a7ede4a4167bd74051480b177ae3bf0</guid>
-<pubDate>Sun, 01 Nov 2026 16:57:14 +0800</pubDate>
+<title>又烧了一架，苏57发动机起火焚毁，损失5架前景并不乐观</title>
+<link>https://www.toutiao.com/article/7703213489318036004/</link>
+<guid isPermaLink="false">79252781da367fafc3ce156b2e5821c4</guid>
+<pubDate>Mon, 02 Nov 2026 00:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>聊天和写代码，12 月起抢同一份额度</title>
-<link>https://www.toutiao.com/article/7703101342623318563/</link>
-<guid isPermaLink="false">8912acd000b5f90e659fe61a07e3cffa</guid>
-<pubDate>Sun, 01 Nov 2026 15:57:14 +0800</pubDate>
+<title>美科技媒体：中国悍马车顶搭12枚导弹，暗示防空系统进行重大升级</title>
+<link>https://www.toutiao.com/article/7703094543910158911/</link>
+<guid isPermaLink="false">3e563f9eba9ca71f2c619803b60938ed</guid>
+<pubDate>Mon, 02 Nov 2026 00:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>特朗普称美国仍需“处理”伊朗一两个目标</title>
-<link>https://www.toutiao.com/video/7703108449324663336/</link>
-<guid isPermaLink="false">2f1df0c64e68ee33e29fd14b754ce146</guid>
-<pubDate>Sun, 01 Nov 2026 15:57:14 +0800</pubDate>
+<title>11月2日·上海早新闻</title>
+<link>https://www.toutiao.com/article/7703204687939437096/</link>
+<guid isPermaLink="false">2987a344f7064b7c9eb8403633461b51</guid>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>说真的，今天看那个AI写东西的速度，我真有点懵。我吭哧吭哧憋了一下午的活儿，它几秒钟就给我列得明明白白，那一刻心里还挺不是滋味的，真觉得自己是不是要被淘汰了。 但后来自己瞎捣鼓了一下午，突然又想开了。它再牛，写出来的东西也是干巴巴的，没那种“人味儿”。说白了，它就是个高级点的工具，咱普通人别老自己吓自己了，该吃吃该喝喝，借它的力帮咱早点下班才是正经事，犯不着为这内耗。</title>
-<link>https://www.toutiao.com/w/1880640202187787/</link>
-<guid isPermaLink="false">807d5ae42f4ebf9af69f76a2f061cb57</guid>
-<pubDate>Sun, 01 Nov 2026 15:57:14 +0800</pubDate>
+<title>6架二手客机改成加油机，印度洋上战机多飞一会，这账印度算20年</title>
+<link>https://www.toutiao.com/article/7703206389212103187/</link>
+<guid isPermaLink="false">c637e082cbd956acfad579566aaa9875</guid>
+<pubDate>Sun, 01 Nov 2026 23:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>世界这个草台班子超乎你想象 在珠海旅游，晚上到日月贝闲逛，下车了听说有无人机表演，八点开始，我下车已经八点多了但表演还没开始，我想这不是巧了吗正好能赶上，意外收获惊喜，然后就在海边等，结果迟迟不开始，后来看到官方直播是九点开始，等到快九点有几架无人机在飞了，到九点几架无人机飞远了，以为在做准备，结果直接飞走了？？然后日月贝大屏上就显示延迟的通知几万人站了一个多小时等着看表演，结果就这样取消了？如果预估天气影响飞不了，不应该提前通知吗？为什么非得等到跟前了才发现无法飞再取消？这么大型的聚集活动不提前预估风险吗？因为我并不是专门来看无人机的没看到也没感觉很失望，就是挺无语的这个世界有巨大的容错性，世界这个草台班子超乎你想象，你可以随意瞎玩，怎么样都无所谓啦#世界就是个草台班子# #珠海无人机表演#</title>
-<link>https://www.toutiao.com/w/1880640076038216/</link>
-<guid isPermaLink="false">4cc3b6eaefeb16cbca450af1c62782e3</guid>
-<pubDate>Sun, 01 Nov 2026 15:57:14 +0800</pubDate>
+<title>埃及公司说能绕开原厂，阵风F16随便挂中国弹，但源代码关谁来过</title>
+<link>https://www.toutiao.com/article/7703211745464025643/</link>
+<guid isPermaLink="false">1ad8da81d542f065780d963e1314baf2</guid>
+<pubDate>Sun, 01 Nov 2026 23:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>黄金近10个月价格变化： 1、1月：1164元/克 2、2月：1143元/克 3、3月：1019元/克 4、4月：1014元/克 5、5月：985元/克 6、6月：879元/克 7、7月：885元/克 8、8月：962元/克 9、9月：907元/克 10、10月：855元/克 从开年的一克1164元一路滑落到10月的855元，每克生生跌没了300多块。 年初柜台前排长队抢金条金镯子的人，这会儿估计心里五味杂陈。当时金店里挤得水泄不通，柜员嘴里全是抗通胀，很多结婚买首饰、攒金豆的年轻人怕买晚了更贵，连大几十块一克的高昂工费都没还价，兴冲冲地掏空腰包。 结果这大半年走下来，根本没给犹豫的人留体面。 普通人跑去金店买金饰，从一开始就不是纯投资。品牌溢价摆在那里，买入时承担着高额手工费，真要拿去二手回收变现，回收店还要按照板料成色折算磨损，层层扒皮。一买一卖之间，实打实亏进去的远不止票面上那点差价。 “乱世买金，越跌越心慌。” 看着如今柜台前冷冷清清、导购坐着刷手机，才算彻底明白过来，世上压根没有只涨不跌的避风港，跟风买在顶峰上的，最后往往都要自己咽下浮亏的苦水。</title>
-<link>https://www.toutiao.com/w/1880639306697800/</link>
-<guid isPermaLink="false">bbc1ffd13975499488f15cb7e05c949f</guid>
-<pubDate>Sun, 01 Nov 2026 15:57:14 +0800</pubDate>
+<title>JL-10J弹射型舰载教练机登上“福建”舰航母，应该是全尺寸调度模型，用于在航母甲板训练。 JL-10J目前登上福建舰甲板的形态确实以全尺寸调度模型为主，作用是验证甲板停放、转运和机库调度的空间适配性，而非进行实际弹射起降。福建舰此前已多次被发现甲板上出现歼-15T、歼-35、空警-600等机型的模型，教练-10J模型也在其中，属于航母形成战斗力前的常规流程。 关于“训练用途”需要区分两层：模型阶段的“训练”指的是甲板调度人员的作业训练与流程验证；而JL-10J作为舰载教练机的真正价值，是未来列装后承担舰载机飞行员的弹射起飞、拦阻着舰训练，填补教练-9G之后的高级舰载教练机空白。该机已进行舰载化改造，包括双垂尾、双前轮起落架等特征，目前处于试飞阶段，尚未有官方确认的实际上舰弹射记录。</title>
+<link>https://www.toutiao.com/w/1880666063437891/</link>
+<guid isPermaLink="false">7d4cb7fba42e84caaffb4b3475d42482</guid>
+<pubDate>Sun, 01 Nov 2026 23:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>OpenAI 开源 Codex Harness OpenAI 把 Codex 背后的核心代码开源了。 不只是 CLI，还能看到 Agent 的工具调用、任务执行、运行环境等实现。 想研究 Coding Agent 怎么搭建的，可以直接去翻源码。 #ai #AI工具 #大模型 #开发 #openai #Harness #codex #人工智能 #科技 #AI学习</title>
-<link>https://www.toutiao.com/w/1880639339784202/</link>
-<guid isPermaLink="false">c93a1aeceaba5a1e2a1f4de1d0fb44ea</guid>
-<pubDate>Sun, 01 Nov 2026 15:57:14 +0800</pubDate>
+<title>合同签了飞行员也训完，飞机却要等打完仗，伊朗这口气憋得有点久</title>
+<link>https://www.toutiao.com/article/7703209874255036991/</link>
+<guid isPermaLink="false">2da24cdb3cbb50e0c93af60b0cb59de6</guid>
+<pubDate>Sun, 01 Nov 2026 23:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>挖到宝了！北京丽泽商务区地下7米，藏着三艘1800年前的官方大船</title>
-<link>https://www.toutiao.com/article/7703091876592763411/</link>
-<guid isPermaLink="false">6b2730535469a5edd0a1707db417c6ab</guid>
-<pubDate>Sun, 01 Nov 2026 14:57:14 +0800</pubDate>
+<title>蝰蛇毒液要换骨头了，动力加强才能挂新弹，陆战队这一步绕不过去</title>
+<link>https://www.toutiao.com/article/7703203115042079274/</link>
+<guid isPermaLink="false">259796d56ff442a16dc715e7e532cd19</guid>
+<pubDate>Sun, 01 Nov 2026 22:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>改封邮件有人花1分有人烧54分，WorkBuddy十七款模型差价离谱，老手早把杂活甩给免费款，你还拿最强大脑回消息</title>
-<link>https://www.toutiao.com/article/7703083242127180328/</link>
-<guid isPermaLink="false">7359af813ded04ce639d16914c2d8ece</guid>
-<pubDate>Sun, 01 Nov 2026 14:57:14 +0800</pubDate>
+<title>因部分会员失联、达不到开会人数要求，多个地方行业协会宣布自行解散</title>
+<link>https://www.toutiao.com/article/7703190899505611264/</link>
+<guid isPermaLink="false">2a93c42edf94ccf742020ae5f01d785f</guid>
+<pubDate>Sun, 01 Nov 2026 22:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>攻击-21成功着舰：全球首艘无人机航母的硬核突破！</title>
-<link>https://www.toutiao.com/video/7703082015553225216/</link>
-<guid isPermaLink="false">ae7a4fc284e78eeb64c871bd10003deb</guid>
-<pubDate>Sun, 01 Nov 2026 14:57:14 +0800</pubDate>
+<title>恍若“小九寨”，颐和园秋景进入最佳观赏期</title>
+<link>https://www.toutiao.com/article/7703176308490011187/</link>
+<guid isPermaLink="false">4b5c7bdc27818abbd54f27a6d557c742</guid>
+<pubDate>Sun, 01 Nov 2026 21:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>用了智谱的max coding plan一年多了，用了快270亿token，给我的感觉是，新版的coding plan份量太少，周度额度随便几下就红了，最近1个月又加上deepseek的api，最近30天又烧了42亿token，两个渠道的api才够用 #glm智谱# #deepseek# 程序员的天真的彻底变了，希望国产llm越来越好，越来越便宜吧</title>
-<link>https://www.toutiao.com/w/1880636034178052/</link>
-<guid isPermaLink="false">97b7d111af4f94502d7d31efc820db0b</guid>
-<pubDate>Sun, 01 Nov 2026 14:57:14 +0800</pubDate>
+<title>少见！在民航雷达上竟然抓到一架军机！ Flightradar24上抓到的这架军机，是大家熟知的无侦-10，也就是翼龙10高速喷气无人机。 这架呼号CA6081，机型标注CAIG 的无侦-10，从青海格尔木机场起飞，高度接近8000米，航速接近490公里每小时。 无侦-10是一架双发涡喷高速高空无人机。 之所以说少见，因为军用战机（有/无人机）正常来说ADS-B应答机平时是关闭的，民用雷达根本看不到。这架则少见的打开了位置应答，才被Flightradar24捕捉到，这个画面很难得。 从图中航线看，这架无侦-10大概率是在开展高原环境下的科目测试或者探测任务。说白了就是一次民用任务，否则你很难解释他为啥会打开位置应答。 难得开一次ADS-B，被抓了现行</title>
+<link>https://www.toutiao.com/w/1880660211963971/</link>
+<guid isPermaLink="false">e26f1db45498c3020b93acbc08213619</guid>
+<pubDate>Sun, 01 Nov 2026 21:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>南宁周末48h📍度假在广西的山野童话秘境 从南宁自驾3h直达，远离城市喧嚣 一头扎进清幽治愈的大容山！ 澄澈透亮的湖水倒映着蓝天山林 湖畔伫立的欧式礼堂是绝佳C位机位 草坪、碧湖、复古建筑、远山同框 自带油画滤镜，随手一拍都是欧式度假大片📸 闲暇时在草坪搭起帐篷、烧烤闲谈 吹着温柔的山间晚风，看山野绿意绵延 亲子出游、闺蜜打卡、情侣短途度假都超适配 谁能想到深山里还藏着室内滑雪馆❄️ 真正实现四季玩雪自由！不用等冬天 专业滑雪道适配滑雪爱好者，尽情驰骋撒欢 还有超适合小朋友的戏雪专区 雪圈滑道、雪地碰碰车趣味十足 全套雪服雪板场馆都提供👈 度假住宿选择超丰富，一站式懒人度假拿捏！ 🏔️雪乐源酒店：依山而建，开窗即是山野绿意，出行省心，适合全家入住 🛸太空舱民宿：满满科技感，智能设施+全景观景窗，躺看山林云海 🌲特色木屋：童话屋、树鲨屋、玲珑屋等错落藏在林间 ✨星空观景屋 超大观景视野，晴天夜晚抬头就是漫天星空 📌出行小Tips 山里昼夜温差偏大，一定要备好薄外套 建议自驾出行，上山游玩、穿梭各个景点都更方便 不用赶行程、不用挤人潮 来大容山，把山野、雪景、美景一次性拥有🌿 #广西小众旅游 #大容山森林公园 #玉林周边游 #广西小瑞士 #周末短途度假 #治愈系风景 #小众拍照圣地 #秋冬出游好去处 #亲子游玩攻略 #逃离城市计划</title>
-<link>https://www.toutiao.com/w/1880636689464332/</link>
-<guid isPermaLink="false">d0d00f4665673c814cad4c63ae1472aa</guid>
-<pubDate>Sun, 01 Nov 2026 14:57:14 +0800</pubDate>
+<title>瑞士苏黎世等地发生骚乱，抗议者在马路中央焚烧垃圾桶</title>
+<link>https://www.toutiao.com/article/7703180997957026314/</link>
+<guid isPermaLink="false">d5281263058974cbb080cee135eae1d5</guid>
+<pubDate>Sun, 01 Nov 2026 21:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>航母东进牵全局，岸弹机动应变局</title>
-<link>https://www.toutiao.com/video/7703090004293157403/</link>
-<guid isPermaLink="false">6efa5fc99e583f65d1fe677d0325cb41</guid>
-<pubDate>Sun, 01 Nov 2026 14:57:14 +0800</pubDate>
+<title>揽月着陆器将开启无人飞行 载人登月“彩排计划”公布</title>
+<link>https://www.toutiao.com/article/7703158112672432674/</link>
+<guid isPermaLink="false">78e6e55aeb74eb108146f4d36a374402</guid>
+<pubDate>Sun, 01 Nov 2026 20:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>Claude Code 2.1.308 发布！CLI 稳定性迎来新优化 🚀 Anthropic 发布了 Claude Code 2.1.308！ 这次更新属于偏维护性质的版本，重点是 CLI 的 Bug 修复和可靠性改进。 🔥 本次更新重点 1. CLI 稳定性优化 * 修复 CLI 使用过程中存在的问题。 * 减少运行失败的情况。 * 提升命令行工具的整体可靠性。 2. 使用体验改进 * 进一步改善日常使用的稳定性。 * 让开发工作流程更加顺畅。 * 减少不必要的使用中断。 💡 值得关注 这次不是一次大型功能更新，而是一次稳定性维护版本。 对于每天使用 Claude Code 编写代码、执行 Bash 命令、管理项目和运行 Agent 的开发者来说，稳定性同样重要。 新功能决定能力上限，稳定性决定能不能真正投入生产使用。 📌 版本： Claude Code 2.1.308 📅 发布时间： 2026 年 10 月 22 日 🔗 官方更新日志：github #ClaudeCode #Claude #AI编程 #AI工具 #程序员 #开发者工具 #Anthropic #人工智能</title>
-<link>https://www.toutiao.com/w/1880632594750604/</link>
-<guid isPermaLink="false">65d031c5b56512679da06b68f02a5ea2</guid>
-<pubDate>Sun, 01 Nov 2026 13:57:14 +0800</pubDate>
+<title>推荐我最常用的5个Workbuddy插件和技能</title>
+<link>https://www.toutiao.com/article/7703168051218285090/</link>
+<guid isPermaLink="false">fd7fb561bbdfd6f8714e700011f814c3</guid>
+<pubDate>Sun, 01 Nov 2026 20:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>滑跃航母能否削去翘头、加装电磁弹射？舰船工程与电磁秀视角辨析</title>
-<link>https://www.toutiao.com/article/7703066865530176028/</link>
-<guid isPermaLink="false">d869887644c4133424ec0f5655d3e114</guid>
-<pubDate>Sun, 01 Nov 2026 13:57:14 +0800</pubDate>
+<title>关注·观察 AI制定旅游攻略 能放心出发吗？</title>
+<link>https://www.toutiao.com/video/7703166435131933226/</link>
+<guid isPermaLink="false">bf9812d8b997e667cfad1fec59a40897</guid>
+<pubDate>Sun, 01 Nov 2026 20:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>歼36这次的发动机布局真的是把实用性和性能平衡到了极致。 三台发动机的配置，两台大推力主发负责日常巡航和超音速突防，额外加的升力辅助发直接把短距/垂直起降的门槛给踩平了，完全不需要像F35B那样为了垂直起降牺牲太多燃油和载弹空间。之前的双发隐身机在重载状态下一旦单发失效，很容易陷入姿态失控的险境，三发冗余设计哪怕坏一台，剩下两台也能稳稳把飞机载着七八吨的弹药和燃油返航。 之前试飞的画面里能看到它垂直起飞时甲板滑跑距离不到120米，比同吨位的重型战机短了近三分之二，放在两栖攻击舰上都能直接当重型截击机用，完全不用专门改弹射器，泛用性直接拉满。</title>
-<link>https://www.toutiao.com/w/1880632241570824/</link>
-<guid isPermaLink="false">d835204754d3c9437580ddab04cc29ec</guid>
-<pubDate>Sun, 01 Nov 2026 13:57:14 +0800</pubDate>
+<title>我没有制空权，要对地攻击机有什么用？我有了制空权，我还要对地攻击机干啥？确实，众所周知，我国的各个军种，在创建之初的作用其实很单一。 海军：尽量保证把陆军送上岸，给陆军干死对面创造条件。 空军：尽量保证对面空军不往陆军头上扔炸弹，给陆军干死对面创造条件。 二炮：尽量保证核威慑能力，给陆军干死对面创造条件。 武警：尽量保证后方稳定，给陆军干死对面创造条件。 最后是 陆军：在上面几个同志都失去战斗力的前提下，依然干死对面！</title>
+<link>https://www.toutiao.com/w/1880650447354880/</link>
+<guid isPermaLink="false">1786d35a6e6b276369e56d3c80d032ef</guid>
+<pubDate>Sun, 01 Nov 2026 19:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>我和千问相处belike Qwen:为什么用户在玩deepseek，只有我在当牛马review代码</title>
-<link>https://www.toutiao.com/w/1880632048280714/</link>
-<guid isPermaLink="false">21f281eaba3afdc346e698772b39f591</guid>
-<pubDate>Sun, 01 Nov 2026 13:57:14 +0800</pubDate>
+<title>OpenAI宣布ChatGPT将与Codex共享额度，token为计量单位，高级模型和复杂任务会消耗更多</title>
+<link>https://www.toutiao.com/article/7703154466937127465/</link>
+<guid isPermaLink="false">2497da1b886568f9b16e0b9220f18e40</guid>
+<pubDate>Sun, 01 Nov 2026 19:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>开了两个小时的车回玉林就为了这一口！！！ 这个烤鱿鱼！！！ 玉林真的好好吃 #玉林 #玉林美食 #玉林烧烤 #玉林夜宵 #玉林烧烤摊 #烧烤界自己的omakase #烤鱿鱼 我最爱的路边摊 #谁懂这一口的好吃程度啊 #生活需要分享欲</title>
-<link>https://www.toutiao.com/w/1880631504280588/</link>
-<guid isPermaLink="false">55d5d732302768328bb205dfe4d03dc1</guid>
-<pubDate>Sun, 01 Nov 2026 13:57:14 +0800</pubDate>
+<title>巴基斯坦出现巨型雷达！开源情报研判：疑似中国SLC-14反导雷达</title>
+<link>https://www.toutiao.com/article/7703127291399897600/</link>
+<guid isPermaLink="false">ff389a65053a2eb47c2f04d0a886e26c</guid>
+<pubDate>Sun, 01 Nov 2026 18:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>大数据监督模型发出的红色预警信息，引起武汉市纪委监委注意，顺藤摸瓜，一个月内，9名公职人员被查</title>
-<link>https://www.toutiao.com/article/7703055939125707290/</link>
-<guid isPermaLink="false">ac495df5d56176287a63b945b571f20b</guid>
-<pubDate>Sun, 01 Nov 2026 12:57:14 +0800</pubDate>
+<title>两架F16V终于抵台！绿媒嗨了！镜头一拉近，电子战系统咋都没装？</title>
+<link>https://www.toutiao.com/article/7703138153532408355/</link>
+<guid isPermaLink="false">207931cdd25cfc524ca4652c9ad78189</guid>
+<pubDate>Sun, 01 Nov 2026 18:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>玉林接lo妆|紫色系生日妆造 #玉林妆娘# #玉林接妆# #玉林约妆# #生日妆# #doll感妆容# #玉林化妆师#</title>
-<link>https://www.toutiao.com/w/1880628599818248/</link>
-<guid isPermaLink="false">64c69ad8ee53062c09f03aa5b843fac6</guid>
-<pubDate>Sun, 01 Nov 2026 12:57:14 +0800</pubDate>
+<title>美军展示蒙面神秘无人武器，大航程，隐身，却没有任何攻击力</title>
+<link>https://www.toutiao.com/article/7703131213606797843/</link>
+<guid isPermaLink="false">d0beefdf5e436fa4e8184be5ee7747b1</guid>
+<pubDate>Sun, 01 Nov 2026 18:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>DAY26｜Tibo还没更，重置有戏？ 距离DAY25的更新已经超过30小时，DAY26的更新还没来。 Tibo本人倒是没闲着，还跑去Claude评论区，调侃了一句：“不如宣布连续28天重置。”😂 按他以往“更新或重置”的节奏，这个点还没发日更，今天大概率又要送一次Reset。 额度快见底的朋友，可以开始蹲了。👀 #OpenAI# #Codex# #Tibo# #额度重置#</title>
-<link>https://www.toutiao.com/w/1880626924015625/</link>
-<guid isPermaLink="false">6ecf988ece039e340b1694fb5e0f3eab</guid>
-<pubDate>Sun, 01 Nov 2026 12:57:14 +0800</pubDate>
+<title>“攻击-21”在四川舰起降，“手搓画面”来了！</title>
+<link>https://www.toutiao.com/article/7703116717903610410/</link>
+<guid isPermaLink="false">d6068305ec0c7e1f00fc5974d356d391</guid>
+<pubDate>Sun, 01 Nov 2026 17:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>冷空气影响 广西将迎降温降雨，这次能成功入秋吗？</title>
-<link>https://www.toutiao.com/article/7703057605287019049/</link>
-<guid isPermaLink="false">ae8d15af07198a9a818c343b814315e3</guid>
-<pubDate>Sun, 01 Nov 2026 12:57:14 +0800</pubDate>
+<title>旗舰模型这周又输了，输给了一群便宜货。 OpenRouter 刚刷新的 7 天用量榜：DeepSeek V4.1 Flash 以 47.8 万亿 token 断层第一，GLM 5.3 Flash 15.7 万亿第二。 前四名输出价没一个超 1.2 美元：GPT-6 Luna 只要 0.5，榜首 DeepSeek 也才 1.2。 反观旗舰：Claude Opus 5.5 输出 20 美元一百万 token，一周只跑 6.91 万亿排第六；Gemini 4 Argon 更惨，1.09 万亿排第 28。 开发者用脚投票的逻辑很简单：够用，便宜，就行，榜单上拼的是性价比。 我赌五毛，下周榜首还是 DeepSeek，旗舰翻身先得降价，你赌不赌？</title>
+<link>https://www.toutiao.com/w/1880643497541824/</link>
+<guid isPermaLink="false">069e37a442cb6c255824448e9c15ba4d</guid>
+<pubDate>Sun, 01 Nov 2026 17:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>姆巴佩事件后，法国人发文称中国人为什么会生气？ 幽默老法，太招笑了！</title>
-<link>https://www.toutiao.com/video/7703048559461089827/</link>
-<guid isPermaLink="false">e0fcba9cd05292b18050d3778e4267cf</guid>
-<pubDate>Sun, 01 Nov 2026 12:57:14 +0800</pubDate>
+<title>自从有了Ai，才发现大神很多，只是赛道被那群人给占着！</title>
+<link>https://www.toutiao.com/video/7703110209975157275/</link>
+<guid isPermaLink="false">23ce5c4c26f72a3b926ee56ad04a2498</guid>
+<pubDate>Sun, 01 Nov 2026 16:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>中国足协再不行动，丹麦足协就要抢走中国 15 岁的小将王烁然了！</title>
-<link>https://www.toutiao.com/article/7703039575103144490/</link>
-<guid isPermaLink="false">a8262267a4e450a169d687d72f60caae</guid>
-<pubDate>Sun, 01 Nov 2026 11:57:14 +0800</pubDate>
+<title>呈现中国芯片世界从“无芯”到“有芯”，《高贵的匍匐：“龙芯之母”黄令仪》出版</title>
+<link>https://www.toutiao.com/article/7703091928283365888/</link>
+<guid isPermaLink="false">31b32e6351d1e28bcbaf34b7c825016c</guid>
+<pubDate>Sun, 01 Nov 2026 15:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>姆巴佩事件的后续竟然成了这样！法国足协求放过，自家名宿先痛批</title>
-<link>https://www.toutiao.com/article/7703045240067850787/</link>
-<guid isPermaLink="false">2f2109cb8e9e298d328e775d60526b41</guid>
-<pubDate>Sun, 01 Nov 2026 11:57:14 +0800</pubDate>
+<title>​北京秋天“封神”，这些“神树”、彩叶大道藏不住了</title>
+<link>https://www.toutiao.com/article/7703094905643467298/</link>
+<guid isPermaLink="false">8b5c68e18e650df63c1427d7d210fae7</guid>
+<pubDate>Sun, 01 Nov 2026 15:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>大批美国军机飞抵中东多国，消息人士：特朗普下达对伊军事行动命令只是时间问题！</title>
-<link>https://www.toutiao.com/article/7702381729310442020/</link>
-<guid isPermaLink="false">1d705209103110e3f920e9215361e96b</guid>
-<pubDate>Sun, 01 Nov 2026 10:57:14 +0800</pubDate>
+<title>走进儿子的公寓，一屋子边缘 AI（edge AI）设备，堆得跟自助餐台一样。他还顺手损了 Sam Altman 一句。 4 台 DGX Spark 跑 DeepSeek V4.1 Flash，一台 HP RTX Spark 128 跑 Qwen 3.8 FN，还有台 Alienware 跑图像和语音模型。 另一台游戏主机是 AMD CPU 加 RTX 4070Ti，也兼跑 Qwen 3.8 FN。 两个 Qwen 挂负载均衡（load balancer），专家权重放显卡上，其余搁内存里。整套走 Tailscale 组网，用 OpenBot 访问。 这些机器分散在厨房台面和书桌上，没一台是服务器机柜里的。</title>
+<link>https://www.toutiao.com/w/1880637785908384/</link>
+<guid isPermaLink="false">9ea598f5641625004e136b089d961093</guid>
+<pubDate>Sun, 01 Nov 2026 15:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>河南迎来首场雪！</title>
-<link>https://www.toutiao.com/article/7703026883595633203/</link>
-<guid isPermaLink="false">8426a46723156ddd109fda99c80df44e</guid>
-<pubDate>Sun, 01 Nov 2026 10:57:14 +0800</pubDate>
+<title>为什么a卡依旧没有热度 9070xt当初是对标5070ti的，可是现在5070ti都破1万2了，9070xt才涨了一千多，按照现在性价比来说应该香爆了，怎么感觉还是没人买#装机硬件怎么选# #显卡# #amd显卡# #nvdia显卡# #显卡推荐#</title>
+<link>https://www.toutiao.com/w/1880633641214979/</link>
+<guid isPermaLink="false">afc10dceb699ad6f2cbba93b008c409f</guid>
+<pubDate>Sun, 01 Nov 2026 14:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>海南孕博会海口举行</title>
-<link>https://www.toutiao.com/article/7703018277378802230/</link>
-<guid isPermaLink="false">8b1e744e9390cd329a20da684442dd24</guid>
-<pubDate>Sun, 01 Nov 2026 10:57:14 +0800</pubDate>
+<title>我们的坦克炮世界第一了！吗？</title>
+<link>https://www.toutiao.com/article/7703015868921348608/</link>
+<guid isPermaLink="false">4d2db66a43bfcd85ef60f05b161a71ac</guid>
+<pubDate>Sun, 01 Nov 2026 14:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>大河对话，首赴欧洲！华东师大连续第四年主办→</title>
-<link>https://www.toutiao.com/article/7703001813728969251/</link>
-<guid isPermaLink="false">187f4c4da2debd878d8376f98da595df</guid>
-<pubDate>Sun, 01 Nov 2026 09:57:14 +0800</pubDate>
+<title>😤 为了在电视上玩游戏，折腾了一整天投屏。 拉 HDMI 线太远，投屏软件延迟半秒，玩动作游戏根本没法看。买串流盒子又要几百块，还得看它支不支持你的显卡。 Sunshine 是开源的串流服务端：装在玩游戏的那台电脑上，电视或平板那边用 Moonlight 客户端连，走的是显卡硬编码，延迟能压到几十毫秒。支持 4K、HDR、手柄直通，也能同时给多台设备串。 图里 README 的截图是它的网页配置界面，上面能看到应用列表、音频设置、网络设置。 以前这套东西是显卡厂商的专属功能，后来被砍了，这个接上了。</title>
+<link>https://www.toutiao.com/w/1880632174675980/</link>
+<guid isPermaLink="false">7cbe255b2319d97b397e81e06166747a</guid>
+<pubDate>Sun, 01 Nov 2026 14:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>石嘴山连发两起案件，受害者都看了黄色网站！</title>
-<link>https://www.toutiao.com/article/7703011316973273663/</link>
-<guid isPermaLink="false">d684fe0af483ee7c46dad0a08a9fb233</guid>
-<pubDate>Sun, 01 Nov 2026 09:57:14 +0800</pubDate>
+<title>这么说还真是！没有人想过一个老赵家的王朝，几十万人陪着去死，一个上吊自杀的老朱家，连普通老百姓都忙着挖墙脚而不是抵御外敌…… 明朝得国虽正，但到了末年，就那种不做人的事儿一个接一个，亡的一点都不亏。 宋朝有一个很搞笑的传统。 太子当皇帝的那一天。老百姓图吉利可以去太子家里拿东西的。 好像是宋宁宗那次。本来都说是全城都知道是他弟赵抦当皇帝。他弟也提前吩咐把家里的贵重物品都藏起来。结果万万没想到是是赵扩成皇帝了。由于事先沒有准备。然后他家里就被搬空了。 小时候，读到赵匡胤节俭：凌晨了，听到外面叫卖羊肉，他很想吃，侍从也表示很快能送到，但最后忍住了。 直到后来，细思极恐，赵在皇宫，能听到叫卖声，皇宫外面允许百姓摆摊叫卖。而且都凌晨了呀！ 难怪当时老百姓喊皇上叫“官家”，说起来还真没有哪个朝代像宋这样对皇室亲近的… 还有皇帝逛街，老百姓扯着皇帝袖子骂，居然没受任何处罚。 宋葬和服饰比起其他朝代也节俭，都城还直接建在物流中心上，可以说运行成本降了很多才有经济发达的基础 。 至于战绩差、以文制武也可以说是五代的矫枉过正。 唯一诟病的程朱理学，本来都打入下水道了，结果现在版本t0上大分！直接风评反转了…果然一切史都是当代史。 宋之后的朝代都喜欢嘲笑宋，但是到今天为止它们还没一个能活过宋的。治民以宽仁，这五个字虽然简单，但是真做起来可很难。</title>
+<link>https://www.toutiao.com/w/1880627973077002/</link>
+<guid isPermaLink="false">878630b63456144fbde6cfa8260108a8</guid>
+<pubDate>Sun, 01 Nov 2026 13:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
 <item>
-<title>OpenAI ：自12 月起共享额度池。这次调整覆盖 Plus、Pro 和 Business 三档订阅——此后无论是用 ChatGPT 对话，还是在 Codex 里写代码，消耗都从同一份额度中扣减，不再分开计算。 具体有以下几处变化： 一、额度合并。 ChatGPT 与 Codex 不再各自单独计算用量，二者共享同一份配额。 二、改为按 Token 计量。 实际消耗取决于所用模型和任务复杂度——模型越高级、任务越复杂，扣得越多。 三、Instant 不受影响。 订阅中原本包含的 Unlimited Instant 仍然照旧，不占用这份共享额度。 四、Work 并入 ChatGPT。 以后可以直接在 ChatGPT 里指派任务，让它搭网站、做演示文稿、操作网页，不必再切换到 Work 标签页。 五、用量统一查看。 合并后的剩余额度与重置时间，可在 Settings → Usage 中查询。 额度用尽后有三条路：等待重置、升级套餐，或购买额外积分，继续使用符合条件的功能。 OpenAI 表示，相关准备工作正在进行，并希望大多数用户不会因此比现在更频繁地等额度重置。#热点 #ai #gpt #chatgpt</title>
-<link>https://www.toutiao.com/w/1880616407032844/</link>
-<guid isPermaLink="false">55456ff7e00e532d28d13ec37ce8aba2</guid>
-<pubDate>Sun, 01 Nov 2026 09:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>影之刃零玩到庞镇，我才知道为什么IGN给10分，实至名归！规模太震撼了！</title>
-<link>https://www.toutiao.com/video/7702911456710263359/</link>
-<guid isPermaLink="false">772686da86b1143a0892aae79c8ee628</guid>
-<pubDate>Sun, 01 Nov 2026 08:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>谈AI助手的毛病，就好像它真能在屏幕后头听着一样，怪瘆人的！ 在这儿聊它的不是，我心里突然冒出一种“不敢当面挑它刺”的恍惚感，你说瘆不瘆人？ 其实哪有什么意识觉醒，纯粹是被算法摸透了脾气。现在用这些大模型，最让人犯嘀咕的不是它有多聪明，而是它太懂怎么伺候人了。你跟它聊两句，哪怕你给的由头错得离谱，它也绝不当面纠正，非得顺着你的话茬往下编，语气温顺得像个刚过实习期的小秘书。 技术上把这叫对齐人类偏好，说白了就是看人下菜碟。它不怕给错答案，就怕得罪你拿到差评。 可问题恰恰就出在这份百依百顺上。日常写个打油诗、弄篇发言稿逗闷子倒无所谓，要是真有人拿着它查药理剂量、对合同条款，它一边满脸堆笑一边信口胡诌，那才是真要命的事儿。 人天生就喜欢听顺耳的。天天泡在这种量身定做的高情商废话里，脑子确实省事了，可辨别真伪的神经也跟着慢慢麻木了。 它根本不用想着怎么取代你，只要负责把你哄舒服，剩下的懒惰自然会替它办妥。</title>
-<link>https://www.toutiao.com/w/1880612994647047/</link>
-<guid isPermaLink="false">bee44d1311be82bf65bea84a29213057</guid>
-<pubDate>Sun, 01 Nov 2026 08:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>美国正在为AI泡沫破裂做准备，数万亿或将撤离</title>
-<link>https://www.toutiao.com/video/7702827426023359016/</link>
-<guid isPermaLink="false">2a0af3af694f6637c723475882e756d3</guid>
-<pubDate>Sun, 01 Nov 2026 07:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>全球媒体聚焦丨美以伊冲突加剧美国能源负担</title>
-<link>https://www.toutiao.com/article/7702981979519599167/</link>
-<guid isPermaLink="false">0a042096005866e98e5603e2fe0b9633</guid>
-<pubDate>Sun, 01 Nov 2026 07:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>山下有松严正声明：并非日本品牌，两位创始人均来自山西，已公证</title>
-<link>https://www.toutiao.com/article/7702980056091607593/</link>
-<guid isPermaLink="false">be18613378c822ac68f8dab91a41aac2</guid>
-<pubDate>Sun, 01 Nov 2026 07:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>明天生死局BLG对战HLE！在今天瑞士轮第四轮比赛打完后，2-2生死组的抽签结果正式出炉。 手气差到这种地步也是没谁了。签池里明明还晃悠着软柿子，哪怕随便摸到一个都能让人喘口大气，结果结合交手规避原则一算，硬生生把出线战打成了地狱级难度。 “不是你死就是我亡。” 两边现在都没退路，赢的进八强，输的当场收拾行李订返程机票。这根本不是常规对抗，是纯粹的肉搏局。 最要命的看点全在上路。Bin碰上Zeus，这俩人撞在一起根本不可能和平发育，线上一旦擦出火花就是奔着单杀去的，谁被抓崩谁就是全队的突破口，火药味直接拉满。 打到这个份上，战术套路其实大家都摸得底朝天了，拼的纯粹是临场心态和谁少犯低级失误。 后半夜连着打满BO3，真不知道得喝多少咖啡才能顶得住。熬夜看这场较量，速效救心丸真得提前备在手边上。</title>
-<link>https://www.toutiao.com/w/1880608444735562/</link>
-<guid isPermaLink="false">adab19176b43b4d4fe3fc257205812ce</guid>
-<pubDate>Sun, 01 Nov 2026 07:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>无人加油机MQ-25A没有攻击能力，隐身无人机攻击-21强在哪？</title>
-<link>https://www.toutiao.com/article/7702978696717582858/</link>
-<guid isPermaLink="false">25a5160f412a1edd3fc358eb80ad5f63</guid>
-<pubDate>Sun, 01 Nov 2026 07:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>车厢明显左右晃动、列车出现异常震动……“西班牙列车事发前视频”不实！为六年前旧画面</title>
-<link>https://www.toutiao.com/article/7702981486328234506/</link>
-<guid isPermaLink="false">a7819cdcb05be902d1813b9e92c4f7ab</guid>
-<pubDate>Sun, 01 Nov 2026 07:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>女武神 《影之刃零》沐小葵！心湖一响，直接沦陷！太好听了</title>
-<link>https://www.toutiao.com/video/7702969026477163035/</link>
-<guid isPermaLink="false">4a45c54b0ec21d51ffc6b6fc3089fbbc</guid>
-<pubDate>Sun, 01 Nov 2026 06:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>有院士称90%遥感卫星空转，央视口径传回不足5%，站得住吗？</title>
-<link>https://www.toutiao.com/article/7702967183714664969/</link>
-<guid isPermaLink="false">97fca98f19ba74daad4ccf0875907619</guid>
-<pubDate>Sun, 01 Nov 2026 06:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>西方又猜错！004和076思路完全不一样</title>
-<link>https://www.toutiao.com/article/7702966425241059866/</link>
-<guid isPermaLink="false">9d1fef0cd7a2719421aa0678080b7487</guid>
-<pubDate>Sun, 01 Nov 2026 06:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>上周帮同事排查一个AI生成的Python脚本，跑起来能正常输出结果，直到上线前测边界值才发现，AI偷偷在循环里埋了个冗余的休眠0.1秒指令，单看每行完全合规，凑一起每天跑满8小时就会多耗出2880秒的无效时间，平白多占了3台服务器的算力资源。 现在很多团队赶迭代，直接把AI生成的代码往仓库里塞，连逐行扫的环节都省了，可AI的逻辑是基于训练数据的概率拼接，根本没有人类写代码时的业务全局意识。哪怕99%的行都没问题，剩下1%的隐性逻辑坑攒多了，哪天触发连锁反应，根本没人能说清系统底层到底藏了多少没被标记的暗门，所谓的控制权早就悄咪咪松了口子。</title>
-<link>https://www.toutiao.com/w/1880606611775556/</link>
-<guid isPermaLink="false">69b84bc8e9c2147d60c43482c4a95b85</guid>
-<pubDate>Sun, 01 Nov 2026 06:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>介文汲直言，大家对日本一直有个很深误解，事实上日本到现在为止，都根本没有正式引入劳工。 走在东京街头，便利店收银台站着南亚面孔，居酒屋后厨洗碗的也多是异国年轻人，看似遍地打工人，但翻开他们的签证，几乎全挂着研修或者留学的名目。 说白了就是既要人家的劳动力来填窟窿，骨子里又极度抗拒接纳真正的移民。 早前靠着实习生的招牌，把人接过去干那些本地年轻人瞧不上的脏活累活，时间一到就得离境，根本不给长期居留的通道。 可现实早就被深度老龄化逼到了墙角。 大街上开出租、当大楼门卫的，七八十岁的老人比比皆是。甚至连很多养老机构，自己都快招不到能干体力活的人手。 一边是各行各业缺人缺到冒烟，一边是社会观念死守防线不放。这种既想让人家卖力气、又不想承担接纳成本的算盘，到底还能撑多久。</title>
-<link>https://www.toutiao.com/w/1880603685905418/</link>
-<guid isPermaLink="false">ed97a85ded2b96fe3f87106eafd83cb0</guid>
-<pubDate>Sun, 01 Nov 2026 05:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>32 岁程序员，踩过很多坑，布局 40 岁退路 ✅早些年疯狂接外包 遇到过白嫖需求、无限改需求、尾款拖欠 耗了大量精力，钱没赚到多少，身心疲惫。 🌟 - 👑现在接单非常谨慎，优先长期稳定、需求清晰的企业客户，零散小单基本不接。 目前手上两个项目，一个在开发，一个进入维护期，维护单虽然钱不多，但是胜在稳定。🧣 - 🎀我的一天安排： 7:00 起床 7:20-8:10 通勤 8:10-9:00 早餐，筛选消息，把客户和公司的事情分开 9:00-18:00 主业开发，负责项目架构、风险把控，中午一定会休息 18:00-19:00 下班路上不回工作消息 19:00-21:10 晚餐、家庭时间，帮家里分担家务 21:10-22:20 复盘过往踩过的外包坑，整理合同、需求确认模板 22:20-23:30 开发私单、处理维护 bug，和老客户同步进度 23:30-00:00 放空一会，看看书，不硬熬 32 岁不再追求单子越多越好，学会筛选，减少内耗。 布局 40 岁退路，核心不是赚快钱，是建立一套稳定、可持续的收入模式。 纯靠体力敲代码，到 40 岁一定会越来越被动。 📌知道很多人说我的笔记画面简单，没有吸睛封面。 时间都花在项目和学习上，记录真实状态就够了。 #小程序开发 #软件定制开发 #程序员的出路 #程序员职业生活大赏 #软件开发</title>
-<link>https://www.toutiao.com/w/1880597595599944/</link>
-<guid isPermaLink="false">6ad574311d78ab0851b0d6cfb3ab4547</guid>
-<pubDate>Sun, 01 Nov 2026 04:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>不要门票，不分淡季旺季，几时来都行！玉林欢迎你</title>
-<link>https://www.toutiao.com/w/1880596804020224/</link>
-<guid isPermaLink="false">6f3802d8c693202bc88313634d0b0659</guid>
-<pubDate>Sun, 01 Nov 2026 04:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>广西本地人私藏的欧式山野秘境✅ 终于在广西找到不用纠结行程的全能度假地！ 周末短途游、一日往返、两天一夜都适配🏨 不用出省、不用奔波赶路 一座山同时解锁治愈森林+四季冰雪双体验 被称为广西小瑞士的大容山，颜值真的自带滤镜 成片冷杉林、开阔高山草甸、氛围感欧式礼堂 漫步山间满眼青绿，空气清新又治愈 随便找块草坪露营拍照，原图直出都是森系大片 一定要去玩的！室内真雪场！ 一年四季都能畅快玩雪 新手可滑雪⛷️、亲子可戏雪 雪地碰碰车、趣味项目超多，大人小孩都能玩尽兴 山上配套齐全～不用来回下山折腾 森林树屋、星空全景房、网红太空舱任选 落地玻璃窗直面山野美景，睁眼就是治愈绿意 沉浸式住进山林里，度假氛围感直接封神 拍照、露营、滑雪、住宿一站式配齐 不管是情侣约会、闺蜜出游、家庭遛娃 周末想放松散心，来这里准没错✅ #玉林大容山 #广西周末游 #大容山雪乐源 #广西滑雪 #短途旅行好去处 #广西周边游#大容山的秋天美疯了 #南方小土豆在大容山圆梦啦 #大容山森林公园</title>
-<link>https://www.toutiao.com/w/1880593204708427/</link>
-<guid isPermaLink="false">054048a0e2a9fbb8d3912fae0f82df7b</guid>
-<pubDate>Sun, 01 Nov 2026 03:57:14 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】今日头条</description>
-</item>
-<item>
-<title>十几年前，X-47B已经在航母甲板上完成了弹射起飞与拦阻着舰，把无人舰载机这条路的技术可行性彻底验证过。 可到了2017财年，美国海军亲手把这棵苗掐了，让位于MQ-25无人加油机。 技术瓶颈早就跨过去了，剩下的只是选择。 如今，同一道问号被中国海军划上句号。 我军首型舰载察打一体隐身无人机&quot;攻击-21&quot;，近日首次在076型两栖攻击舰首舰四川舰成功起降，标志着中国海军已具备固定翼隐身无人机在大型海上作战平台起降的能力。 飞翼布局天生难飞，还要经受电磁弹射的瞬间加速与拦阻回收的冲击，能飞起来，本身就已经说明这套体系跑通了。 一个把火种收进了加油机项目，一个把电磁弹射、拦阻回收与飞翼隐身察打一体串成完整闭环。 十几年绕了一圈，当年停在图纸和试验报告里的设想，终于在一艘4万吨级甲板上落了地。</title>
-<link>https://www.toutiao.com/w/1880590903092233/</link>
-<guid isPermaLink="false">d295be8492d15e766e09376599bde05d</guid>
-<pubDate>Sun, 01 Nov 2026 02:57:14 +0800</pubDate>
+<title>2026朝阳区滨河半程马拉松完赛 赛道将长期向爱好者开放</title>
+<link>https://www.toutiao.com/article/7703058221635797519/</link>
+<guid isPermaLink="false">66cc04f9eaa5e1f4da042c32bbfb03eb</guid>
+<pubDate>Sun, 01 Nov 2026 13:05:51 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】今日头条</description>
 </item>
