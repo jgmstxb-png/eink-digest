@@ -322,7 +322,9 @@ def load_toutiao():
             dt = datetime.fromisoformat(it["published"])
         except Exception:
             continue
-        out.append({"title": it["title"], "link": it["url"], "feed": "今日头条",
+        author = (it.get("author") or "").strip()
+        out.append({"title": it["title"], "link": it["url"],
+                    "feed": f"头条·{author}" if author else "今日头条",
                     "chars": 0, "date": dt})
     return out
 
