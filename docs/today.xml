@@ -2,136 +2,192 @@
 <rss version="2.0"><channel>
 <title>首长每日精选</title>
 <link>https://jgmstxb-png.github.io/eink-digest/today.xml</link>
-<description>四道闸门筛出 38 篇 · 2026-11-02</description>
-<lastBuildDate>Mon, 02 Nov 2026 01:42:29 +0000</lastBuildDate>
+<description>四道闸门筛出 66 篇 · 2026-11-03</description>
+<lastBuildDate>Mon, 02 Nov 2026 23:06:11 +0000</lastBuildDate>
 <language>zh-cn</language>
 <item>
-<title>CI 出错后，谁来把关？Buildkite 的智能体新思路</title>
-<link>https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX?utm_source=rss&amp;amp;utm_medium=article</link>
-<guid isPermaLink="false">089924edff3c100f96f82131fc6f9a4d</guid>
-<pubDate>Mon, 02 Nov 2026 09:20:00 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】InfoQ中文 · 1821 字</description>
-</item>
-<item>
-<title>ChatGPT Pro 额度翻倍：是让步，不是福利？</title>
-<link>https://www.infoq.cn/article/WpTNht7guarWEyejJFV6?utm_source=rss&amp;amp;utm_medium=article</link>
-<guid isPermaLink="false">3a3fa635d89020630aab3a4dee3be130</guid>
-<pubDate>Mon, 02 Nov 2026 09:16:03 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】InfoQ中文 · 3684 字</description>
-</item>
-<item>
-<title>鸿蒙智行全新一代问界 M9 系列累计交付突破 5 万台，Ultimate 超 5000 台、均价破 70 万元</title>
-<link>https://www.ithome.com/1/020/882.htm</link>
-<guid isPermaLink="false">b093fa061ed21d599a7f17ddf6a799c9</guid>
-<pubDate>Mon, 02 Nov 2026 01:41:50 +0000</pubDate>
+<title>AMD 核显路线图曝光：搭载 RDNA 5+ 的 Zen 7“Grimlock”处理器预计 2029 年登场</title>
+<link>https://www.ithome.com/1/021/288.htm</link>
+<guid isPermaLink="false">82ef8a52d166af1a7e554b6689398e1b</guid>
+<pubDate>Mon, 02 Nov 2026 23:01:09 +0000</pubDate>
 <category>数码消费</category>
-<description>【数码消费】IT之家 · 562 字</description>
+<description>【数码消费】IT之家 · 760 字</description>
 </item>
 <item>
-<title>23 年历程终将落幕，韩国 KT 电信今日起停止 3G 服务新用户入网</title>
-<link>https://www.ithome.com/1/020/881.htm</link>
-<guid isPermaLink="false">3566828faaeadc8ad6af9d8c35480557</guid>
-<pubDate>Mon, 02 Nov 2026 01:36:26 +0000</pubDate>
+<title>苹果涨价后的首个财报：2026 财年第四财季 iPhone 营收暴增 17% 创纪录、Mac 猛增 24%</title>
+<link>https://www.ithome.com/1/021/287.htm</link>
+<guid isPermaLink="false">fc1baf15e8469ac8137df0e0662cf036</guid>
+<pubDate>Mon, 02 Nov 2026 23:00:30 +0000</pubDate>
 <category>数码消费</category>
-<description>【数码消费】IT之家 · 604 字</description>
+<description>【数码消费】IT之家 · 785 字</description>
 </item>
 <item>
-<title>永辉“刮骨”，大润发“疗伤”</title>
-<link>https://www.tmtpost.com/8189408.html</link>
-<guid isPermaLink="false">4ff7af1ed0c01006076bb3ec09e846eb</guid>
-<pubDate>Mon, 02 Nov 2026 01:33:00 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】钛媒体 · 2042 字</description>
-</item>
-<item>
-<title>America on Data Centers: 10k city council comments</title>
-<link>https://www.americansentiment.com/datacenters</link>
-<guid isPermaLink="false">9718aa1c8e1223bff8bd54e44046a03c</guid>
-<pubDate>Mon, 02 Nov 2026 00:17:33 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】Hacker News · 711 字</description>
-</item>
-<item>
-<title>早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力</title>
-<link>https://www.ifanr.com/1687043?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=</link>
-<guid isPermaLink="false">f8a6fdfcabc8dc0e94207d768660a8ed</guid>
-<pubDate>Mon, 02 Nov 2026 00:03:03 +0000</pubDate>
-<category>数码消费</category>
-<description>【数码消费】爱范儿 · 7524 字</description>
-</item>
-<item>
-<title>派早报：Apple 智能将随 iOS 27.3 登陆中国</title>
-<link>https://sspai.com/post/118191</link>
-<guid isPermaLink="false">6f55e78f61490d3fbcb8f63526cb0350</guid>
-<pubDate>Sun, 01 Nov 2026 23:22:45 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】少数派 · 3286 字</description>
-</item>
-<item>
-<title>聪明的AI，会像司马光一样“砸缸”吗？</title>
-<link>https://news.sciencenet.cn/htmlnews/2026/11/574031.shtm</link>
-<guid isPermaLink="false">b7a9da0c91c041f9e7783f57429cc4a9</guid>
-<pubDate>Sun, 01 Nov 2026 23:05:37 +0000</pubDate>
-<category>科普影像</category>
-<description>【科普影像】科学网 · 1427 字</description>
-</item>
-<item>
-<title>提升本科人才教学质量应“五维发力”</title>
-<link>https://news.sciencenet.cn/htmlnews/2026/11/574015.shtm</link>
-<guid isPermaLink="false">9581003f25476012383240f319a831d6</guid>
-<pubDate>Sun, 01 Nov 2026 18:33:33 +0000</pubDate>
-<category>科普影像</category>
-<description>【科普影像】科学网 · 3107 字</description>
-</item>
-<item>
-<title>Google AI Mode 未给网站带来流量</title>
-<link>https://www.solidot.org/story?sid=85767</link>
-<guid isPermaLink="false">917335ec22328be3040451c704cd62e8</guid>
-<pubDate>Sun, 01 Nov 2026 16:46:31 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】Solidot · 461 字</description>
-</item>
-<item>
-<title>三年前布局，今年爆火丨西湖大学成立新中心</title>
-<link>https://www.qbitai.com/2026/11/507076.html</link>
-<guid isPermaLink="false">e5f6718c4c01a235bac4a8574f3ac120</guid>
-<pubDate>Sun, 01 Nov 2026 13:28:10 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】量子位 · 3487 字</description>
-</item>
-<item>
-<title>Sarawat and Tuwaiq Strategic Projects Strengthen Royal Saudi Naval Forces, Localize Maritime Defense</title>
-<link>https://www.navalnews.com/naval-news/2026/11/sarawat-and-tuwaiq-strategic-projects-strengthen-royal-saudi-naval-forces-localize-maritime-defense/</link>
-<guid isPermaLink="false">74a8927ec12892ca6282d35137314ba6</guid>
-<pubDate>Sun, 01 Nov 2026 13:11:27 +0000</pubDate>
+<title>Counter-Drone Laser Weapon Now Guarding Trump’s Mar-a-Lago Alongside SAMs</title>
+<link>https://www.twz.com/news-features/laser-weapon-now-guarding-trumps-mar-a-lago-estate</link>
+<guid isPermaLink="false">3103595031d8beb417200834288ece4a</guid>
+<pubDate>Mon, 02 Nov 2026 22:54:04 +0000</pubDate>
 <category>军事航空</category>
-<description>【军事航空】Naval News · 658 字</description>
+<description>【军事航空】The War Zone · 1494 字</description>
 </item>
 <item>
-<title>Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成</title>
-<link>https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html</link>
-<guid isPermaLink="false">b7ef9766df70fb986909857bd245461e</guid>
-<pubDate>Sun, 01 Nov 2026 09:46:00 +0000</pubDate>
+<title>从英伟达到 Pika，硅谷巨头为何“反向借力”这个国产模型？</title>
+<link>https://www.infoq.cn/article/h1310kHD9CWD1mO8aTAc?utm_source=rss&amp;amp;utm_medium=article</link>
+<guid isPermaLink="false">0b44b3c4138cb085989c6b28dad68951</guid>
+<pubDate>Mon, 02 Nov 2026 22:48:56 +0000</pubDate>
 <category>AI与工具</category>
-<description>【AI与工具】雷峰网 · 715 字</description>
+<description>【AI与工具】InfoQ中文 · 2618 字</description>
 </item>
 <item>
-<title>Russian Navy Cancels Modernization of Kirov-Class Battlecruiser Pyotr Velikiy</title>
-<link>https://www.navalnews.com/naval-news/2026/11/pyotr-velikiy-modernization-canceled/</link>
-<guid isPermaLink="false">85589b5eb348cce8b15110e8a6e2e461</guid>
-<pubDate>Sun, 01 Nov 2026 08:05:55 +0000</pubDate>
+<title>The SEC Should Block Anthropic&#x27;s IPO to Protect the Public</title>
+<link>https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/</link>
+<guid isPermaLink="false">acdf7e3bc1bfecf937ac65564022222c</guid>
+<pubDate>Mon, 02 Nov 2026 22:30:47 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】Hacker News · 1824 字</description>
+</item>
+<item>
+<title>微软推出 dotnetup：多版本管理更省心，安装方式却让开发者皱眉</title>
+<link>https://www.infoq.cn/article/7lNPPkEUVjtMYYvmXaA6?utm_source=rss&amp;amp;utm_medium=article</link>
+<guid isPermaLink="false">98d068f1cd3a9ab2ee644f399df8df36</guid>
+<pubDate>Mon, 02 Nov 2026 21:46:33 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】InfoQ中文 · 1382 字</description>
+</item>
+<item>
+<title>Safran’s NGDS Decoy Launcher Spotted Aboard JMSDF Test Ship JS Asuka</title>
+<link>https://www.navalnews.com/naval-news/2026/11/safrans-ngds-decoy-launcher-spotted-aboard-jmsdf-test-ship-js-asuka/</link>
+<guid isPermaLink="false">8cfcc4f56c31da73432c56f10d9716e8</guid>
+<pubDate>Mon, 02 Nov 2026 21:43:21 +0000</pubDate>
 <category>军事航空</category>
-<description>【军事航空】Naval News · 1140 字</description>
+<description>【军事航空】Naval News · 552 字</description>
 </item>
 <item>
-<title>APOD: 2026 November 1 – Colors of the Moon</title>
-<link>https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/</link>
-<guid isPermaLink="false">5cc5786115f8235251348cf257f3aaa3</guid>
-<pubDate>Sun, 01 Nov 2026 04:05:00 +0000</pubDate>
+<title>Happy 65 Years: NASA’s Johnson Space Center Then and Now</title>
+<link>https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/</link>
+<guid isPermaLink="false">2e2eb16df79059247ab5d18b097821e0</guid>
+<pubDate>Mon, 02 Nov 2026 21:35:59 +0000</pubDate>
 <category>科普影像</category>
-<description>【科普影像】NASA 新闻 · 251 字</description>
+<description>【科普影像】NASA 新闻 · 1596 字</description>
+</item>
+<item>
+<title>TB 26-09 Measured Hammer-Tap Inputs</title>
+<link>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/</link>
+<guid isPermaLink="false">c3728cdad9e02266b4b9023e6f8e52eb</guid>
+<pubDate>Mon, 02 Nov 2026 20:47:41 +0000</pubDate>
+<category>科普影像</category>
+<description>【科普影像】NASA 新闻 · 409 字</description>
+</item>
+<item>
+<title>CNO Caudle Gets Up-Close Look at U.S. Navy’s Newest Hypersonic Missile</title>
+<link>https://www.navalnews.com/naval-news/2026/11/cno-caudle-gets-up-close-look-at-u-s-navys-newest-hypersonic-missile/</link>
+<guid isPermaLink="false">89ce2a84c8c84b152297c2ecf85332a1</guid>
+<pubDate>Mon, 02 Nov 2026 20:20:07 +0000</pubDate>
+<category>军事航空</category>
+<description>【军事航空】Naval News · 678 字</description>
+</item>
+<item>
+<title>Rare Black Friday savings on MOD e-bikes: Easy 3 cruiser $2,199, EcoFlow DELTA 3 Ultra 440W solar bundle + FREE TRAIL 200, more</title>
+<link>https://electrek.co/2026/11/02/black-friday-mod-easy-3-cruiser-e-bike-ecoflow-delta-3-ultra-solar-bundle-free-trail-200-more/</link>
+<guid isPermaLink="false">7791087544a714ab66e6b581831e34c4</guid>
+<pubDate>Mon, 02 Nov 2026 19:00:00 +0000</pubDate>
+<category>汽车</category>
+<description>【汽车】Electrek · 190 字</description>
+</item>
+<item>
+<title>New CB90 CX Is Bigger, Optionally Crewed Evolution Of Saab’s Proven Combat Boat</title>
+<link>https://www.twz.com/sea/new-cb90-cx-is-bigger-optionally-crewed-evolution-of-saabs-proven-combat-boat</link>
+<guid isPermaLink="false">3f57c125918b5057a354bd400e85830a</guid>
+<pubDate>Mon, 02 Nov 2026 18:50:34 +0000</pubDate>
+<category>军事航空</category>
+<description>【军事航空】The War Zone · 1570 字</description>
+</item>
+<item>
+<title>Russia is giving its drones bigger antennas to beat Ukrainian jamming</title>
+<link>https://www.defensenews.com/global/europe/2026/11/02/russia-is-giving-its-drones-bigger-antennas-to-beat-ukrainian-jamming/</link>
+<guid isPermaLink="false">e3816f9c2456c6adf2b12223f1a50be3</guid>
+<pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+<category>军事航空</category>
+<description>【军事航空】Defense News · 526 字</description>
+</item>
+<item>
+<title>鳄鱼为何免受毁灭恐龙的小行星的影响？</title>
+<link>https://www.solidot.org/story?sid=85777</link>
+<guid isPermaLink="false">558b51f7856b35d5570e440669f63849</guid>
+<pubDate>Mon, 02 Nov 2026 15:41:22 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】Solidot · 637 字</description>
+</item>
+<item>
+<title>这些股票有足够的实力为AI提供动力，值得再关注一次</title>
+<link>https://www.tmtpost.com/8190967.html</link>
+<guid isPermaLink="false">ade9b38da0e772d7cb59c69910d4146d</guid>
+<pubDate>Mon, 02 Nov 2026 14:48:29 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】钛媒体 · 1097 字</description>
+</item>
+<item>
+<title>Bestselling US e-bike Lectric XP4 relaunched in limited-edition with new colors and gear</title>
+<link>https://electrek.co/2026/11/02/bestselling-us-e-bike-lectric-xp4-relaunched-in-limited-edition-with-new-colors-and-gear/</link>
+<guid isPermaLink="false">de848659e45821729d00172a34f441fa</guid>
+<pubDate>Mon, 02 Nov 2026 14:05:31 +0000</pubDate>
+<category>汽车</category>
+<description>【汽车】Electrek · 115 字</description>
+</item>
+<item>
+<title>顶级AI翻车的活儿，被这个新出的免费国产AI接住了！</title>
+<link>https://www.qbitai.com/2026/11/507277.html</link>
+<guid isPermaLink="false">59c1454d67d194410eb69710efa56677</guid>
+<pubDate>Mon, 02 Nov 2026 13:36:41 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】量子位 · 2647 字</description>
+</item>
+<item>
+<title>The U.S. Census Bureau and “Super Intelligence”</title>
+<link>https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/</link>
+<guid isPermaLink="false">d0367c83a5219a74c85ce4b04f1ed467</guid>
+<pubDate>Mon, 02 Nov 2026 13:31:26 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】Simon Willison · 1228 字</description>
+</item>
+<item>
+<title>他把实验“反着做”，回国不到一个月发表重磅论文</title>
+<link>https://news.sciencenet.cn/htmlnews/2026/11/574045.shtm</link>
+<guid isPermaLink="false">7d6fff7a8010dd1178f5a1888fff91b7</guid>
+<pubDate>Mon, 02 Nov 2026 13:26:10 +0000</pubDate>
+<category>科普影像</category>
+<description>【科普影像】科学网 · 2074 字</description>
+</item>
+<item>
+<title>半小时卖出2万亿Token，李佳琦直播卖千问办公爆火</title>
+<link>https://www.leiphone.com/category/industrynews/kqJzcDsRfxHUQGy9.html</link>
+<guid isPermaLink="false">c9ecbcd0c9970b18bc793d1c14f24e9a</guid>
+<pubDate>Mon, 02 Nov 2026 13:13:00 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】雷峰网 · 1342 字</description>
+</item>
+<item>
+<title>派评 | 近期值得关注的 App</title>
+<link>https://sspai.com/post/118240</link>
+<guid isPermaLink="false">95273248a7e90cebdd3c91f9d84babc1</guid>
+<pubDate>Mon, 02 Nov 2026 09:57:55 +0000</pubDate>
+<category>AI与工具</category>
+<description>【AI与工具】少数派 · 6147 字</description>
+</item>
+<item>
+<title>卡帕西用Claude两小时重做了YouTube，每个人都能拥有一个自己的互联网</title>
+<link>https://www.ifanr.com/1687094?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=</link>
+<guid isPermaLink="false">91054700800fde25591957954544daed</guid>
+<pubDate>Mon, 02 Nov 2026 08:03:24 +0000</pubDate>
+<category>数码消费</category>
+<description>【数码消费】爱范儿 · 2437 字</description>
+</item>
+<item>
+<title>500 万人抽签看陈奕迅，AI 会终结「抢票时代」吗？</title>
+<link>https://www.ifanr.com/1687130?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=</link>
+<guid isPermaLink="false">fdb6199c8a0b6dca6bd2ba540e23891d</guid>
+<pubDate>Mon, 02 Nov 2026 07:41:09 +0000</pubDate>
+<category>数码消费</category>
+<description>【数码消费】爱范儿 · 3101 字</description>
 </item>
 <item>
 <title>第24屆台灣同志遊行：同志酒吧遭搜四週後，蔣萬安到場再致歉｜Whatsnew</title>
@@ -140,14 +196,6 @@
 <pubDate>Sun, 01 Nov 2026 01:00:00 +0000</pubDate>
 <category>时事财经</category>
 <description>【时事财经】端传媒 · 445 字</description>
-</item>
-<item>
-<title>How We Took Over ChatGPT Accounts</title>
-<link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
-<guid isPermaLink="false">8a2a7527d0f6c76ce9809c3c1b294892</guid>
-<pubDate>Sat, 31 Oct 2026 23:15:22 +0000</pubDate>
-<category>AI与工具</category>
-<description>【AI与工具】Simon Willison · 401 字</description>
 </item>
 <item>
 <title>迷失於節食與暴食之間，我的失控十年</title>
@@ -166,147 +214,323 @@
 <description>【时事财经】端传媒 · 787 字</description>
 </item>
 <item>
-<title>DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活</title>
-<link>https://www.ifanr.com/1687026?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=</link>
-<guid isPermaLink="false">3661a0ec24a86a32d4265d8132e7d100</guid>
-<pubDate>Sat, 31 Oct 2026 13:59:57 +0000</pubDate>
-<category>数码消费</category>
-<description>【数码消费】爱范儿 · 2705 字</description>
+<title>福建女孩郭华萍：明面上是菲律宾女市长，背地里却是电诈女魔头</title>
+<link>https://www.toutiao.com/article/7703511773489070655/</link>
+<guid isPermaLink="false">8c487fdbe1a9086f83fbb0bff8fa3e72</guid>
+<pubDate>Tue, 03 Nov 2026 06:29:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·最人物纪账号</description>
 </item>
 <item>
-<title>台北市長辯論速評：面對強勢進攻的蔣萬安，沈伯洋戰術失效了嗎？</title>
-<link>https://theinitium.com/20261031-taiwan-taipei-mayoral-debate/</link>
-<guid isPermaLink="false">24b7cff441af47b61e1276a3921237b3</guid>
-<pubDate>Sat, 31 Oct 2026 12:43:38 +0000</pubDate>
-<category>时事财经</category>
-<description>【时事财经】端传媒 · 846 字</description>
+<title>Gemma 4 31B学会说人话，盲测26%被当成真人</title>
+<link>https://www.toutiao.com/article/7702855426886402614/</link>
+<guid isPermaLink="false">fcbd96458bee3cc4f5fcc9c6c17094c1</guid>
+<pubDate>Tue, 03 Nov 2026 06:28:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·AI公园</description>
 </item>
 <item>
-<title>Surface-To-Air Missiles Deployed To Protect Trump’s Mar-a-Lago Estate</title>
-<link>https://www.twz.com/land/avenger-assemble-surface-to-air-missiles-deployed-to-protect-trumps-mar-a-lago-estate</link>
-<guid isPermaLink="false">474b79af936617ff9fbad586b4b9f7a3</guid>
-<pubDate>Sat, 31 Oct 2026 00:19:01 +0000</pubDate>
-<category>军事航空</category>
-<description>【军事航空】The War Zone · 1415 字</description>
-</item>
-<item>
-<title>Stealthy GJ-21 Drone Has Launched And Recovered From Type 076 Amphibious Assault Ship, China Claims</title>
-<link>https://www.twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims</link>
-<guid isPermaLink="false">703011cf3b261f1f053bfc1a98bc2a13</guid>
-<pubDate>Fri, 30 Oct 2026 21:32:50 +0000</pubDate>
-<category>军事航空</category>
-<description>【军事航空】The War Zone · 1635 字</description>
-</item>
-<item>
-<title>‘Open the hives’ — Why France is turning tank gunners into FPV pilots</title>
-<link>https://www.defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots/</link>
-<guid isPermaLink="false">f33d75714c93c4955e680ebf5edc6da1</guid>
-<pubDate>Fri, 30 Oct 2026 17:57:48 +0000</pubDate>
-<category>军事航空</category>
-<description>【军事航空】Defense News · 3144 字</description>
-</item>
-<item>
-<title>史上最大黑客案后，36亿美元资本外流，币安“挺住”了</title>
-<link>https://www.toutiao.com/article/7703360055081353764/</link>
-<guid isPermaLink="false">7d291162e89a9dcea993d25284d6e072</guid>
-<pubDate>Mon, 02 Nov 2026 08:42:16 +0800</pubDate>
+<title>美国中期选举或成黄金转折点，赤字忧虑有望重燃避险需求</title>
+<link>https://www.toutiao.com/article/7703702734398095923/</link>
+<guid isPermaLink="false">5387de9ce51ae2e0667be55603210398</guid>
+<pubDate>Tue, 03 Nov 2026 06:21:50 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】头条·华尔街见闻</description>
 </item>
 <item>
-<title>美军X-47B十年前就能上航母，为何中国攻击-21这次更值得关注？</title>
-<link>https://www.toutiao.com/article/7703174346868589056/</link>
-<guid isPermaLink="false">09fd633e08520945a48524216462ad7b</guid>
-<pubDate>Mon, 02 Nov 2026 01:42:16 +0800</pubDate>
+<title>第一批抢购iPhone Duo的人，已经后悔了？</title>
+<link>https://www.toutiao.com/article/7703700321961886223/</link>
+<guid isPermaLink="false">6e8c9196a07178533550d77529d33cd2</guid>
+<pubDate>Tue, 03 Nov 2026 06:12:50 +0800</pubDate>
 <category>头条推荐</category>
-<description>【头条推荐】头条·星辰大海路上的种花家</description>
+<description>【头条推荐】头条·财经早餐</description>
 </item>
 <item>
-<title>彭博社：五角大楼砸钱追赶廉价无人机，却卡在中国零部件和采购上</title>
-<link>https://www.toutiao.com/article/7703127292599484971/</link>
-<guid isPermaLink="false">3f7eda4a69881ff2d7f1858f63cb5b56</guid>
-<pubDate>Sun, 01 Nov 2026 23:42:16 +0800</pubDate>
+<title>Palantir Q3营收翻倍，美国商业收入首超政府收入，全年指引上调，但盘后下跌｜财报见闻</title>
+<link>https://www.toutiao.com/article/7703698528568328746/</link>
+<guid isPermaLink="false">835e0a6ae47483c65c2bb2b705494a5f</guid>
+<pubDate>Tue, 03 Nov 2026 06:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·华尔街见闻</description>
+</item>
+<item>
+<title>黑天鹅再次来袭，国际油价暴跌8%！美国科技股重挫！如何影响中国</title>
+<link>https://www.toutiao.com/article/7703681145447219775/</link>
+<guid isPermaLink="false">067286f205c5d86f7066b5e11232c6c1</guid>
+<pubDate>Tue, 03 Nov 2026 06:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·樱狼财经</description>
+</item>
+<item>
+<title>曾经日赚过万的同声传译，AI目前还取代不了</title>
+<link>https://www.toutiao.com/article/7703681991408960015/</link>
+<guid isPermaLink="false">0a04833f8d4874e3b811e2a080203b55</guid>
+<pubDate>Tue, 03 Nov 2026 05:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·南方周末</description>
+</item>
+<item>
+<title>轰20随时可能问世？美媒：美军已准备应对，装备落后解放军有代差</title>
+<link>https://www.toutiao.com/article/7703499542133473834/</link>
+<guid isPermaLink="false">c3062d1aef90563aa722e4e3f84bc50e</guid>
+<pubDate>Tue, 03 Nov 2026 05:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·东方点兵</description>
+</item>
+<item>
+<title>166家公司暴露ESG风险，多家银行分支机构业务违规同日被罚｜善择ESG风险跟踪第161期</title>
+<link>https://www.toutiao.com/article/7703670373488935465/</link>
+<guid isPermaLink="false">66236d890ae916f78208193091d0e449</guid>
+<pubDate>Tue, 03 Nov 2026 05:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·南方周末</description>
+</item>
+<item>
+<title>39岁赵丽颖高调官宣喜讯！难怪减少拍戏，原来走上章子怡老路了</title>
+<link>https://www.toutiao.com/article/7703484953136464426/</link>
+<guid isPermaLink="false">b93a935b41fedd037b427953d19cf927</guid>
+<pubDate>Tue, 03 Nov 2026 05:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·九州品史</description>
+</item>
+<item>
+<title>为美国袭击做准备？伊朗最高领袖下令：美以全部资产列入打击范围</title>
+<link>https://www.toutiao.com/article/7703524985960448547/</link>
+<guid isPermaLink="false">1e51f48c5c3532332eff58fb4aed47b9</guid>
+<pubDate>Tue, 03 Nov 2026 05:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·阶位观察</description>
+</item>
+<item>
+<title>国产GPU叫板英伟达H200：第三方实测领先5%，这场胜利多少含金量</title>
+<link>https://www.toutiao.com/article/7703623282292998719/</link>
+<guid isPermaLink="false">2044b49915c55948794f7ac55c092df6</guid>
+<pubDate>Tue, 03 Nov 2026 03:05:50 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】头条·人工智能学家</description>
 </item>
 <item>
-<title>“我告诉自己，这才是成熟的表现”</title>
-<link>https://www.toutiao.com/article/7702679751789462057/</link>
-<guid isPermaLink="false">2ce556d2c37685038eaeb7c0c9ec61d4</guid>
-<pubDate>Sat, 31 Oct 2026 09:42:16 +0800</pubDate>
+<title>请柬压到最后一刻，特奥多罗当面给中国难堪，却被9国防长打脸？</title>
+<link>https://www.toutiao.com/article/7703402181496177186/</link>
+<guid isPermaLink="false">cdf3a6b3eece765b9419c258a69da636</guid>
+<pubDate>Tue, 03 Nov 2026 03:05:50 +0800</pubDate>
 <category>头条推荐</category>
-<description>【头条推荐】头条·三联生活周刊</description>
+<description>【头条推荐】头条·精英人物志</description>
 </item>
 <item>
-<title>移民英国的中国父母，躲不开鸡娃的焦虑</title>
-<link>https://www.toutiao.com/article/7702352367827780147/</link>
-<guid isPermaLink="false">876d0e9ace65dc5b08dbcb010c3e065e</guid>
-<pubDate>Fri, 30 Oct 2026 09:42:16 +0800</pubDate>
+<title>印航母终于等来靠谱战机？上舰一次就成功，但印军的考验才刚开始</title>
+<link>https://www.toutiao.com/article/7703627441742365219/</link>
+<guid isPermaLink="false">284350919bc5958ddb3c63931324cd6a</guid>
+<pubDate>Tue, 03 Nov 2026 02:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·兵说</description>
+</item>
+<item>
+<title>领跑！中国披露歼20A与双座歼20S关键细节，五代机变身空中指挥官</title>
+<link>https://www.toutiao.com/article/7703505493507850779/</link>
+<guid isPermaLink="false">565aba84146f3567cc49b9cc6299e180</guid>
+<pubDate>Tue, 03 Nov 2026 00:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·人工智能学家</description>
+</item>
+<item>
+<title>DeepSeek发布AI超级代理，与OpenAI、Anthropologie展开编码竞赛</title>
+<link>https://www.toutiao.com/article/7703491576567317042/</link>
+<guid isPermaLink="false">d0eaa429f6cf9e05db7bce28f5823fcf</guid>
+<pubDate>Tue, 03 Nov 2026 00:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·人工智能学家</description>
+</item>
+<item>
+<title>AI资本开支见顶？高盛：拐点近了，AI正从“超级主题”变成“常规叙事”</title>
+<link>https://www.toutiao.com/article/7703578209513718291/</link>
+<guid isPermaLink="false">53630b74920dc8e6d35d28eaf29dce43</guid>
+<pubDate>Mon, 02 Nov 2026 23:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·华尔街见闻</description>
+</item>
+<item>
+<title>纸面参数超越052D，台军开造7000吨神盾舰，64垂发加激光炮</title>
+<link>https://www.toutiao.com/article/7703567041793507874/</link>
+<guid isPermaLink="false">be2275cdb2a972c27d3498a1e4d4cc77</guid>
+<pubDate>Mon, 02 Nov 2026 22:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·空天同学</description>
+</item>
+<item>
+<title>72Wh电池榨出27小时！REDMI Book 14 2027笔记本评测</title>
+<link>https://www.toutiao.com/article/7703548124475802150/</link>
+<guid isPermaLink="false">94a658ef7fdf4eccf3f4c3ccf54880a5</guid>
+<pubDate>Mon, 02 Nov 2026 21:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·快科技</description>
+</item>
+<item>
+<title>贯通2803 公里大通道，不抢平原车流，这条高速到底有啥用？</title>
+<link>https://www.toutiao.com/article/7703487906748432947/</link>
+<guid isPermaLink="false">d333c029a83ba3fe90be7da0408a89ce</guid>
+<pubDate>Mon, 02 Nov 2026 21:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·百科密码</description>
+</item>
+<item>
+<title>实力最豪横的防空“营”，光红旗9就有两种，红旗19之后是29？</title>
+<link>https://www.toutiao.com/article/7703521295740224063/</link>
+<guid isPermaLink="false">da76af723de6c4e03fc69219b824513e</guid>
+<pubDate>Mon, 02 Nov 2026 19:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·航空知识王亚男</description>
+</item>
+<item>
+<title>美团发1.6万亿参数新模型，通用Agent测试超Opus-5，国产芯特别优化</title>
+<link>https://www.toutiao.com/article/7703527683372483123/</link>
+<guid isPermaLink="false">052b1cb8827d8398d36ca651d1ae148b</guid>
+<pubDate>Mon, 02 Nov 2026 19:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·智东西</description>
+</item>
+<item>
+<title>服役4年才等到！阵风M在印航母完成首次起降，特供型还需时间打磨</title>
+<link>https://www.toutiao.com/article/7703512471969022507/</link>
+<guid isPermaLink="false">292bf56e6df57339d53f5b7c517ddd01</guid>
+<pubDate>Mon, 02 Nov 2026 18:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·航空知识王亚男</description>
+</item>
+<item>
+<title>内存太贵，前微软工程师直接让AI帮忙造！给1970年古董电脑扩容4MB RAM，成功跑起UNIX</title>
+<link>https://www.toutiao.com/article/7703504824284824098/</link>
+<guid isPermaLink="false">99828a8ad9f8b5e40f2ff24a9aaaba86</guid>
+<pubDate>Mon, 02 Nov 2026 18:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·CSDN</description>
+</item>
+<item>
+<title>美国人的生活账单，正在考验特朗普</title>
+<link>https://www.toutiao.com/article/7703507593473393178/</link>
+<guid isPermaLink="false">482d24298e75e216209caf7b3cc42687</guid>
+<pubDate>Mon, 02 Nov 2026 18:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·凤凰WEEKLY</description>
+</item>
+<item>
+<title>四川舰为啥和别人不一样?别人在旧船上凑合，中国弹射隐身无人机!</title>
+<link>https://www.toutiao.com/article/7703506047679480354/</link>
+<guid isPermaLink="false">ef81739cbb79042af20d01056efd7019</guid>
+<pubDate>Mon, 02 Nov 2026 18:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·王雨田观察室</description>
+</item>
+<item>
+<title>机器人登泰山大赛开赛，宇树机器人因过热中途退赛被担架抬下山，还蹲在路边“EMO”了一下</title>
+<link>https://www.toutiao.com/article/7703490245219631656/</link>
+<guid isPermaLink="false">b4007df80849b76bfc279b7c2a021fa7</guid>
+<pubDate>Mon, 02 Nov 2026 17:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·界面新闻</description>
+</item>
+<item>
+<title>美国公务机坠毁，场景如同导弹爆炸，距离特朗普府邸没多远</title>
+<link>https://www.toutiao.com/article/7703483574444261931/</link>
+<guid isPermaLink="false">be91d9a53c1f8f10d41b516bb5b7bc92</guid>
+<pubDate>Mon, 02 Nov 2026 17:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·儒雅随和老泰勒</description>
+</item>
+<item>
+<title>歼20A“驼背”藏玄机，给飞行员开透视，歼20S是名副其实的五代半</title>
+<link>https://www.toutiao.com/article/7703476716856967721/</link>
+<guid isPermaLink="false">81c5939a2d65a073d997bba263bd6079</guid>
+<pubDate>Mon, 02 Nov 2026 16:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·张学峰看空天</description>
+</item>
+<item>
+<title>吴婷：工业设计软件的国产时刻</title>
+<link>https://www.toutiao.com/article/7703466116710842918/</link>
+<guid isPermaLink="false">e325f6de0c3b64c005e42c2b8052bb35</guid>
+<pubDate>Mon, 02 Nov 2026 16:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·吴婷</description>
+</item>
+<item>
+<title>如果没有武侠、非遗和古建，《影之刃零》还能不能打？</title>
+<link>https://www.toutiao.com/article/7703481112990876214/</link>
+<guid isPermaLink="false">8d1c56e44a96a41ecf1944f09d4ed95f</guid>
+<pubDate>Mon, 02 Nov 2026 16:05:50 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】头条·南方周末</description>
 </item>
 <item>
-<title>055带队海警船并行过第一岛链，日本头一回公开，这信号不一般</title>
-<link>https://www.toutiao.com/article/7702278709381710371/</link>
-<guid isPermaLink="false">cfd61b0a15c16bd77ab72cbf9b9c03de</guid>
-<pubDate>Fri, 30 Oct 2026 09:42:16 +0800</pubDate>
+<title>美国太“客气”了：原地等中国11年，X-47B把优势拱手让给攻击-21</title>
+<link>https://www.toutiao.com/article/7703194697623175689/</link>
+<guid isPermaLink="false">b90d6629e37a61bc4725a70eb44f7a23</guid>
+<pubDate>Mon, 02 Nov 2026 15:05:50 +0800</pubDate>
 <category>头条推荐</category>
-<description>【头条推荐】头条·施涛说</description>
+<description>【头条推荐】头条·军武次位面</description>
 </item>
 <item>
-<title>专为惠普Z820工作站设计，台达850W碳化硅工作站电源拆解</title>
-<link>https://www.toutiao.com/article/7702277433701040667/</link>
-<guid isPermaLink="false">9a524424ec0ac60d3ff51bef6407eb82</guid>
-<pubDate>Fri, 30 Oct 2026 09:42:16 +0800</pubDate>
+<title>阵风M印度航母起降成功！虽然无法满油满弹，但依然可称霸印度洋</title>
+<link>https://www.toutiao.com/article/7703454098267390500/</link>
+<guid isPermaLink="false">899d098c756c08eb5f469fa7504a6cbc</guid>
+<pubDate>Mon, 02 Nov 2026 15:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·空天同学</description>
+</item>
+<item>
+<title>告别单点生成，WorkBuddy 如何让企业上下文跑起来</title>
+<link>https://www.toutiao.com/article/7703458211117957686/</link>
+<guid isPermaLink="false">2e51c6cfe2f305fff9c2e89c619a9b70</guid>
+<pubDate>Mon, 02 Nov 2026 15:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·硅星人</description>
+</item>
+<item>
+<title>中方已离席，18国未签联合公报，合影流程被取消，成员国爆发冲突</title>
+<link>https://www.toutiao.com/article/7703461119599362595/</link>
+<guid isPermaLink="false">8090059145afa37b114dcbfe855888d7</guid>
+<pubDate>Mon, 02 Nov 2026 15:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·雯云万象</description>
+</item>
+<item>
+<title>昔日耐克劲敌，在中国再次重启</title>
+<link>https://www.toutiao.com/article/7703460354990326323/</link>
+<guid isPermaLink="false">f9d58c6252bc2ba8720b5e44bf023941</guid>
+<pubDate>Mon, 02 Nov 2026 15:05:50 +0800</pubDate>
+<category>头条推荐</category>
+<description>【头条推荐】头条·36氪</description>
+</item>
+<item>
+<title>碳化硅高效方案设计，高斯宝电气850W直流服务器电源拆解</title>
+<link>https://www.toutiao.com/article/7703402787907863075/</link>
+<guid isPermaLink="false">6883bff6009cf8a1370ba571c82234e9</guid>
+<pubDate>Mon, 02 Nov 2026 15:05:50 +0800</pubDate>
 <category>头条推荐</category>
 <description>【头条推荐】头条·充电头网</description>
 </item>
 <item>
-<title>2辆11式+4辆08式：解放军一个排级“混编战斗群”能干什么？</title>
-<link>https://www.toutiao.com/article/7702379150266368521/</link>
-<guid isPermaLink="false">ba705e74d308b9e36771e9099d86eaa3</guid>
-<pubDate>Fri, 30 Oct 2026 09:42:16 +0800</pubDate>
+<title>日本历史遗毒是怎么污染中国方言数据库的？</title>
+<link>https://www.toutiao.com/article/7703438382466122267/</link>
+<guid isPermaLink="false">b9ad05c5dcf1a59a8c4b0384858e1e6e</guid>
+<pubDate>Mon, 02 Nov 2026 14:05:50 +0800</pubDate>
 <category>头条推荐</category>
-<description>【头条推荐】头条·下马的金雕</description>
+<description>【头条推荐】头条·乌鸦校尉</description>
 </item>
 <item>
-<title>绿色贷款高位减速：中行急追，无锡银行垫底｜2026年“金标杆”</title>
-<link>https://www.toutiao.com/article/7702414303957156361/</link>
-<guid isPermaLink="false">1e814339e033f15ba0b0974e5ea71879</guid>
-<pubDate>Fri, 30 Oct 2026 09:42:16 +0800</pubDate>
+<title>航空也有新能源：中国公布CE-25A纯电动客机，票价或不到200元？</title>
+<link>https://www.toutiao.com/article/7703194337718321691/</link>
+<guid isPermaLink="false">11135365474b3359f4eb62825a334767</guid>
+<pubDate>Mon, 02 Nov 2026 13:05:50 +0800</pubDate>
 <category>头条推荐</category>
-<description>【头条推荐】头条·南方周末</description>
+<description>【头条推荐】头条·军武次位面</description>
 </item>
 <item>
-<title>盘点2026互联网上那些“令人厌烦”的热词</title>
-<link>https://www.toutiao.com/article/7701944177689412138/</link>
-<guid isPermaLink="false">3c6c21aa7366b0a0b483defa38850136</guid>
-<pubDate>Thu, 29 Oct 2026 09:42:16 +0800</pubDate>
+<title>在座各位AI，都是“垃圾”</title>
+<link>https://www.toutiao.com/article/7703424103172047410/</link>
+<guid isPermaLink="false">d888d478a47c310ddf33f0776e946785</guid>
+<pubDate>Mon, 02 Nov 2026 13:05:50 +0800</pubDate>
 <category>头条推荐</category>
-<description>【头条推荐】头条·三联生活周刊</description>
-</item>
-<item>
-<title>印度人口世界第一，为什么每10架战斗机只有8个飞行员？</title>
-<link>https://www.toutiao.com/article/7701930491109081642/</link>
-<guid isPermaLink="false">e0854e4d7a136b5d74983baef5ddcabc</guid>
-<pubDate>Thu, 29 Oct 2026 09:42:16 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】头条·小飞猪谈飞机</description>
-</item>
-<item>
-<title>播放量破亿次全网刷屏：这首意外爆火的歌，何以唱哭无数人？</title>
-<link>https://www.toutiao.com/article/7701586241717420584/</link>
-<guid isPermaLink="false">7ff4236dc666ae8f979993f7a3f67ba8</guid>
-<pubDate>Wed, 28 Oct 2026 09:42:16 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】头条·三联生活周刊</description>
-</item>
-<item>
-<title>标准QSFP‑DD封装，HPE 800G AOC光模块拆解</title>
-<link>https://www.toutiao.com/article/7701527331323511306/</link>
-<guid isPermaLink="false">447eb85b6379ff49fde26af9aedfb6ff</guid>
-<pubDate>Wed, 28 Oct 2026 09:42:16 +0800</pubDate>
-<category>头条推荐</category>
-<description>【头条推荐】头条·充电头网</description>
+<description>【头条推荐】头条·36氪</description>
 </item>
 </channel></rss>
