@@ -1,7 +1,7 @@
 {
  "quota": {
   "ai": 9,
-  "military": 5,
+  "military": 6,
   "digital": 4,
   "finance": 4,
   "science": 3,
@@ -86,7 +86,7 @@
    "key": "military",
    "feeds": [
     {
-     "name": "The War Zone",
+     "name": "美国战区观察（The War Zone）",
      "url": "https://www.thedrive.com/the-war-zone/rss"
     },
     {
@@ -104,6 +104,10 @@
     {
      "name": "Breaking Defense",
      "url": "https://breakingdefense.com/feed/"
+    },
+    {
+     "name": "美国海军学会（USNI News）",
+     "url": "https://news.usni.org/feed"
     }
    ]
   },
